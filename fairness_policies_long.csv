@@ -1,0 +1,3728 @@
+respondent_id,ideology,gender,education,age_group,region,policy_code,fairness,policy_label
+1,7,2,6,4,4,s_15,2.0,Road Pricing
+2,5,1,6,2,5,s_15,2.0,Road Pricing
+3,2,1,2,1,1,s_15,4.0,Road Pricing
+4,3,2,5,6,4,s_15,4.0,Road Pricing
+5,2,2,2,1,3,s_15,3.0,Road Pricing
+6,6,2,4,3,3,s_15,1.0,Road Pricing
+7,3,2,8,3,3,s_15,2.0,Road Pricing
+8,5,1,5,4,4,s_15,3.0,Road Pricing
+9,6,2,5,3,4,s_15,3.0,Road Pricing
+10,3,1,6,3,1,s_15,5.0,Road Pricing
+11,3,2,6,6,5,s_15,5.0,Road Pricing
+12,6,1,5,3,1,s_15,4.0,Road Pricing
+13,1,1,5,3,3,s_15,4.0,Road Pricing
+14,8,1,8,3,4,s_15,4.0,Road Pricing
+15,7,2,6,5,1,s_15,5.0,Road Pricing
+16,2,2,8,6,1,s_15,1.0,Road Pricing
+17,7,2,5,6,1,s_15,4.0,Road Pricing
+18,6,2,2,5,5,s_15,1.0,Road Pricing
+19,6,1,2,3,2,s_15,4.0,Road Pricing
+20,2,2,5,6,2,s_15,3.0,Road Pricing
+21,2,2,8,5,5,s_15,4.0,Road Pricing
+22,4,1,5,3,2,s_15,3.0,Road Pricing
+23,4,2,1,2,5,s_15,3.0,Road Pricing
+24,1,1,5,6,3,s_15,5.0,Road Pricing
+25,3,2,4,5,4,s_15,5.0,Road Pricing
+26,6,1,4,3,5,s_15,1.0,Road Pricing
+27,6,1,5,3,5,s_15,3.0,Road Pricing
+29,6,1,2,2,3,s_15,1.0,Road Pricing
+30,8,2,5,3,4,s_15,2.0,Road Pricing
+32,6,2,4,3,4,s_15,1.0,Road Pricing
+33,3,2,6,6,4,s_15,4.0,Road Pricing
+34,3,1,5,6,4,s_15,4.0,Road Pricing
+35,7,2,4,3,5,s_15,1.0,Road Pricing
+36,3,2,5,6,1,s_15,3.0,Road Pricing
+37,3,2,1,6,2,s_15,4.0,Road Pricing
+38,6,2,6,5,4,s_15,4.0,Road Pricing
+39,8,1,5,5,4,s_15,4.0,Road Pricing
+40,6,1,4,2,4,s_15,3.0,Road Pricing
+41,2,2,4,6,1,s_15,5.0,Road Pricing
+42,8,1,2,3,1,s_15,1.0,Road Pricing
+43,4,2,4,3,1,s_15,4.0,Road Pricing
+44,2,2,6,3,1,s_15,3.0,Road Pricing
+45,3,1,2,5,5,s_15,4.0,Road Pricing
+46,1,1,2,3,1,s_15,4.0,Road Pricing
+47,2,1,8,4,3,s_15,3.0,Road Pricing
+48,5,1,1,1,4,s_15,1.0,Road Pricing
+50,2,2,2,2,1,s_15,4.0,Road Pricing
+51,6,2,2,2,2,s_15,3.0,Road Pricing
+52,5,1,6,2,1,s_15,3.0,Road Pricing
+53,9,2,6,4,3,s_15,4.0,Road Pricing
+54,2,1,5,2,2,s_15,1.0,Road Pricing
+55,6,1,5,6,2,s_15,4.0,Road Pricing
+56,6,2,4,2,3,s_15,5.0,Road Pricing
+57,11,2,4,5,2,s_15,2.0,Road Pricing
+59,3,2,5,2,3,s_15,1.0,Road Pricing
+60,6,2,4,4,3,s_15,3.0,Road Pricing
+61,6,1,1,1,1,s_15,2.0,Road Pricing
+62,6,2,4,2,3,s_15,3.0,Road Pricing
+63,9,1,5,4,2,s_15,3.0,Road Pricing
+64,7,1,2,2,1,s_15,3.0,Road Pricing
+65,6,2,4,3,3,s_15,4.0,Road Pricing
+66,2,2,5,4,4,s_15,3.0,Road Pricing
+68,10,2,5,5,5,s_15,1.0,Road Pricing
+69,4,2,6,4,1,s_15,4.0,Road Pricing
+70,2,1,6,2,1,s_15,4.0,Road Pricing
+71,6,2,1,5,3,s_15,3.0,Road Pricing
+73,5,1,5,4,2,s_15,2.0,Road Pricing
+75,2,2,1,5,1,s_15,5.0,Road Pricing
+76,3,1,6,3,4,s_15,3.0,Road Pricing
+77,2,2,5,6,1,s_15,3.0,Road Pricing
+79,6,1,6,3,3,s_15,3.0,Road Pricing
+80,2,1,5,6,1,s_15,4.0,Road Pricing
+81,5,1,6,2,1,s_15,4.0,Road Pricing
+83,6,2,5,4,2,s_15,3.0,Road Pricing
+84,5,2,6,4,1,s_15,4.0,Road Pricing
+85,2,2,8,3,3,s_15,5.0,Road Pricing
+86,6,2,6,6,1,s_15,1.0,Road Pricing
+87,4,1,5,6,1,s_15,2.0,Road Pricing
+88,2,1,4,6,5,s_15,4.0,Road Pricing
+89,5,1,5,3,3,s_15,4.0,Road Pricing
+90,2,2,6,3,1,s_15,5.0,Road Pricing
+92,6,1,4,5,2,s_15,3.0,Road Pricing
+93,10,1,5,2,4,s_15,2.0,Road Pricing
+94,7,1,8,5,5,s_15,4.0,Road Pricing
+95,6,2,5,5,3,s_15,1.0,Road Pricing
+96,10,2,4,5,5,s_15,1.0,Road Pricing
+97,2,2,8,6,4,s_15,4.0,Road Pricing
+98,11,2,4,4,2,s_15,1.0,Road Pricing
+99,5,1,4,5,4,s_15,5.0,Road Pricing
+100,5,2,5,6,1,s_15,3.0,Road Pricing
+101,1,2,4,6,4,s_15,4.0,Road Pricing
+102,5,1,5,6,1,s_15,5.0,Road Pricing
+103,3,1,2,2,4,s_15,2.0,Road Pricing
+104,3,2,4,3,4,s_15,4.0,Road Pricing
+105,3,2,5,3,1,s_15,2.0,Road Pricing
+106,8,2,2,3,1,s_15,4.0,Road Pricing
+107,4,1,5,6,1,s_15,5.0,Road Pricing
+108,3,1,6,6,3,s_15,5.0,Road Pricing
+109,4,2,5,2,3,s_15,2.0,Road Pricing
+110,6,2,1,6,4,s_15,2.0,Road Pricing
+111,2,1,2,5,3,s_15,4.0,Road Pricing
+112,4,1,5,5,3,s_15,4.0,Road Pricing
+113,3,2,2,6,1,s_15,1.0,Road Pricing
+114,5,3,6,1,3,s_15,2.0,Road Pricing
+115,6,1,2,1,3,s_15,3.0,Road Pricing
+116,10,1,5,4,4,s_15,4.0,Road Pricing
+117,1,1,5,6,3,s_15,4.0,Road Pricing
+118,6,2,5,1,5,s_15,2.0,Road Pricing
+119,3,1,5,6,3,s_15,4.0,Road Pricing
+120,6,1,2,3,3,s_15,3.0,Road Pricing
+121,5,2,6,2,1,s_15,3.0,Road Pricing
+123,2,2,6,3,1,s_15,5.0,Road Pricing
+124,6,2,2,3,1,s_15,3.0,Road Pricing
+125,4,2,4,2,3,s_15,4.0,Road Pricing
+126,1,2,6,4,3,s_15,3.0,Road Pricing
+127,2,1,5,5,2,s_15,1.0,Road Pricing
+128,3,1,5,4,1,s_15,3.0,Road Pricing
+129,7,1,6,2,1,s_15,4.0,Road Pricing
+130,4,1,5,5,2,s_15,2.0,Road Pricing
+132,3,2,5,6,1,s_15,5.0,Road Pricing
+133,6,1,5,3,1,s_15,2.0,Road Pricing
+134,6,1,4,2,4,s_15,4.0,Road Pricing
+135,2,1,2,1,3,s_15,4.0,Road Pricing
+137,8,1,4,5,2,s_15,2.0,Road Pricing
+138,2,1,2,3,1,s_15,4.0,Road Pricing
+139,6,1,8,4,3,s_15,3.0,Road Pricing
+140,8,1,4,5,2,s_15,1.0,Road Pricing
+141,4,2,5,4,3,s_15,3.0,Road Pricing
+142,2,1,6,2,1,s_15,4.0,Road Pricing
+143,1,1,2,6,2,s_15,5.0,Road Pricing
+144,5,2,5,6,3,s_15,3.0,Road Pricing
+145,4,1,2,6,5,s_15,4.0,Road Pricing
+146,6,1,4,3,5,s_15,2.0,Road Pricing
+147,2,2,6,2,1,s_15,4.0,Road Pricing
+148,2,2,1,1,1,s_15,4.0,Road Pricing
+149,2,2,2,5,1,s_15,5.0,Road Pricing
+150,2,2,4,3,1,s_15,5.0,Road Pricing
+151,3,1,5,5,2,s_15,2.0,Road Pricing
+152,3,2,8,2,2,s_15,2.0,Road Pricing
+153,3,2,8,4,5,s_15,4.0,Road Pricing
+154,6,1,4,4,4,s_15,4.0,Road Pricing
+155,8,2,5,5,3,s_15,3.0,Road Pricing
+156,5,1,2,1,4,s_15,3.0,Road Pricing
+158,6,1,2,1,3,s_15,3.0,Road Pricing
+159,10,2,1,4,3,s_15,2.0,Road Pricing
+160,5,1,8,6,3,s_15,4.0,Road Pricing
+161,6,2,5,3,1,s_15,2.0,Road Pricing
+162,3,1,8,5,4,s_15,4.0,Road Pricing
+163,6,1,5,5,4,s_15,2.0,Road Pricing
+164,8,1,6,2,1,s_15,2.0,Road Pricing
+165,2,1,5,4,4,s_15,2.0,Road Pricing
+166,3,3,1,2,4,s_15,2.0,Road Pricing
+167,2,2,5,4,1,s_15,3.0,Road Pricing
+168,5,2,5,2,2,s_15,4.0,Road Pricing
+169,5,1,6,2,1,s_15,3.0,Road Pricing
+170,2,1,6,6,2,s_15,1.0,Road Pricing
+171,2,1,5,3,1,s_15,4.0,Road Pricing
+172,6,1,6,4,1,s_15,4.0,Road Pricing
+173,2,1,6,2,3,s_15,3.0,Road Pricing
+174,4,1,6,2,1,s_15,2.0,Road Pricing
+175,9,1,5,6,2,s_15,5.0,Road Pricing
+176,11,2,4,4,4,s_15,2.0,Road Pricing
+177,6,2,8,2,1,s_15,3.0,Road Pricing
+178,9,2,6,6,3,s_15,2.0,Road Pricing
+179,5,1,2,1,1,s_15,1.0,Road Pricing
+180,5,1,5,6,2,s_15,4.0,Road Pricing
+181,7,1,6,4,4,s_15,2.0,Road Pricing
+182,7,2,6,5,5,s_15,1.0,Road Pricing
+183,2,2,6,6,1,s_15,5.0,Road Pricing
+184,2,2,4,6,4,s_15,4.0,Road Pricing
+185,3,1,5,5,3,s_15,2.0,Road Pricing
+186,5,2,4,3,2,s_15,2.0,Road Pricing
+187,6,1,5,2,3,s_15,3.0,Road Pricing
+188,2,2,6,2,1,s_15,5.0,Road Pricing
+189,2,1,6,5,5,s_15,3.0,Road Pricing
+190,2,2,6,4,1,s_15,4.0,Road Pricing
+191,4,1,6,6,4,s_15,3.0,Road Pricing
+192,2,1,5,4,1,s_15,3.0,Road Pricing
+193,6,2,4,2,4,s_15,1.0,Road Pricing
+194,6,2,2,1,1,s_15,2.0,Road Pricing
+195,6,1,4,2,1,s_15,3.0,Road Pricing
+196,5,1,6,4,1,s_15,3.0,Road Pricing
+198,5,1,8,5,1,s_15,5.0,Road Pricing
+200,6,1,8,2,4,s_15,1.0,Road Pricing
+201,3,2,2,2,3,s_15,4.0,Road Pricing
+202,9,2,8,2,2,s_15,4.0,Road Pricing
+203,4,2,6,6,5,s_15,4.0,Road Pricing
+204,4,2,4,6,5,s_15,3.0,Road Pricing
+205,2,1,5,3,4,s_15,3.0,Road Pricing
+206,5,1,8,5,3,s_15,4.0,Road Pricing
+207,6,1,1,1,1,s_15,5.0,Road Pricing
+208,1,1,1,1,1,s_15,5.0,Road Pricing
+209,5,2,2,4,1,s_15,4.0,Road Pricing
+210,5,1,4,4,1,s_15,3.0,Road Pricing
+211,9,2,1,1,5,s_15,2.0,Road Pricing
+212,10,2,8,4,2,s_15,1.0,Road Pricing
+213,3,2,5,6,3,s_15,5.0,Road Pricing
+214,7,2,5,5,4,s_15,4.0,Road Pricing
+215,3,2,4,5,4,s_15,1.0,Road Pricing
+216,3,2,5,3,1,s_15,3.0,Road Pricing
+217,3,1,5,2,1,s_15,3.0,Road Pricing
+218,6,1,5,6,3,s_15,1.0,Road Pricing
+220,2,1,6,6,1,s_15,2.0,Road Pricing
+221,9,2,2,1,1,s_15,2.0,Road Pricing
+222,2,1,5,6,5,s_15,3.0,Road Pricing
+223,6,1,5,6,3,s_15,5.0,Road Pricing
+224,4,1,6,3,4,s_15,3.0,Road Pricing
+225,3,1,5,4,1,s_15,3.0,Road Pricing
+226,6,1,6,5,1,s_15,4.0,Road Pricing
+227,2,1,5,6,5,s_15,4.0,Road Pricing
+228,6,1,4,5,4,s_15,4.0,Road Pricing
+231,10,2,5,1,1,s_15,3.0,Road Pricing
+232,7,2,4,4,2,s_15,3.0,Road Pricing
+233,9,2,4,6,2,s_15,4.0,Road Pricing
+234,9,2,6,6,4,s_15,2.0,Road Pricing
+235,3,1,8,6,1,s_15,5.0,Road Pricing
+236,6,1,6,2,4,s_15,1.0,Road Pricing
+237,3,2,6,2,1,s_15,5.0,Road Pricing
+238,4,2,2,1,4,s_15,2.0,Road Pricing
+240,6,1,5,6,1,s_15,4.0,Road Pricing
+241,6,1,6,2,2,s_15,2.0,Road Pricing
+242,6,1,6,2,2,s_15,3.0,Road Pricing
+243,6,2,4,5,5,s_15,2.0,Road Pricing
+244,6,1,5,6,1,s_15,4.0,Road Pricing
+245,3,2,5,4,1,s_15,4.0,Road Pricing
+246,9,1,6,6,3,s_15,2.0,Road Pricing
+247,4,1,2,1,3,s_15,3.0,Road Pricing
+249,5,1,5,4,1,s_15,3.0,Road Pricing
+250,8,1,6,2,4,s_15,2.0,Road Pricing
+251,7,2,4,3,4,s_15,2.0,Road Pricing
+252,9,2,6,4,3,s_15,2.0,Road Pricing
+253,2,1,6,2,1,s_15,3.0,Road Pricing
+254,9,2,8,4,1,s_15,2.0,Road Pricing
+255,6,1,8,5,2,s_15,3.0,Road Pricing
+256,8,2,2,5,1,s_15,4.0,Road Pricing
+257,2,2,5,5,4,s_15,4.0,Road Pricing
+258,3,1,5,6,5,s_15,5.0,Road Pricing
+259,5,1,8,5,1,s_15,2.0,Road Pricing
+260,6,1,1,4,3,s_15,4.0,Road Pricing
+261,6,1,8,4,5,s_15,2.0,Road Pricing
+262,1,2,6,4,1,s_15,5.0,Road Pricing
+263,7,2,2,4,1,s_15,1.0,Road Pricing
+264,2,1,5,6,3,s_15,4.0,Road Pricing
+265,6,1,4,3,1,s_15,3.0,Road Pricing
+266,6,2,5,2,4,s_15,3.0,Road Pricing
+267,4,1,2,2,1,s_15,3.0,Road Pricing
+268,2,2,5,6,2,s_15,4.0,Road Pricing
+269,6,2,8,5,1,s_15,4.0,Road Pricing
+270,3,1,8,1,1,s_15,2.0,Road Pricing
+271,6,1,2,1,4,s_15,1.0,Road Pricing
+272,6,1,8,6,3,s_15,2.0,Road Pricing
+273,7,2,5,4,1,s_15,3.0,Road Pricing
+274,5,2,6,6,3,s_15,4.0,Road Pricing
+275,2,2,2,1,1,s_15,3.0,Road Pricing
+276,1,1,1,2,1,s_15,2.0,Road Pricing
+277,3,1,8,1,1,s_15,3.0,Road Pricing
+278,5,1,5,5,1,s_15,4.0,Road Pricing
+279,2,2,5,3,2,s_15,4.0,Road Pricing
+281,6,2,4,4,2,s_15,2.0,Road Pricing
+282,5,1,1,1,2,s_15,4.0,Road Pricing
+283,8,1,5,5,2,s_15,5.0,Road Pricing
+284,3,2,8,6,4,s_15,4.0,Road Pricing
+285,7,1,5,3,3,s_15,3.0,Road Pricing
+286,6,2,4,6,1,s_15,2.0,Road Pricing
+287,2,2,4,3,1,s_15,4.0,Road Pricing
+288,4,2,5,3,2,s_15,2.0,Road Pricing
+289,7,2,5,6,1,s_15,1.0,Road Pricing
+290,5,2,6,6,4,s_15,5.0,Road Pricing
+291,8,2,5,6,4,s_15,2.0,Road Pricing
+292,9,1,2,1,1,s_15,2.0,Road Pricing
+293,4,2,4,4,4,s_15,2.0,Road Pricing
+294,3,1,8,6,1,s_15,4.0,Road Pricing
+296,3,1,5,6,1,s_15,4.0,Road Pricing
+297,2,2,6,4,4,s_15,4.0,Road Pricing
+298,1,2,2,1,4,s_15,4.0,Road Pricing
+299,6,3,8,3,3,s_15,4.0,Road Pricing
+300,3,1,6,6,1,s_15,3.0,Road Pricing
+301,3,2,8,2,4,s_15,3.0,Road Pricing
+302,9,1,5,6,4,s_15,4.0,Road Pricing
+303,2,1,5,4,4,s_15,3.0,Road Pricing
+304,2,2,4,2,4,s_15,2.0,Road Pricing
+305,10,2,5,6,3,s_15,4.0,Road Pricing
+306,10,2,6,6,2,s_15,1.0,Road Pricing
+307,4,2,2,2,4,s_15,3.0,Road Pricing
+308,8,1,5,1,1,s_15,2.0,Road Pricing
+309,3,2,8,6,4,s_15,3.0,Road Pricing
+310,6,2,5,5,2,s_15,4.0,Road Pricing
+311,6,1,5,6,1,s_15,5.0,Road Pricing
+312,2,1,4,6,1,s_15,4.0,Road Pricing
+1,7,2,6,4,4,s_16,2.0,Carbon Tax
+3,2,1,2,1,1,s_16,4.0,Carbon Tax
+4,3,2,5,6,4,s_16,3.0,Carbon Tax
+5,2,2,2,1,3,s_16,5.0,Carbon Tax
+6,6,2,4,3,3,s_16,1.0,Carbon Tax
+7,3,2,8,3,3,s_16,1.0,Carbon Tax
+8,5,1,5,4,4,s_16,1.0,Carbon Tax
+9,6,2,5,3,4,s_16,3.0,Carbon Tax
+10,3,1,6,3,1,s_16,5.0,Carbon Tax
+11,3,2,6,6,5,s_16,3.0,Carbon Tax
+12,6,1,5,3,1,s_16,3.0,Carbon Tax
+13,1,1,5,3,3,s_16,4.0,Carbon Tax
+14,8,1,8,3,4,s_16,4.0,Carbon Tax
+15,7,2,6,5,1,s_16,3.0,Carbon Tax
+16,2,2,8,6,1,s_16,1.0,Carbon Tax
+17,7,2,5,6,1,s_16,4.0,Carbon Tax
+18,6,2,2,5,5,s_16,1.0,Carbon Tax
+19,6,1,2,3,2,s_16,4.0,Carbon Tax
+20,2,2,5,6,2,s_16,4.0,Carbon Tax
+21,2,2,8,5,5,s_16,3.0,Carbon Tax
+22,4,1,5,3,2,s_16,4.0,Carbon Tax
+23,4,2,1,2,5,s_16,4.0,Carbon Tax
+24,1,1,5,6,3,s_16,5.0,Carbon Tax
+25,3,2,4,5,4,s_16,4.0,Carbon Tax
+26,6,1,4,3,5,s_16,2.0,Carbon Tax
+27,6,1,5,3,5,s_16,3.0,Carbon Tax
+28,2,2,8,6,3,s_16,4.0,Carbon Tax
+30,8,2,5,3,4,s_16,2.0,Carbon Tax
+31,3,1,8,6,4,s_16,4.0,Carbon Tax
+32,6,2,4,3,4,s_16,1.0,Carbon Tax
+33,3,2,6,6,4,s_16,4.0,Carbon Tax
+34,3,1,5,6,4,s_16,2.0,Carbon Tax
+35,7,2,4,3,5,s_16,1.0,Carbon Tax
+36,3,2,5,6,1,s_16,3.0,Carbon Tax
+37,3,2,1,6,2,s_16,4.0,Carbon Tax
+38,6,2,6,5,4,s_16,3.0,Carbon Tax
+39,8,1,5,5,4,s_16,5.0,Carbon Tax
+41,2,2,4,6,1,s_16,5.0,Carbon Tax
+42,8,1,2,3,1,s_16,3.0,Carbon Tax
+43,4,2,4,3,1,s_16,2.0,Carbon Tax
+44,2,2,6,3,1,s_16,3.0,Carbon Tax
+45,3,1,2,5,5,s_16,4.0,Carbon Tax
+46,1,1,2,3,1,s_16,2.0,Carbon Tax
+47,2,1,8,4,3,s_16,4.0,Carbon Tax
+49,6,2,6,2,4,s_16,4.0,Carbon Tax
+50,2,2,2,2,1,s_16,4.0,Carbon Tax
+51,6,2,2,2,2,s_16,3.0,Carbon Tax
+52,5,1,6,2,1,s_16,4.0,Carbon Tax
+53,9,2,6,4,3,s_16,2.0,Carbon Tax
+54,2,1,5,2,2,s_16,1.0,Carbon Tax
+55,6,1,5,6,2,s_16,5.0,Carbon Tax
+56,6,2,4,2,3,s_16,5.0,Carbon Tax
+57,11,2,4,5,2,s_16,4.0,Carbon Tax
+58,6,2,2,1,1,s_16,4.0,Carbon Tax
+59,3,2,5,2,3,s_16,3.0,Carbon Tax
+60,6,2,4,4,3,s_16,4.0,Carbon Tax
+61,6,1,1,1,1,s_16,2.0,Carbon Tax
+62,6,2,4,2,3,s_16,2.0,Carbon Tax
+63,9,1,5,4,2,s_16,4.0,Carbon Tax
+64,7,1,2,2,1,s_16,4.0,Carbon Tax
+65,6,2,4,3,3,s_16,5.0,Carbon Tax
+66,2,2,5,4,4,s_16,4.0,Carbon Tax
+68,10,2,5,5,5,s_16,2.0,Carbon Tax
+69,4,2,6,4,1,s_16,4.0,Carbon Tax
+70,2,1,6,2,1,s_16,4.0,Carbon Tax
+71,6,2,1,5,3,s_16,4.0,Carbon Tax
+72,1,3,1,1,2,s_16,5.0,Carbon Tax
+73,5,1,5,4,2,s_16,3.0,Carbon Tax
+75,2,2,1,5,1,s_16,5.0,Carbon Tax
+76,3,1,6,3,4,s_16,4.0,Carbon Tax
+78,5,2,4,3,3,s_16,3.0,Carbon Tax
+79,6,1,6,3,3,s_16,4.0,Carbon Tax
+80,2,1,5,6,1,s_16,3.0,Carbon Tax
+81,5,1,6,2,1,s_16,4.0,Carbon Tax
+82,3,1,5,1,4,s_16,4.0,Carbon Tax
+83,6,2,5,4,2,s_16,3.0,Carbon Tax
+84,5,2,6,4,1,s_16,4.0,Carbon Tax
+85,2,2,8,3,3,s_16,3.0,Carbon Tax
+86,6,2,6,6,1,s_16,3.0,Carbon Tax
+87,4,1,5,6,1,s_16,2.0,Carbon Tax
+88,2,1,4,6,5,s_16,2.0,Carbon Tax
+89,5,1,5,3,3,s_16,4.0,Carbon Tax
+90,2,2,6,3,1,s_16,5.0,Carbon Tax
+92,6,1,4,5,2,s_16,3.0,Carbon Tax
+93,10,1,5,2,4,s_16,4.0,Carbon Tax
+94,7,1,8,5,5,s_16,4.0,Carbon Tax
+95,6,2,5,5,3,s_16,3.0,Carbon Tax
+96,10,2,4,5,5,s_16,3.0,Carbon Tax
+97,2,2,8,6,4,s_16,4.0,Carbon Tax
+98,11,2,4,4,2,s_16,1.0,Carbon Tax
+99,5,1,4,5,4,s_16,5.0,Carbon Tax
+100,5,2,5,6,1,s_16,3.0,Carbon Tax
+101,1,2,4,6,4,s_16,4.0,Carbon Tax
+102,5,1,5,6,1,s_16,4.0,Carbon Tax
+103,3,1,2,2,4,s_16,3.0,Carbon Tax
+104,3,2,4,3,4,s_16,4.0,Carbon Tax
+106,8,2,2,3,1,s_16,4.0,Carbon Tax
+107,4,1,5,6,1,s_16,4.0,Carbon Tax
+108,3,1,6,6,3,s_16,5.0,Carbon Tax
+109,4,2,5,2,3,s_16,5.0,Carbon Tax
+110,6,2,1,6,4,s_16,3.0,Carbon Tax
+111,2,1,2,5,3,s_16,3.0,Carbon Tax
+112,4,1,5,5,3,s_16,4.0,Carbon Tax
+113,3,2,2,6,1,s_16,5.0,Carbon Tax
+114,5,3,6,1,3,s_16,5.0,Carbon Tax
+116,10,1,5,4,4,s_16,3.0,Carbon Tax
+117,1,1,5,6,3,s_16,4.0,Carbon Tax
+118,6,2,5,1,5,s_16,3.0,Carbon Tax
+119,3,1,5,6,3,s_16,3.0,Carbon Tax
+120,6,1,2,3,3,s_16,3.0,Carbon Tax
+121,5,2,6,2,1,s_16,5.0,Carbon Tax
+122,2,2,2,1,3,s_16,5.0,Carbon Tax
+123,2,2,6,3,1,s_16,5.0,Carbon Tax
+124,6,2,2,3,1,s_16,2.0,Carbon Tax
+125,4,2,4,2,3,s_16,3.0,Carbon Tax
+126,1,2,6,4,3,s_16,5.0,Carbon Tax
+127,2,1,5,5,2,s_16,2.0,Carbon Tax
+128,3,1,5,4,1,s_16,3.0,Carbon Tax
+130,4,1,5,5,2,s_16,3.0,Carbon Tax
+132,3,2,5,6,1,s_16,4.0,Carbon Tax
+133,6,1,5,3,1,s_16,2.0,Carbon Tax
+134,6,1,4,2,4,s_16,3.0,Carbon Tax
+135,2,1,2,1,3,s_16,1.0,Carbon Tax
+136,5,1,6,2,1,s_16,4.0,Carbon Tax
+137,8,1,4,5,2,s_16,1.0,Carbon Tax
+138,2,1,2,3,1,s_16,4.0,Carbon Tax
+139,6,1,8,4,3,s_16,3.0,Carbon Tax
+140,8,1,4,5,2,s_16,2.0,Carbon Tax
+141,4,2,5,4,3,s_16,1.0,Carbon Tax
+142,2,1,6,2,1,s_16,4.0,Carbon Tax
+143,1,1,2,6,2,s_16,5.0,Carbon Tax
+144,5,2,5,6,3,s_16,3.0,Carbon Tax
+145,4,1,2,6,5,s_16,3.0,Carbon Tax
+146,6,1,4,3,5,s_16,3.0,Carbon Tax
+147,2,2,6,2,1,s_16,4.0,Carbon Tax
+148,2,2,1,1,1,s_16,1.0,Carbon Tax
+149,2,2,2,5,1,s_16,5.0,Carbon Tax
+150,2,2,4,3,1,s_16,4.0,Carbon Tax
+151,3,1,5,5,2,s_16,3.0,Carbon Tax
+152,3,2,8,2,2,s_16,3.0,Carbon Tax
+153,3,2,8,4,5,s_16,3.0,Carbon Tax
+154,6,1,4,4,4,s_16,4.0,Carbon Tax
+155,8,2,5,5,3,s_16,4.0,Carbon Tax
+156,5,1,2,1,4,s_16,3.0,Carbon Tax
+157,2,1,6,3,1,s_16,4.0,Carbon Tax
+158,6,1,2,1,3,s_16,3.0,Carbon Tax
+159,10,2,1,4,3,s_16,1.0,Carbon Tax
+160,5,1,8,6,3,s_16,3.0,Carbon Tax
+161,6,2,5,3,1,s_16,3.0,Carbon Tax
+162,3,1,8,5,4,s_16,3.0,Carbon Tax
+164,8,1,6,2,1,s_16,3.0,Carbon Tax
+165,2,1,5,4,4,s_16,2.0,Carbon Tax
+166,3,3,1,2,4,s_16,3.0,Carbon Tax
+167,2,2,5,4,1,s_16,2.0,Carbon Tax
+168,5,2,5,2,2,s_16,4.0,Carbon Tax
+169,5,1,6,2,1,s_16,5.0,Carbon Tax
+170,2,1,6,6,2,s_16,1.0,Carbon Tax
+171,2,1,5,3,1,s_16,4.0,Carbon Tax
+173,2,1,6,2,3,s_16,4.0,Carbon Tax
+174,4,1,6,2,1,s_16,4.0,Carbon Tax
+175,9,1,5,6,2,s_16,3.0,Carbon Tax
+176,11,2,4,4,4,s_16,2.0,Carbon Tax
+177,6,2,8,2,1,s_16,3.0,Carbon Tax
+178,9,2,6,6,3,s_16,4.0,Carbon Tax
+179,5,1,2,1,1,s_16,2.0,Carbon Tax
+180,5,1,5,6,2,s_16,2.0,Carbon Tax
+182,7,2,6,5,5,s_16,1.0,Carbon Tax
+183,2,2,6,6,1,s_16,4.0,Carbon Tax
+184,2,2,4,6,4,s_16,2.0,Carbon Tax
+185,3,1,5,5,3,s_16,2.0,Carbon Tax
+186,5,2,4,3,2,s_16,2.0,Carbon Tax
+188,2,2,6,2,1,s_16,5.0,Carbon Tax
+189,2,1,6,5,5,s_16,3.0,Carbon Tax
+190,2,2,6,4,1,s_16,4.0,Carbon Tax
+191,4,1,6,6,4,s_16,3.0,Carbon Tax
+192,2,1,5,4,1,s_16,4.0,Carbon Tax
+193,6,2,4,2,4,s_16,4.0,Carbon Tax
+194,6,2,2,1,1,s_16,3.0,Carbon Tax
+195,6,1,4,2,1,s_16,3.0,Carbon Tax
+196,5,1,6,4,1,s_16,4.0,Carbon Tax
+198,5,1,8,5,1,s_16,5.0,Carbon Tax
+199,3,2,2,2,1,s_16,3.0,Carbon Tax
+200,6,1,8,2,4,s_16,1.0,Carbon Tax
+201,3,2,2,2,3,s_16,5.0,Carbon Tax
+202,9,2,8,2,2,s_16,1.0,Carbon Tax
+203,4,2,6,6,5,s_16,4.0,Carbon Tax
+204,4,2,4,6,5,s_16,4.0,Carbon Tax
+205,2,1,5,3,4,s_16,3.0,Carbon Tax
+206,5,1,8,5,3,s_16,4.0,Carbon Tax
+207,6,1,1,1,1,s_16,5.0,Carbon Tax
+208,1,1,1,1,1,s_16,5.0,Carbon Tax
+209,5,2,2,4,1,s_16,4.0,Carbon Tax
+210,5,1,4,4,1,s_16,4.0,Carbon Tax
+211,9,2,1,1,5,s_16,4.0,Carbon Tax
+212,10,2,8,4,2,s_16,3.0,Carbon Tax
+213,3,2,5,6,3,s_16,3.0,Carbon Tax
+214,7,2,5,5,4,s_16,3.0,Carbon Tax
+215,3,2,4,5,4,s_16,2.0,Carbon Tax
+216,3,2,5,3,1,s_16,4.0,Carbon Tax
+217,3,1,5,2,1,s_16,4.0,Carbon Tax
+218,6,1,5,6,3,s_16,4.0,Carbon Tax
+220,2,1,6,6,1,s_16,1.0,Carbon Tax
+221,9,2,2,1,1,s_16,1.0,Carbon Tax
+222,2,1,5,6,5,s_16,3.0,Carbon Tax
+223,6,1,5,6,3,s_16,5.0,Carbon Tax
+224,4,1,6,3,4,s_16,4.0,Carbon Tax
+225,3,1,5,4,1,s_16,4.0,Carbon Tax
+226,6,1,6,5,1,s_16,4.0,Carbon Tax
+227,2,1,5,6,5,s_16,5.0,Carbon Tax
+228,6,1,4,5,4,s_16,4.0,Carbon Tax
+229,8,2,6,4,3,s_16,5.0,Carbon Tax
+231,10,2,5,1,1,s_16,1.0,Carbon Tax
+232,7,2,4,4,2,s_16,4.0,Carbon Tax
+233,9,2,4,6,2,s_16,2.0,Carbon Tax
+234,9,2,6,6,4,s_16,4.0,Carbon Tax
+235,3,1,8,6,1,s_16,4.0,Carbon Tax
+236,6,1,6,2,4,s_16,1.0,Carbon Tax
+237,3,2,6,2,1,s_16,5.0,Carbon Tax
+238,4,2,2,1,4,s_16,4.0,Carbon Tax
+239,2,2,6,2,4,s_16,4.0,Carbon Tax
+240,6,1,5,6,1,s_16,5.0,Carbon Tax
+242,6,1,6,2,2,s_16,3.0,Carbon Tax
+243,6,2,4,5,5,s_16,4.0,Carbon Tax
+244,6,1,5,6,1,s_16,4.0,Carbon Tax
+245,3,2,5,4,1,s_16,4.0,Carbon Tax
+246,9,1,6,6,3,s_16,1.0,Carbon Tax
+247,4,1,2,1,3,s_16,4.0,Carbon Tax
+248,3,2,1,1,3,s_16,5.0,Carbon Tax
+249,5,1,5,4,1,s_16,3.0,Carbon Tax
+250,8,1,6,2,4,s_16,3.0,Carbon Tax
+251,7,2,4,3,4,s_16,1.0,Carbon Tax
+252,9,2,6,4,3,s_16,3.0,Carbon Tax
+253,2,1,6,2,1,s_16,5.0,Carbon Tax
+254,9,2,8,4,1,s_16,4.0,Carbon Tax
+255,6,1,8,5,2,s_16,4.0,Carbon Tax
+256,8,2,2,5,1,s_16,4.0,Carbon Tax
+257,2,2,5,5,4,s_16,4.0,Carbon Tax
+258,3,1,5,6,5,s_16,4.0,Carbon Tax
+259,5,1,8,5,1,s_16,3.0,Carbon Tax
+260,6,1,1,4,3,s_16,4.0,Carbon Tax
+261,6,1,8,4,5,s_16,3.0,Carbon Tax
+262,1,2,6,4,1,s_16,5.0,Carbon Tax
+263,7,2,2,4,1,s_16,2.0,Carbon Tax
+264,2,1,5,6,3,s_16,5.0,Carbon Tax
+265,6,1,4,3,1,s_16,3.0,Carbon Tax
+266,6,2,5,2,4,s_16,3.0,Carbon Tax
+267,4,1,2,2,1,s_16,2.0,Carbon Tax
+268,2,2,5,6,2,s_16,4.0,Carbon Tax
+269,6,2,8,5,1,s_16,4.0,Carbon Tax
+270,3,1,8,1,1,s_16,3.0,Carbon Tax
+272,6,1,8,6,3,s_16,2.0,Carbon Tax
+273,7,2,5,4,1,s_16,3.0,Carbon Tax
+274,5,2,6,6,3,s_16,4.0,Carbon Tax
+275,2,2,2,1,1,s_16,3.0,Carbon Tax
+277,3,1,8,1,1,s_16,4.0,Carbon Tax
+278,5,1,5,5,1,s_16,4.0,Carbon Tax
+279,2,2,5,3,2,s_16,4.0,Carbon Tax
+280,6,1,6,5,1,s_16,4.0,Carbon Tax
+281,6,2,4,4,2,s_16,3.0,Carbon Tax
+282,5,1,1,1,2,s_16,4.0,Carbon Tax
+283,8,1,5,5,2,s_16,3.0,Carbon Tax
+284,3,2,8,6,4,s_16,3.0,Carbon Tax
+285,7,1,5,3,3,s_16,2.0,Carbon Tax
+286,6,2,4,6,1,s_16,3.0,Carbon Tax
+287,2,2,4,3,1,s_16,4.0,Carbon Tax
+288,4,2,5,3,2,s_16,1.0,Carbon Tax
+289,7,2,5,6,1,s_16,3.0,Carbon Tax
+290,5,2,6,6,4,s_16,5.0,Carbon Tax
+291,8,2,5,6,4,s_16,3.0,Carbon Tax
+292,9,1,2,1,1,s_16,3.0,Carbon Tax
+293,4,2,4,4,4,s_16,3.0,Carbon Tax
+296,3,1,5,6,1,s_16,4.0,Carbon Tax
+297,2,2,6,4,4,s_16,4.0,Carbon Tax
+298,1,2,2,1,4,s_16,5.0,Carbon Tax
+299,6,3,8,3,3,s_16,1.0,Carbon Tax
+300,3,1,6,6,1,s_16,5.0,Carbon Tax
+301,3,2,8,2,4,s_16,1.0,Carbon Tax
+303,2,1,5,4,4,s_16,3.0,Carbon Tax
+304,2,2,4,2,4,s_16,3.0,Carbon Tax
+305,10,2,5,6,3,s_16,3.0,Carbon Tax
+306,10,2,6,6,2,s_16,1.0,Carbon Tax
+307,4,2,2,2,4,s_16,5.0,Carbon Tax
+308,8,1,5,1,1,s_16,4.0,Carbon Tax
+309,3,2,8,6,4,s_16,4.0,Carbon Tax
+310,6,2,5,5,2,s_16,4.0,Carbon Tax
+311,6,1,5,6,1,s_16,4.0,Carbon Tax
+312,2,1,4,6,1,s_16,4.0,Carbon Tax
+1,7,2,6,4,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+3,2,1,2,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+4,3,2,5,6,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+5,2,2,2,1,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+6,6,2,4,3,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+7,3,2,8,3,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+8,5,1,5,4,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+9,6,2,5,3,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+10,3,1,6,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+11,3,2,6,6,5,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+12,6,1,5,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+13,1,1,5,3,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+14,8,1,8,3,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+15,7,2,6,5,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+16,2,2,8,6,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+17,7,2,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+18,6,2,2,5,5,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+19,6,1,2,3,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+20,2,2,5,6,2,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+21,2,2,8,5,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+22,4,1,5,3,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+23,4,2,1,2,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+24,1,1,5,6,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+25,3,2,4,5,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+26,6,1,4,3,5,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+27,6,1,5,3,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+28,2,2,8,6,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+29,6,1,2,2,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+30,8,2,5,3,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+32,6,2,4,3,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+33,3,2,6,6,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+34,3,1,5,6,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+35,7,2,4,3,5,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+36,3,2,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+38,6,2,6,5,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+39,8,1,5,5,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+40,6,1,4,2,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+41,2,2,4,6,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+42,8,1,2,3,1,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+43,4,2,4,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+44,2,2,6,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+45,3,1,2,5,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+46,1,1,2,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+47,2,1,8,4,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+48,5,1,1,1,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+49,6,2,6,2,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+50,2,2,2,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+51,6,2,2,2,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+52,5,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+53,9,2,6,4,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+54,2,1,5,2,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+55,6,1,5,6,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+56,6,2,4,2,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+57,11,2,4,5,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+58,6,2,2,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+59,3,2,5,2,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+60,6,2,4,4,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+61,6,1,1,1,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+62,6,2,4,2,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+63,9,1,5,4,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+64,7,1,2,2,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+65,6,2,4,3,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+66,2,2,5,4,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+67,3,1,1,6,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+68,10,2,5,5,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+69,4,2,6,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+70,2,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+71,6,2,1,5,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+73,5,1,5,4,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+75,2,2,1,5,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+76,3,1,6,3,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+77,2,2,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+78,5,2,4,3,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+79,6,1,6,3,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+80,2,1,5,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+81,5,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+82,3,1,5,1,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+83,6,2,5,4,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+84,5,2,6,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+85,2,2,8,3,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+86,6,2,6,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+87,4,1,5,6,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+88,2,1,4,6,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+89,5,1,5,3,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+90,2,2,6,3,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+91,8,1,2,1,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+92,6,1,4,5,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+93,10,1,5,2,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+94,7,1,8,5,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+95,6,2,5,5,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+96,10,2,4,5,5,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+97,2,2,8,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+98,11,2,4,4,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+99,5,1,4,5,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+100,5,2,5,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+101,1,2,4,6,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+102,5,1,5,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+103,3,1,2,2,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+104,3,2,4,3,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+105,3,2,5,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+106,8,2,2,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+107,4,1,5,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+108,3,1,6,6,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+109,4,2,5,2,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+110,6,2,1,6,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+111,2,1,2,5,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+112,4,1,5,5,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+113,3,2,2,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+114,5,3,6,1,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+116,10,1,5,4,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+117,1,1,5,6,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+118,6,2,5,1,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+119,3,1,5,6,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+120,6,1,2,3,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+121,5,2,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+122,2,2,2,1,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+123,2,2,6,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+124,6,2,2,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+125,4,2,4,2,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+126,1,2,6,4,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+127,2,1,5,5,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+128,3,1,5,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+130,4,1,5,5,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+131,5,1,6,2,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+132,3,2,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+133,6,1,5,3,1,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+134,6,1,4,2,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+135,2,1,2,1,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+136,5,1,6,2,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+137,8,1,4,5,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+139,6,1,8,4,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+140,8,1,4,5,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+141,4,2,5,4,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+142,2,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+143,1,1,2,6,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+144,5,2,5,6,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+145,4,1,2,6,5,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+146,6,1,4,3,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+148,2,2,1,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+149,2,2,2,5,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+150,2,2,4,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+151,3,1,5,5,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+152,3,2,8,2,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+153,3,2,8,4,5,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+154,6,1,4,4,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+155,8,2,5,5,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+156,5,1,2,1,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+157,2,1,6,3,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+158,6,1,2,1,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+159,10,2,1,4,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+160,5,1,8,6,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+161,6,2,5,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+162,3,1,8,5,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+163,6,1,5,5,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+165,2,1,5,4,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+166,3,3,1,2,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+167,2,2,5,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+168,5,2,5,2,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+169,5,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+170,2,1,6,6,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+171,2,1,5,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+172,6,1,6,4,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+173,2,1,6,2,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+174,4,1,6,2,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+175,9,1,5,6,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+176,11,2,4,4,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+177,6,2,8,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+178,9,2,6,6,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+179,5,1,2,1,1,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+180,5,1,5,6,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+181,7,1,6,4,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+182,7,2,6,5,5,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+183,2,2,6,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+184,2,2,4,6,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+185,3,1,5,5,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+186,5,2,4,3,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+187,6,1,5,2,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+188,2,2,6,2,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+189,2,1,6,5,5,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+191,4,1,6,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+192,2,1,5,4,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+194,6,2,2,1,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+195,6,1,4,2,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+196,5,1,6,4,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+197,3,1,2,1,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+198,5,1,8,5,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+199,3,2,2,2,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+200,6,1,8,2,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+201,3,2,2,2,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+202,9,2,8,2,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+203,4,2,6,6,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+204,4,2,4,6,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+205,2,1,5,3,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+206,5,1,8,5,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+207,6,1,1,1,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+209,5,2,2,4,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+210,5,1,4,4,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+211,9,2,1,1,5,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+212,10,2,8,4,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+213,3,2,5,6,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+214,7,2,5,5,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+215,3,2,4,5,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+216,3,2,5,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+217,3,1,5,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+218,6,1,5,6,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+220,2,1,6,6,1,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+221,9,2,2,1,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+222,2,1,5,6,5,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+223,6,1,5,6,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+224,4,1,6,3,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+225,3,1,5,4,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+226,6,1,6,5,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+227,2,1,5,6,5,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+228,6,1,4,5,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+229,8,2,6,4,3,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+231,10,2,5,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+232,7,2,4,4,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+233,9,2,4,6,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+234,9,2,6,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+235,3,1,8,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+236,6,1,6,2,4,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+237,3,2,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+238,4,2,2,1,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+239,2,2,6,2,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+240,6,1,5,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+241,6,1,6,2,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+242,6,1,6,2,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+243,6,2,4,5,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+244,6,1,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+245,3,2,5,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+246,9,1,6,6,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+247,4,1,2,1,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+248,3,2,1,1,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+249,5,1,5,4,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+250,8,1,6,2,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+251,7,2,4,3,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+252,9,2,6,4,3,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+253,2,1,6,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+254,9,2,8,4,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+255,6,1,8,5,2,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+256,8,2,2,5,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+257,2,2,5,5,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+258,3,1,5,6,5,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+259,5,1,8,5,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+260,6,1,1,4,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+261,6,1,8,4,5,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+262,1,2,6,4,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+263,7,2,2,4,1,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+264,2,1,5,6,3,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+265,6,1,4,3,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+266,6,2,5,2,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+267,4,1,2,2,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+268,2,2,5,6,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+269,6,2,8,5,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+270,3,1,8,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+272,6,1,8,6,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+273,7,2,5,4,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+274,5,2,6,6,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+275,2,2,2,1,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+276,1,1,1,2,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+277,3,1,8,1,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+278,5,1,5,5,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+279,2,2,5,3,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+280,6,1,6,5,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+281,6,2,4,4,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+282,5,1,1,1,2,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+283,8,1,5,5,2,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+284,3,2,8,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+285,7,1,5,3,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+286,6,2,4,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+287,2,2,4,3,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+288,4,2,5,3,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+289,7,2,5,6,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+290,5,2,6,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+291,8,2,5,6,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+292,9,1,2,1,1,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+293,4,2,4,4,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+294,3,1,8,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+295,6,1,5,2,2,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+296,3,1,5,6,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+297,2,2,6,4,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+299,6,3,8,3,3,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+300,3,1,6,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+301,3,2,8,2,4,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+302,9,1,5,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+303,2,1,5,4,4,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+304,2,2,4,2,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+305,10,2,5,6,3,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+306,10,2,6,6,2,s_17,1.0,Vehicle Costs (Fuel Economy Standards)
+307,4,2,2,2,4,s_17,2.0,Vehicle Costs (Fuel Economy Standards)
+308,8,1,5,1,1,s_17,3.0,Vehicle Costs (Fuel Economy Standards)
+309,3,2,8,6,4,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+310,6,2,5,5,2,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+311,6,1,5,6,1,s_17,5.0,Vehicle Costs (Fuel Economy Standards)
+312,2,1,4,6,1,s_17,4.0,Vehicle Costs (Fuel Economy Standards)
+1,7,2,6,4,4,s_18,2.0,Emissions Trading (Companies)
+3,2,1,2,1,1,s_18,3.0,Emissions Trading (Companies)
+4,3,2,5,6,4,s_18,2.0,Emissions Trading (Companies)
+5,2,2,2,1,3,s_18,2.0,Emissions Trading (Companies)
+6,6,2,4,3,3,s_18,2.0,Emissions Trading (Companies)
+7,3,2,8,3,3,s_18,1.0,Emissions Trading (Companies)
+9,6,2,5,3,4,s_18,3.0,Emissions Trading (Companies)
+11,3,2,6,6,5,s_18,3.0,Emissions Trading (Companies)
+12,6,1,5,3,1,s_18,4.0,Emissions Trading (Companies)
+14,8,1,8,3,4,s_18,3.0,Emissions Trading (Companies)
+15,7,2,6,5,1,s_18,5.0,Emissions Trading (Companies)
+16,2,2,8,6,1,s_18,1.0,Emissions Trading (Companies)
+17,7,2,5,6,1,s_18,2.0,Emissions Trading (Companies)
+18,6,2,2,5,5,s_18,1.0,Emissions Trading (Companies)
+19,6,1,2,3,2,s_18,3.0,Emissions Trading (Companies)
+21,2,2,8,5,5,s_18,2.0,Emissions Trading (Companies)
+22,4,1,5,3,2,s_18,4.0,Emissions Trading (Companies)
+23,4,2,1,2,5,s_18,3.0,Emissions Trading (Companies)
+25,3,2,4,5,4,s_18,4.0,Emissions Trading (Companies)
+26,6,1,4,3,5,s_18,3.0,Emissions Trading (Companies)
+27,6,1,5,3,5,s_18,3.0,Emissions Trading (Companies)
+30,8,2,5,3,4,s_18,3.0,Emissions Trading (Companies)
+32,6,2,4,3,4,s_18,1.0,Emissions Trading (Companies)
+33,3,2,6,6,4,s_18,2.0,Emissions Trading (Companies)
+34,3,1,5,6,4,s_18,3.0,Emissions Trading (Companies)
+35,7,2,4,3,5,s_18,3.0,Emissions Trading (Companies)
+36,3,2,5,6,1,s_18,1.0,Emissions Trading (Companies)
+38,6,2,6,5,4,s_18,2.0,Emissions Trading (Companies)
+39,8,1,5,5,4,s_18,5.0,Emissions Trading (Companies)
+40,6,1,4,2,4,s_18,3.0,Emissions Trading (Companies)
+41,2,2,4,6,1,s_18,3.0,Emissions Trading (Companies)
+42,8,1,2,3,1,s_18,1.0,Emissions Trading (Companies)
+43,4,2,4,3,1,s_18,4.0,Emissions Trading (Companies)
+44,2,2,6,3,1,s_18,3.0,Emissions Trading (Companies)
+45,3,1,2,5,5,s_18,3.0,Emissions Trading (Companies)
+46,1,1,2,3,1,s_18,2.0,Emissions Trading (Companies)
+47,2,1,8,4,3,s_18,3.0,Emissions Trading (Companies)
+49,6,2,6,2,4,s_18,2.0,Emissions Trading (Companies)
+50,2,2,2,2,1,s_18,4.0,Emissions Trading (Companies)
+51,6,2,2,2,2,s_18,3.0,Emissions Trading (Companies)
+52,5,1,6,2,1,s_18,5.0,Emissions Trading (Companies)
+53,9,2,6,4,3,s_18,2.0,Emissions Trading (Companies)
+54,2,1,5,2,2,s_18,1.0,Emissions Trading (Companies)
+55,6,1,5,6,2,s_18,3.0,Emissions Trading (Companies)
+56,6,2,4,2,3,s_18,5.0,Emissions Trading (Companies)
+57,11,2,4,5,2,s_18,3.0,Emissions Trading (Companies)
+58,6,2,2,1,1,s_18,3.0,Emissions Trading (Companies)
+59,3,2,5,2,3,s_18,3.0,Emissions Trading (Companies)
+60,6,2,4,4,3,s_18,2.0,Emissions Trading (Companies)
+61,6,1,1,1,1,s_18,4.0,Emissions Trading (Companies)
+63,9,1,5,4,2,s_18,3.0,Emissions Trading (Companies)
+64,7,1,2,2,1,s_18,3.0,Emissions Trading (Companies)
+65,6,2,4,3,3,s_18,2.0,Emissions Trading (Companies)
+66,2,2,5,4,4,s_18,4.0,Emissions Trading (Companies)
+68,10,2,5,5,5,s_18,2.0,Emissions Trading (Companies)
+69,4,2,6,4,1,s_18,3.0,Emissions Trading (Companies)
+70,2,1,6,2,1,s_18,4.0,Emissions Trading (Companies)
+71,6,2,1,5,3,s_18,4.0,Emissions Trading (Companies)
+73,5,1,5,4,2,s_18,4.0,Emissions Trading (Companies)
+75,2,2,1,5,1,s_18,2.0,Emissions Trading (Companies)
+76,3,1,6,3,4,s_18,3.0,Emissions Trading (Companies)
+77,2,2,5,6,1,s_18,3.0,Emissions Trading (Companies)
+79,6,1,6,3,3,s_18,3.0,Emissions Trading (Companies)
+80,2,1,5,6,1,s_18,4.0,Emissions Trading (Companies)
+83,6,2,5,4,2,s_18,2.0,Emissions Trading (Companies)
+84,5,2,6,4,1,s_18,4.0,Emissions Trading (Companies)
+86,6,2,6,6,1,s_18,2.0,Emissions Trading (Companies)
+87,4,1,5,6,1,s_18,2.0,Emissions Trading (Companies)
+88,2,1,4,6,5,s_18,2.0,Emissions Trading (Companies)
+89,5,1,5,3,3,s_18,3.0,Emissions Trading (Companies)
+90,2,2,6,3,1,s_18,3.0,Emissions Trading (Companies)
+91,8,1,2,1,4,s_18,3.0,Emissions Trading (Companies)
+92,6,1,4,5,2,s_18,3.0,Emissions Trading (Companies)
+93,10,1,5,2,4,s_18,2.0,Emissions Trading (Companies)
+94,7,1,8,5,5,s_18,4.0,Emissions Trading (Companies)
+95,6,2,5,5,3,s_18,1.0,Emissions Trading (Companies)
+96,10,2,4,5,5,s_18,1.0,Emissions Trading (Companies)
+97,2,2,8,6,4,s_18,3.0,Emissions Trading (Companies)
+98,11,2,4,4,2,s_18,3.0,Emissions Trading (Companies)
+99,5,1,4,5,4,s_18,5.0,Emissions Trading (Companies)
+100,5,2,5,6,1,s_18,1.0,Emissions Trading (Companies)
+101,1,2,4,6,4,s_18,2.0,Emissions Trading (Companies)
+102,5,1,5,6,1,s_18,3.0,Emissions Trading (Companies)
+104,3,2,4,3,4,s_18,4.0,Emissions Trading (Companies)
+106,8,2,2,3,1,s_18,2.0,Emissions Trading (Companies)
+107,4,1,5,6,1,s_18,3.0,Emissions Trading (Companies)
+108,3,1,6,6,3,s_18,1.0,Emissions Trading (Companies)
+109,4,2,5,2,3,s_18,4.0,Emissions Trading (Companies)
+110,6,2,1,6,4,s_18,3.0,Emissions Trading (Companies)
+111,2,1,2,5,3,s_18,3.0,Emissions Trading (Companies)
+112,4,1,5,5,3,s_18,3.0,Emissions Trading (Companies)
+113,3,2,2,6,1,s_18,1.0,Emissions Trading (Companies)
+114,5,3,6,1,3,s_18,5.0,Emissions Trading (Companies)
+116,10,1,5,4,4,s_18,3.0,Emissions Trading (Companies)
+117,1,1,5,6,3,s_18,1.0,Emissions Trading (Companies)
+119,3,1,5,6,3,s_18,4.0,Emissions Trading (Companies)
+120,6,1,2,3,3,s_18,3.0,Emissions Trading (Companies)
+121,5,2,6,2,1,s_18,4.0,Emissions Trading (Companies)
+123,2,2,6,3,1,s_18,2.0,Emissions Trading (Companies)
+124,6,2,2,3,1,s_18,2.0,Emissions Trading (Companies)
+125,4,2,4,2,3,s_18,4.0,Emissions Trading (Companies)
+126,1,2,6,4,3,s_18,1.0,Emissions Trading (Companies)
+127,2,1,5,5,2,s_18,3.0,Emissions Trading (Companies)
+128,3,1,5,4,1,s_18,3.0,Emissions Trading (Companies)
+130,4,1,5,5,2,s_18,3.0,Emissions Trading (Companies)
+132,3,2,5,6,1,s_18,2.0,Emissions Trading (Companies)
+133,6,1,5,3,1,s_18,1.0,Emissions Trading (Companies)
+134,6,1,4,2,4,s_18,3.0,Emissions Trading (Companies)
+135,2,1,2,1,3,s_18,4.0,Emissions Trading (Companies)
+136,5,1,6,2,1,s_18,3.0,Emissions Trading (Companies)
+139,6,1,8,4,3,s_18,3.0,Emissions Trading (Companies)
+141,4,2,5,4,3,s_18,2.0,Emissions Trading (Companies)
+142,2,1,6,2,1,s_18,4.0,Emissions Trading (Companies)
+143,1,1,2,6,2,s_18,1.0,Emissions Trading (Companies)
+144,5,2,5,6,3,s_18,2.0,Emissions Trading (Companies)
+145,4,1,2,6,5,s_18,3.0,Emissions Trading (Companies)
+147,2,2,6,2,1,s_18,1.0,Emissions Trading (Companies)
+148,2,2,1,1,1,s_18,1.0,Emissions Trading (Companies)
+150,2,2,4,3,1,s_18,3.0,Emissions Trading (Companies)
+151,3,1,5,5,2,s_18,3.0,Emissions Trading (Companies)
+152,3,2,8,2,2,s_18,4.0,Emissions Trading (Companies)
+153,3,2,8,4,5,s_18,3.0,Emissions Trading (Companies)
+154,6,1,4,4,4,s_18,4.0,Emissions Trading (Companies)
+155,8,2,5,5,3,s_18,4.0,Emissions Trading (Companies)
+156,5,1,2,1,4,s_18,4.0,Emissions Trading (Companies)
+157,2,1,6,3,1,s_18,2.0,Emissions Trading (Companies)
+158,6,1,2,1,3,s_18,4.0,Emissions Trading (Companies)
+159,10,2,1,4,3,s_18,1.0,Emissions Trading (Companies)
+160,5,1,8,6,3,s_18,3.0,Emissions Trading (Companies)
+161,6,2,5,3,1,s_18,3.0,Emissions Trading (Companies)
+162,3,1,8,5,4,s_18,3.0,Emissions Trading (Companies)
+165,2,1,5,4,4,s_18,2.0,Emissions Trading (Companies)
+166,3,3,1,2,4,s_18,3.0,Emissions Trading (Companies)
+167,2,2,5,4,1,s_18,3.0,Emissions Trading (Companies)
+168,5,2,5,2,2,s_18,4.0,Emissions Trading (Companies)
+170,2,1,6,6,2,s_18,1.0,Emissions Trading (Companies)
+171,2,1,5,3,1,s_18,3.0,Emissions Trading (Companies)
+172,6,1,6,4,1,s_18,2.0,Emissions Trading (Companies)
+173,2,1,6,2,3,s_18,2.0,Emissions Trading (Companies)
+174,4,1,6,2,1,s_18,2.0,Emissions Trading (Companies)
+175,9,1,5,6,2,s_18,3.0,Emissions Trading (Companies)
+176,11,2,4,4,4,s_18,3.0,Emissions Trading (Companies)
+177,6,2,8,2,1,s_18,3.0,Emissions Trading (Companies)
+178,9,2,6,6,3,s_18,3.0,Emissions Trading (Companies)
+179,5,1,2,1,1,s_18,3.0,Emissions Trading (Companies)
+180,5,1,5,6,2,s_18,4.0,Emissions Trading (Companies)
+181,7,1,6,4,4,s_18,2.0,Emissions Trading (Companies)
+182,7,2,6,5,5,s_18,1.0,Emissions Trading (Companies)
+183,2,2,6,6,1,s_18,4.0,Emissions Trading (Companies)
+185,3,1,5,5,3,s_18,2.0,Emissions Trading (Companies)
+186,5,2,4,3,2,s_18,1.0,Emissions Trading (Companies)
+187,6,1,5,2,3,s_18,3.0,Emissions Trading (Companies)
+188,2,2,6,2,1,s_18,5.0,Emissions Trading (Companies)
+189,2,1,6,5,5,s_18,3.0,Emissions Trading (Companies)
+191,4,1,6,6,4,s_18,3.0,Emissions Trading (Companies)
+192,2,1,5,4,1,s_18,3.0,Emissions Trading (Companies)
+194,6,2,2,1,1,s_18,3.0,Emissions Trading (Companies)
+195,6,1,4,2,1,s_18,3.0,Emissions Trading (Companies)
+196,5,1,6,4,1,s_18,3.0,Emissions Trading (Companies)
+198,5,1,8,5,1,s_18,3.0,Emissions Trading (Companies)
+199,3,2,2,2,1,s_18,4.0,Emissions Trading (Companies)
+200,6,1,8,2,4,s_18,3.0,Emissions Trading (Companies)
+201,3,2,2,2,3,s_18,5.0,Emissions Trading (Companies)
+202,9,2,8,2,2,s_18,3.0,Emissions Trading (Companies)
+203,4,2,6,6,5,s_18,3.0,Emissions Trading (Companies)
+204,4,2,4,6,5,s_18,4.0,Emissions Trading (Companies)
+205,2,1,5,3,4,s_18,3.0,Emissions Trading (Companies)
+206,5,1,8,5,3,s_18,1.0,Emissions Trading (Companies)
+207,6,1,1,1,1,s_18,5.0,Emissions Trading (Companies)
+208,1,1,1,1,1,s_18,4.0,Emissions Trading (Companies)
+209,5,2,2,4,1,s_18,3.0,Emissions Trading (Companies)
+210,5,1,4,4,1,s_18,3.0,Emissions Trading (Companies)
+211,9,2,1,1,5,s_18,4.0,Emissions Trading (Companies)
+212,10,2,8,4,2,s_18,1.0,Emissions Trading (Companies)
+213,3,2,5,6,3,s_18,2.0,Emissions Trading (Companies)
+215,3,2,4,5,4,s_18,1.0,Emissions Trading (Companies)
+216,3,2,5,3,1,s_18,4.0,Emissions Trading (Companies)
+217,3,1,5,2,1,s_18,3.0,Emissions Trading (Companies)
+218,6,1,5,6,3,s_18,3.0,Emissions Trading (Companies)
+220,2,1,6,6,1,s_18,3.0,Emissions Trading (Companies)
+221,9,2,2,1,1,s_18,3.0,Emissions Trading (Companies)
+222,2,1,5,6,5,s_18,4.0,Emissions Trading (Companies)
+224,4,1,6,3,4,s_18,1.0,Emissions Trading (Companies)
+225,3,1,5,4,1,s_18,2.0,Emissions Trading (Companies)
+226,6,1,6,5,1,s_18,4.0,Emissions Trading (Companies)
+227,2,1,5,6,5,s_18,3.0,Emissions Trading (Companies)
+228,6,1,4,5,4,s_18,1.0,Emissions Trading (Companies)
+229,8,2,6,4,3,s_18,4.0,Emissions Trading (Companies)
+231,10,2,5,1,1,s_18,5.0,Emissions Trading (Companies)
+232,7,2,4,4,2,s_18,2.0,Emissions Trading (Companies)
+233,9,2,4,6,2,s_18,3.0,Emissions Trading (Companies)
+234,9,2,6,6,4,s_18,3.0,Emissions Trading (Companies)
+236,6,1,6,2,4,s_18,1.0,Emissions Trading (Companies)
+240,6,1,5,6,1,s_18,4.0,Emissions Trading (Companies)
+241,6,1,6,2,2,s_18,3.0,Emissions Trading (Companies)
+242,6,1,6,2,2,s_18,3.0,Emissions Trading (Companies)
+243,6,2,4,5,5,s_18,4.0,Emissions Trading (Companies)
+244,6,1,5,6,1,s_18,3.0,Emissions Trading (Companies)
+245,3,2,5,4,1,s_18,1.0,Emissions Trading (Companies)
+246,9,1,6,6,3,s_18,4.0,Emissions Trading (Companies)
+248,3,2,1,1,3,s_18,3.0,Emissions Trading (Companies)
+249,5,1,5,4,1,s_18,3.0,Emissions Trading (Companies)
+250,8,1,6,2,4,s_18,3.0,Emissions Trading (Companies)
+251,7,2,4,3,4,s_18,2.0,Emissions Trading (Companies)
+252,9,2,6,4,3,s_18,4.0,Emissions Trading (Companies)
+253,2,1,6,2,1,s_18,2.0,Emissions Trading (Companies)
+254,9,2,8,4,1,s_18,2.0,Emissions Trading (Companies)
+255,6,1,8,5,2,s_18,1.0,Emissions Trading (Companies)
+256,8,2,2,5,1,s_18,1.0,Emissions Trading (Companies)
+257,2,2,5,5,4,s_18,2.0,Emissions Trading (Companies)
+258,3,1,5,6,5,s_18,2.0,Emissions Trading (Companies)
+259,5,1,8,5,1,s_18,2.0,Emissions Trading (Companies)
+260,6,1,1,4,3,s_18,4.0,Emissions Trading (Companies)
+261,6,1,8,4,5,s_18,3.0,Emissions Trading (Companies)
+262,1,2,6,4,1,s_18,2.0,Emissions Trading (Companies)
+263,7,2,2,4,1,s_18,2.0,Emissions Trading (Companies)
+264,2,1,5,6,3,s_18,4.0,Emissions Trading (Companies)
+265,6,1,4,3,1,s_18,3.0,Emissions Trading (Companies)
+266,6,2,5,2,4,s_18,1.0,Emissions Trading (Companies)
+267,4,1,2,2,1,s_18,2.0,Emissions Trading (Companies)
+268,2,2,5,6,2,s_18,4.0,Emissions Trading (Companies)
+269,6,2,8,5,1,s_18,2.0,Emissions Trading (Companies)
+270,3,1,8,1,1,s_18,3.0,Emissions Trading (Companies)
+272,6,1,8,6,3,s_18,3.0,Emissions Trading (Companies)
+273,7,2,5,4,1,s_18,2.0,Emissions Trading (Companies)
+274,5,2,6,6,3,s_18,3.0,Emissions Trading (Companies)
+275,2,2,2,1,1,s_18,3.0,Emissions Trading (Companies)
+277,3,1,8,1,1,s_18,4.0,Emissions Trading (Companies)
+278,5,1,5,5,1,s_18,4.0,Emissions Trading (Companies)
+279,2,2,5,3,2,s_18,4.0,Emissions Trading (Companies)
+280,6,1,6,5,1,s_18,4.0,Emissions Trading (Companies)
+281,6,2,4,4,2,s_18,3.0,Emissions Trading (Companies)
+282,5,1,1,1,2,s_18,4.0,Emissions Trading (Companies)
+283,8,1,5,5,2,s_18,4.0,Emissions Trading (Companies)
+284,3,2,8,6,4,s_18,1.0,Emissions Trading (Companies)
+285,7,1,5,3,3,s_18,2.0,Emissions Trading (Companies)
+286,6,2,4,6,1,s_18,2.0,Emissions Trading (Companies)
+289,7,2,5,6,1,s_18,3.0,Emissions Trading (Companies)
+290,5,2,6,6,4,s_18,2.0,Emissions Trading (Companies)
+291,8,2,5,6,4,s_18,4.0,Emissions Trading (Companies)
+292,9,1,2,1,1,s_18,3.0,Emissions Trading (Companies)
+293,4,2,4,4,4,s_18,4.0,Emissions Trading (Companies)
+294,3,1,8,6,1,s_18,3.0,Emissions Trading (Companies)
+296,3,1,5,6,1,s_18,3.0,Emissions Trading (Companies)
+297,2,2,6,4,4,s_18,3.0,Emissions Trading (Companies)
+299,6,3,8,3,3,s_18,4.0,Emissions Trading (Companies)
+300,3,1,6,6,1,s_18,2.0,Emissions Trading (Companies)
+301,3,2,8,2,4,s_18,4.0,Emissions Trading (Companies)
+302,9,1,5,6,4,s_18,3.0,Emissions Trading (Companies)
+303,2,1,5,4,4,s_18,3.0,Emissions Trading (Companies)
+304,2,2,4,2,4,s_18,3.0,Emissions Trading (Companies)
+305,10,2,5,6,3,s_18,3.0,Emissions Trading (Companies)
+306,10,2,6,6,2,s_18,2.0,Emissions Trading (Companies)
+307,4,2,2,2,4,s_18,5.0,Emissions Trading (Companies)
+308,8,1,5,1,1,s_18,4.0,Emissions Trading (Companies)
+309,3,2,8,6,4,s_18,2.0,Emissions Trading (Companies)
+310,6,2,5,5,2,s_18,1.0,Emissions Trading (Companies)
+311,6,1,5,6,1,s_18,2.0,Emissions Trading (Companies)
+312,2,1,4,6,1,s_18,3.0,Emissions Trading (Companies)
+1,7,2,6,4,4,s_19,3.0,Electric Vehicle Incentives
+3,2,1,2,1,1,s_19,5.0,Electric Vehicle Incentives
+4,3,2,5,6,4,s_19,2.0,Electric Vehicle Incentives
+5,2,2,2,1,3,s_19,3.0,Electric Vehicle Incentives
+6,6,2,4,3,3,s_19,2.0,Electric Vehicle Incentives
+7,3,2,8,3,3,s_19,3.0,Electric Vehicle Incentives
+8,5,1,5,4,4,s_19,3.0,Electric Vehicle Incentives
+9,6,2,5,3,4,s_19,4.0,Electric Vehicle Incentives
+10,3,1,6,3,1,s_19,5.0,Electric Vehicle Incentives
+11,3,2,6,6,5,s_19,4.0,Electric Vehicle Incentives
+12,6,1,5,3,1,s_19,4.0,Electric Vehicle Incentives
+14,8,1,8,3,4,s_19,2.0,Electric Vehicle Incentives
+15,7,2,6,5,1,s_19,3.0,Electric Vehicle Incentives
+16,2,2,8,6,1,s_19,2.0,Electric Vehicle Incentives
+17,7,2,5,6,1,s_19,3.0,Electric Vehicle Incentives
+18,6,2,2,5,5,s_19,1.0,Electric Vehicle Incentives
+19,6,1,2,3,2,s_19,4.0,Electric Vehicle Incentives
+20,2,2,5,6,2,s_19,5.0,Electric Vehicle Incentives
+21,2,2,8,5,5,s_19,4.0,Electric Vehicle Incentives
+22,4,1,5,3,2,s_19,4.0,Electric Vehicle Incentives
+23,4,2,1,2,5,s_19,3.0,Electric Vehicle Incentives
+24,1,1,5,6,3,s_19,2.0,Electric Vehicle Incentives
+25,3,2,4,5,4,s_19,4.0,Electric Vehicle Incentives
+26,6,1,4,3,5,s_19,2.0,Electric Vehicle Incentives
+27,6,1,5,3,5,s_19,3.0,Electric Vehicle Incentives
+29,6,1,2,2,3,s_19,3.0,Electric Vehicle Incentives
+30,8,2,5,3,4,s_19,2.0,Electric Vehicle Incentives
+32,6,2,4,3,4,s_19,1.0,Electric Vehicle Incentives
+33,3,2,6,6,4,s_19,5.0,Electric Vehicle Incentives
+34,3,1,5,6,4,s_19,4.0,Electric Vehicle Incentives
+35,7,2,4,3,5,s_19,3.0,Electric Vehicle Incentives
+36,3,2,5,6,1,s_19,4.0,Electric Vehicle Incentives
+37,3,2,1,6,2,s_19,4.0,Electric Vehicle Incentives
+38,6,2,6,5,4,s_19,4.0,Electric Vehicle Incentives
+39,8,1,5,5,4,s_19,3.0,Electric Vehicle Incentives
+40,6,1,4,2,4,s_19,3.0,Electric Vehicle Incentives
+41,2,2,4,6,1,s_19,4.0,Electric Vehicle Incentives
+42,8,1,2,3,1,s_19,1.0,Electric Vehicle Incentives
+43,4,2,4,3,1,s_19,2.0,Electric Vehicle Incentives
+44,2,2,6,3,1,s_19,3.0,Electric Vehicle Incentives
+45,3,1,2,5,5,s_19,4.0,Electric Vehicle Incentives
+46,1,1,2,3,1,s_19,2.0,Electric Vehicle Incentives
+47,2,1,8,4,3,s_19,5.0,Electric Vehicle Incentives
+48,5,1,1,1,4,s_19,1.0,Electric Vehicle Incentives
+49,6,2,6,2,4,s_19,3.0,Electric Vehicle Incentives
+50,2,2,2,2,1,s_19,4.0,Electric Vehicle Incentives
+51,6,2,2,2,2,s_19,3.0,Electric Vehicle Incentives
+52,5,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+53,9,2,6,4,3,s_19,4.0,Electric Vehicle Incentives
+54,2,1,5,2,2,s_19,4.0,Electric Vehicle Incentives
+55,6,1,5,6,2,s_19,4.0,Electric Vehicle Incentives
+56,6,2,4,2,3,s_19,2.0,Electric Vehicle Incentives
+57,11,2,4,5,2,s_19,4.0,Electric Vehicle Incentives
+59,3,2,5,2,3,s_19,4.0,Electric Vehicle Incentives
+60,6,2,4,4,3,s_19,3.0,Electric Vehicle Incentives
+61,6,1,1,1,1,s_19,3.0,Electric Vehicle Incentives
+62,6,2,4,2,3,s_19,4.0,Electric Vehicle Incentives
+63,9,1,5,4,2,s_19,5.0,Electric Vehicle Incentives
+64,7,1,2,2,1,s_19,4.0,Electric Vehicle Incentives
+65,6,2,4,3,3,s_19,4.0,Electric Vehicle Incentives
+66,2,2,5,4,4,s_19,1.0,Electric Vehicle Incentives
+68,10,2,5,5,5,s_19,5.0,Electric Vehicle Incentives
+69,4,2,6,4,1,s_19,3.0,Electric Vehicle Incentives
+70,2,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+71,6,2,1,5,3,s_19,3.0,Electric Vehicle Incentives
+72,1,3,1,1,2,s_19,5.0,Electric Vehicle Incentives
+73,5,1,5,4,2,s_19,2.0,Electric Vehicle Incentives
+75,2,2,1,5,1,s_19,5.0,Electric Vehicle Incentives
+76,3,1,6,3,4,s_19,3.0,Electric Vehicle Incentives
+77,2,2,5,6,1,s_19,3.0,Electric Vehicle Incentives
+78,5,2,4,3,3,s_19,4.0,Electric Vehicle Incentives
+79,6,1,6,3,3,s_19,4.0,Electric Vehicle Incentives
+80,2,1,5,6,1,s_19,4.0,Electric Vehicle Incentives
+81,5,1,6,2,1,s_19,3.0,Electric Vehicle Incentives
+83,6,2,5,4,2,s_19,4.0,Electric Vehicle Incentives
+84,5,2,6,4,1,s_19,4.0,Electric Vehicle Incentives
+85,2,2,8,3,3,s_19,3.0,Electric Vehicle Incentives
+86,6,2,6,6,1,s_19,4.0,Electric Vehicle Incentives
+87,4,1,5,6,1,s_19,4.0,Electric Vehicle Incentives
+88,2,1,4,6,5,s_19,2.0,Electric Vehicle Incentives
+89,5,1,5,3,3,s_19,3.0,Electric Vehicle Incentives
+90,2,2,6,3,1,s_19,5.0,Electric Vehicle Incentives
+91,8,1,2,1,4,s_19,4.0,Electric Vehicle Incentives
+92,6,1,4,5,2,s_19,3.0,Electric Vehicle Incentives
+93,10,1,5,2,4,s_19,3.0,Electric Vehicle Incentives
+94,7,1,8,5,5,s_19,4.0,Electric Vehicle Incentives
+96,10,2,4,5,5,s_19,1.0,Electric Vehicle Incentives
+97,2,2,8,6,4,s_19,4.0,Electric Vehicle Incentives
+98,11,2,4,4,2,s_19,1.0,Electric Vehicle Incentives
+99,5,1,4,5,4,s_19,3.0,Electric Vehicle Incentives
+100,5,2,5,6,1,s_19,4.0,Electric Vehicle Incentives
+101,1,2,4,6,4,s_19,3.0,Electric Vehicle Incentives
+103,3,1,2,2,4,s_19,4.0,Electric Vehicle Incentives
+104,3,2,4,3,4,s_19,4.0,Electric Vehicle Incentives
+106,8,2,2,3,1,s_19,4.0,Electric Vehicle Incentives
+107,4,1,5,6,1,s_19,3.0,Electric Vehicle Incentives
+108,3,1,6,6,3,s_19,3.0,Electric Vehicle Incentives
+109,4,2,5,2,3,s_19,5.0,Electric Vehicle Incentives
+110,6,2,1,6,4,s_19,3.0,Electric Vehicle Incentives
+111,2,1,2,5,3,s_19,3.0,Electric Vehicle Incentives
+112,4,1,5,5,3,s_19,3.0,Electric Vehicle Incentives
+113,3,2,2,6,1,s_19,3.0,Electric Vehicle Incentives
+114,5,3,6,1,3,s_19,5.0,Electric Vehicle Incentives
+116,10,1,5,4,4,s_19,4.0,Electric Vehicle Incentives
+117,1,1,5,6,3,s_19,4.0,Electric Vehicle Incentives
+118,6,2,5,1,5,s_19,3.0,Electric Vehicle Incentives
+119,3,1,5,6,3,s_19,3.0,Electric Vehicle Incentives
+120,6,1,2,3,3,s_19,3.0,Electric Vehicle Incentives
+121,5,2,6,2,1,s_19,3.0,Electric Vehicle Incentives
+122,2,2,2,1,3,s_19,4.0,Electric Vehicle Incentives
+123,2,2,6,3,1,s_19,2.0,Electric Vehicle Incentives
+124,6,2,2,3,1,s_19,3.0,Electric Vehicle Incentives
+125,4,2,4,2,3,s_19,4.0,Electric Vehicle Incentives
+126,1,2,6,4,3,s_19,3.0,Electric Vehicle Incentives
+127,2,1,5,5,2,s_19,3.0,Electric Vehicle Incentives
+128,3,1,5,4,1,s_19,3.0,Electric Vehicle Incentives
+129,7,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+130,4,1,5,5,2,s_19,4.0,Electric Vehicle Incentives
+132,3,2,5,6,1,s_19,4.0,Electric Vehicle Incentives
+133,6,1,5,3,1,s_19,4.0,Electric Vehicle Incentives
+134,6,1,4,2,4,s_19,2.0,Electric Vehicle Incentives
+135,2,1,2,1,3,s_19,3.0,Electric Vehicle Incentives
+136,5,1,6,2,1,s_19,3.0,Electric Vehicle Incentives
+137,8,1,4,5,2,s_19,1.0,Electric Vehicle Incentives
+139,6,1,8,4,3,s_19,3.0,Electric Vehicle Incentives
+141,4,2,5,4,3,s_19,3.0,Electric Vehicle Incentives
+142,2,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+144,5,2,5,6,3,s_19,3.0,Electric Vehicle Incentives
+145,4,1,2,6,5,s_19,3.0,Electric Vehicle Incentives
+146,6,1,4,3,5,s_19,4.0,Electric Vehicle Incentives
+147,2,2,6,2,1,s_19,4.0,Electric Vehicle Incentives
+148,2,2,1,1,1,s_19,4.0,Electric Vehicle Incentives
+149,2,2,2,5,1,s_19,3.0,Electric Vehicle Incentives
+150,2,2,4,3,1,s_19,4.0,Electric Vehicle Incentives
+151,3,1,5,5,2,s_19,4.0,Electric Vehicle Incentives
+152,3,2,8,2,2,s_19,2.0,Electric Vehicle Incentives
+153,3,2,8,4,5,s_19,3.0,Electric Vehicle Incentives
+154,6,1,4,4,4,s_19,2.0,Electric Vehicle Incentives
+155,8,2,5,5,3,s_19,3.0,Electric Vehicle Incentives
+156,5,1,2,1,4,s_19,5.0,Electric Vehicle Incentives
+157,2,1,6,3,1,s_19,5.0,Electric Vehicle Incentives
+158,6,1,2,1,3,s_19,4.0,Electric Vehicle Incentives
+159,10,2,1,4,3,s_19,2.0,Electric Vehicle Incentives
+160,5,1,8,6,3,s_19,4.0,Electric Vehicle Incentives
+161,6,2,5,3,1,s_19,4.0,Electric Vehicle Incentives
+162,3,1,8,5,4,s_19,3.0,Electric Vehicle Incentives
+163,6,1,5,5,4,s_19,4.0,Electric Vehicle Incentives
+164,8,1,6,2,1,s_19,3.0,Electric Vehicle Incentives
+165,2,1,5,4,4,s_19,2.0,Electric Vehicle Incentives
+166,3,3,1,2,4,s_19,2.0,Electric Vehicle Incentives
+167,2,2,5,4,1,s_19,4.0,Electric Vehicle Incentives
+168,5,2,5,2,2,s_19,4.0,Electric Vehicle Incentives
+169,5,1,6,2,1,s_19,3.0,Electric Vehicle Incentives
+170,2,1,6,6,2,s_19,1.0,Electric Vehicle Incentives
+171,2,1,5,3,1,s_19,3.0,Electric Vehicle Incentives
+173,2,1,6,2,3,s_19,3.0,Electric Vehicle Incentives
+174,4,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+175,9,1,5,6,2,s_19,3.0,Electric Vehicle Incentives
+176,11,2,4,4,4,s_19,2.0,Electric Vehicle Incentives
+177,6,2,8,2,1,s_19,2.0,Electric Vehicle Incentives
+178,9,2,6,6,3,s_19,4.0,Electric Vehicle Incentives
+179,5,1,2,1,1,s_19,3.0,Electric Vehicle Incentives
+180,5,1,5,6,2,s_19,4.0,Electric Vehicle Incentives
+181,7,1,6,4,4,s_19,4.0,Electric Vehicle Incentives
+182,7,2,6,5,5,s_19,5.0,Electric Vehicle Incentives
+183,2,2,6,6,1,s_19,4.0,Electric Vehicle Incentives
+184,2,2,4,6,4,s_19,4.0,Electric Vehicle Incentives
+185,3,1,5,5,3,s_19,4.0,Electric Vehicle Incentives
+186,5,2,4,3,2,s_19,1.0,Electric Vehicle Incentives
+187,6,1,5,2,3,s_19,3.0,Electric Vehicle Incentives
+188,2,2,6,2,1,s_19,3.0,Electric Vehicle Incentives
+189,2,1,6,5,5,s_19,3.0,Electric Vehicle Incentives
+190,2,2,6,4,1,s_19,4.0,Electric Vehicle Incentives
+191,4,1,6,6,4,s_19,4.0,Electric Vehicle Incentives
+192,2,1,5,4,1,s_19,4.0,Electric Vehicle Incentives
+193,6,2,4,2,4,s_19,4.0,Electric Vehicle Incentives
+194,6,2,2,1,1,s_19,4.0,Electric Vehicle Incentives
+195,6,1,4,2,1,s_19,3.0,Electric Vehicle Incentives
+196,5,1,6,4,1,s_19,3.0,Electric Vehicle Incentives
+198,5,1,8,5,1,s_19,3.0,Electric Vehicle Incentives
+199,3,2,2,2,1,s_19,4.0,Electric Vehicle Incentives
+200,6,1,8,2,4,s_19,1.0,Electric Vehicle Incentives
+201,3,2,2,2,3,s_19,5.0,Electric Vehicle Incentives
+202,9,2,8,2,2,s_19,1.0,Electric Vehicle Incentives
+203,4,2,6,6,5,s_19,4.0,Electric Vehicle Incentives
+204,4,2,4,6,5,s_19,4.0,Electric Vehicle Incentives
+205,2,1,5,3,4,s_19,1.0,Electric Vehicle Incentives
+206,5,1,8,5,3,s_19,3.0,Electric Vehicle Incentives
+207,6,1,1,1,1,s_19,5.0,Electric Vehicle Incentives
+209,5,2,2,4,1,s_19,4.0,Electric Vehicle Incentives
+210,5,1,4,4,1,s_19,3.0,Electric Vehicle Incentives
+211,9,2,1,1,5,s_19,3.0,Electric Vehicle Incentives
+212,10,2,8,4,2,s_19,1.0,Electric Vehicle Incentives
+213,3,2,5,6,3,s_19,1.0,Electric Vehicle Incentives
+214,7,2,5,5,4,s_19,4.0,Electric Vehicle Incentives
+215,3,2,4,5,4,s_19,2.0,Electric Vehicle Incentives
+216,3,2,5,3,1,s_19,3.0,Electric Vehicle Incentives
+217,3,1,5,2,1,s_19,5.0,Electric Vehicle Incentives
+218,6,1,5,6,3,s_19,3.0,Electric Vehicle Incentives
+219,6,1,4,5,4,s_19,3.0,Electric Vehicle Incentives
+220,2,1,6,6,1,s_19,2.0,Electric Vehicle Incentives
+221,9,2,2,1,1,s_19,3.0,Electric Vehicle Incentives
+222,2,1,5,6,5,s_19,3.0,Electric Vehicle Incentives
+223,6,1,5,6,3,s_19,4.0,Electric Vehicle Incentives
+225,3,1,5,4,1,s_19,4.0,Electric Vehicle Incentives
+226,6,1,6,5,1,s_19,3.0,Electric Vehicle Incentives
+227,2,1,5,6,5,s_19,4.0,Electric Vehicle Incentives
+228,6,1,4,5,4,s_19,1.0,Electric Vehicle Incentives
+229,8,2,6,4,3,s_19,5.0,Electric Vehicle Incentives
+231,10,2,5,1,1,s_19,4.0,Electric Vehicle Incentives
+232,7,2,4,4,2,s_19,4.0,Electric Vehicle Incentives
+233,9,2,4,6,2,s_19,4.0,Electric Vehicle Incentives
+234,9,2,6,6,4,s_19,2.0,Electric Vehicle Incentives
+235,3,1,8,6,1,s_19,3.0,Electric Vehicle Incentives
+236,6,1,6,2,4,s_19,1.0,Electric Vehicle Incentives
+237,3,2,6,2,1,s_19,5.0,Electric Vehicle Incentives
+238,4,2,2,1,4,s_19,5.0,Electric Vehicle Incentives
+239,2,2,6,2,4,s_19,3.0,Electric Vehicle Incentives
+240,6,1,5,6,1,s_19,4.0,Electric Vehicle Incentives
+241,6,1,6,2,2,s_19,3.0,Electric Vehicle Incentives
+242,6,1,6,2,2,s_19,3.0,Electric Vehicle Incentives
+243,6,2,4,5,5,s_19,4.0,Electric Vehicle Incentives
+244,6,1,5,6,1,s_19,4.0,Electric Vehicle Incentives
+245,3,2,5,4,1,s_19,3.0,Electric Vehicle Incentives
+246,9,1,6,6,3,s_19,4.0,Electric Vehicle Incentives
+247,4,1,2,1,3,s_19,2.0,Electric Vehicle Incentives
+249,5,1,5,4,1,s_19,3.0,Electric Vehicle Incentives
+250,8,1,6,2,4,s_19,4.0,Electric Vehicle Incentives
+251,7,2,4,3,4,s_19,2.0,Electric Vehicle Incentives
+252,9,2,6,4,3,s_19,2.0,Electric Vehicle Incentives
+253,2,1,6,2,1,s_19,4.0,Electric Vehicle Incentives
+254,9,2,8,4,1,s_19,4.0,Electric Vehicle Incentives
+255,6,1,8,5,2,s_19,4.0,Electric Vehicle Incentives
+256,8,2,2,5,1,s_19,3.0,Electric Vehicle Incentives
+257,2,2,5,5,4,s_19,1.0,Electric Vehicle Incentives
+258,3,1,5,6,5,s_19,5.0,Electric Vehicle Incentives
+259,5,1,8,5,1,s_19,5.0,Electric Vehicle Incentives
+260,6,1,1,4,3,s_19,3.0,Electric Vehicle Incentives
+261,6,1,8,4,5,s_19,4.0,Electric Vehicle Incentives
+262,1,2,6,4,1,s_19,4.0,Electric Vehicle Incentives
+263,7,2,2,4,1,s_19,2.0,Electric Vehicle Incentives
+264,2,1,5,6,3,s_19,4.0,Electric Vehicle Incentives
+265,6,1,4,3,1,s_19,3.0,Electric Vehicle Incentives
+266,6,2,5,2,4,s_19,4.0,Electric Vehicle Incentives
+267,4,1,2,2,1,s_19,3.0,Electric Vehicle Incentives
+268,2,2,5,6,2,s_19,4.0,Electric Vehicle Incentives
+269,6,2,8,5,1,s_19,3.0,Electric Vehicle Incentives
+270,3,1,8,1,1,s_19,3.0,Electric Vehicle Incentives
+272,6,1,8,6,3,s_19,4.0,Electric Vehicle Incentives
+273,7,2,5,4,1,s_19,4.0,Electric Vehicle Incentives
+274,5,2,6,6,3,s_19,4.0,Electric Vehicle Incentives
+275,2,2,2,1,1,s_19,3.0,Electric Vehicle Incentives
+277,3,1,8,1,1,s_19,2.0,Electric Vehicle Incentives
+278,5,1,5,5,1,s_19,4.0,Electric Vehicle Incentives
+279,2,2,5,3,2,s_19,4.0,Electric Vehicle Incentives
+280,6,1,6,5,1,s_19,3.0,Electric Vehicle Incentives
+281,6,2,4,4,2,s_19,5.0,Electric Vehicle Incentives
+282,5,1,1,1,2,s_19,3.0,Electric Vehicle Incentives
+283,8,1,5,5,2,s_19,4.0,Electric Vehicle Incentives
+284,3,2,8,6,4,s_19,4.0,Electric Vehicle Incentives
+285,7,1,5,3,3,s_19,3.0,Electric Vehicle Incentives
+286,6,2,4,6,1,s_19,3.0,Electric Vehicle Incentives
+287,2,2,4,3,1,s_19,4.0,Electric Vehicle Incentives
+288,4,2,5,3,2,s_19,3.0,Electric Vehicle Incentives
+289,7,2,5,6,1,s_19,2.0,Electric Vehicle Incentives
+290,5,2,6,6,4,s_19,3.0,Electric Vehicle Incentives
+291,8,2,5,6,4,s_19,4.0,Electric Vehicle Incentives
+292,9,1,2,1,1,s_19,3.0,Electric Vehicle Incentives
+293,4,2,4,4,4,s_19,3.0,Electric Vehicle Incentives
+294,3,1,8,6,1,s_19,2.0,Electric Vehicle Incentives
+295,6,1,5,2,2,s_19,4.0,Electric Vehicle Incentives
+296,3,1,5,6,1,s_19,4.0,Electric Vehicle Incentives
+297,2,2,6,4,4,s_19,4.0,Electric Vehicle Incentives
+298,1,2,2,1,4,s_19,4.0,Electric Vehicle Incentives
+299,6,3,8,3,3,s_19,2.0,Electric Vehicle Incentives
+300,3,1,6,6,1,s_19,4.0,Electric Vehicle Incentives
+301,3,2,8,2,4,s_19,2.0,Electric Vehicle Incentives
+302,9,1,5,6,4,s_19,4.0,Electric Vehicle Incentives
+303,2,1,5,4,4,s_19,4.0,Electric Vehicle Incentives
+304,2,2,4,2,4,s_19,3.0,Electric Vehicle Incentives
+305,10,2,5,6,3,s_19,2.0,Electric Vehicle Incentives
+306,10,2,6,6,2,s_19,1.0,Electric Vehicle Incentives
+307,4,2,2,2,4,s_19,4.0,Electric Vehicle Incentives
+308,8,1,5,1,1,s_19,4.0,Electric Vehicle Incentives
+309,3,2,8,6,4,s_19,3.0,Electric Vehicle Incentives
+310,6,2,5,5,2,s_19,2.0,Electric Vehicle Incentives
+311,6,1,5,6,1,s_19,3.0,Electric Vehicle Incentives
+312,2,1,4,6,1,s_19,3.0,Electric Vehicle Incentives
+1,7,2,6,4,4,s_20,2.0,Emissions Trading (Countries)
+3,2,1,2,1,1,s_20,3.0,Emissions Trading (Countries)
+4,3,2,5,6,4,s_20,2.0,Emissions Trading (Countries)
+5,2,2,2,1,3,s_20,2.0,Emissions Trading (Countries)
+6,6,2,4,3,3,s_20,2.0,Emissions Trading (Countries)
+7,3,2,8,3,3,s_20,2.0,Emissions Trading (Countries)
+9,6,2,5,3,4,s_20,3.0,Emissions Trading (Countries)
+10,3,1,6,3,1,s_20,1.0,Emissions Trading (Countries)
+11,3,2,6,6,5,s_20,3.0,Emissions Trading (Countries)
+12,6,1,5,3,1,s_20,4.0,Emissions Trading (Countries)
+13,1,1,5,3,3,s_20,1.0,Emissions Trading (Countries)
+14,8,1,8,3,4,s_20,2.0,Emissions Trading (Countries)
+15,7,2,6,5,1,s_20,5.0,Emissions Trading (Countries)
+16,2,2,8,6,1,s_20,1.0,Emissions Trading (Countries)
+17,7,2,5,6,1,s_20,4.0,Emissions Trading (Countries)
+18,6,2,2,5,5,s_20,1.0,Emissions Trading (Countries)
+19,6,1,2,3,2,s_20,3.0,Emissions Trading (Countries)
+20,2,2,5,6,2,s_20,4.0,Emissions Trading (Countries)
+21,2,2,8,5,5,s_20,2.0,Emissions Trading (Countries)
+22,4,1,5,3,2,s_20,4.0,Emissions Trading (Countries)
+23,4,2,1,2,5,s_20,2.0,Emissions Trading (Countries)
+24,1,1,5,6,3,s_20,4.0,Emissions Trading (Countries)
+25,3,2,4,5,4,s_20,4.0,Emissions Trading (Countries)
+26,6,1,4,3,5,s_20,3.0,Emissions Trading (Countries)
+27,6,1,5,3,5,s_20,3.0,Emissions Trading (Countries)
+28,2,2,8,6,3,s_20,3.0,Emissions Trading (Countries)
+30,8,2,5,3,4,s_20,4.0,Emissions Trading (Countries)
+32,6,2,4,3,4,s_20,1.0,Emissions Trading (Countries)
+33,3,2,6,6,4,s_20,2.0,Emissions Trading (Countries)
+34,3,1,5,6,4,s_20,2.0,Emissions Trading (Countries)
+35,7,2,4,3,5,s_20,2.0,Emissions Trading (Countries)
+36,3,2,5,6,1,s_20,1.0,Emissions Trading (Countries)
+38,6,2,6,5,4,s_20,2.0,Emissions Trading (Countries)
+39,8,1,5,5,4,s_20,4.0,Emissions Trading (Countries)
+40,6,1,4,2,4,s_20,3.0,Emissions Trading (Countries)
+41,2,2,4,6,1,s_20,2.0,Emissions Trading (Countries)
+42,8,1,2,3,1,s_20,1.0,Emissions Trading (Countries)
+43,4,2,4,3,1,s_20,4.0,Emissions Trading (Countries)
+44,2,2,6,3,1,s_20,3.0,Emissions Trading (Countries)
+45,3,1,2,5,5,s_20,3.0,Emissions Trading (Countries)
+46,1,1,2,3,1,s_20,2.0,Emissions Trading (Countries)
+47,2,1,8,4,3,s_20,2.0,Emissions Trading (Countries)
+49,6,2,6,2,4,s_20,2.0,Emissions Trading (Countries)
+50,2,2,2,2,1,s_20,4.0,Emissions Trading (Countries)
+51,6,2,2,2,2,s_20,3.0,Emissions Trading (Countries)
+52,5,1,6,2,1,s_20,5.0,Emissions Trading (Countries)
+53,9,2,6,4,3,s_20,2.0,Emissions Trading (Countries)
+54,2,1,5,2,2,s_20,2.0,Emissions Trading (Countries)
+55,6,1,5,6,2,s_20,2.0,Emissions Trading (Countries)
+56,6,2,4,2,3,s_20,5.0,Emissions Trading (Countries)
+57,11,2,4,5,2,s_20,3.0,Emissions Trading (Countries)
+58,6,2,2,1,1,s_20,3.0,Emissions Trading (Countries)
+59,3,2,5,2,3,s_20,3.0,Emissions Trading (Countries)
+60,6,2,4,4,3,s_20,1.0,Emissions Trading (Countries)
+61,6,1,1,1,1,s_20,2.0,Emissions Trading (Countries)
+63,9,1,5,4,2,s_20,3.0,Emissions Trading (Countries)
+64,7,1,2,2,1,s_20,3.0,Emissions Trading (Countries)
+65,6,2,4,3,3,s_20,2.0,Emissions Trading (Countries)
+68,10,2,5,5,5,s_20,2.0,Emissions Trading (Countries)
+69,4,2,6,4,1,s_20,3.0,Emissions Trading (Countries)
+70,2,1,6,2,1,s_20,4.0,Emissions Trading (Countries)
+71,6,2,1,5,3,s_20,4.0,Emissions Trading (Countries)
+73,5,1,5,4,2,s_20,4.0,Emissions Trading (Countries)
+75,2,2,1,5,1,s_20,2.0,Emissions Trading (Countries)
+76,3,1,6,3,4,s_20,3.0,Emissions Trading (Countries)
+77,2,2,5,6,1,s_20,3.0,Emissions Trading (Countries)
+79,6,1,6,3,3,s_20,4.0,Emissions Trading (Countries)
+80,2,1,5,6,1,s_20,4.0,Emissions Trading (Countries)
+81,5,1,6,2,1,s_20,2.0,Emissions Trading (Countries)
+83,6,2,5,4,2,s_20,1.0,Emissions Trading (Countries)
+84,5,2,6,4,1,s_20,4.0,Emissions Trading (Countries)
+85,2,2,8,3,3,s_20,2.0,Emissions Trading (Countries)
+86,6,2,6,6,1,s_20,1.0,Emissions Trading (Countries)
+87,4,1,5,6,1,s_20,1.0,Emissions Trading (Countries)
+88,2,1,4,6,5,s_20,2.0,Emissions Trading (Countries)
+89,5,1,5,3,3,s_20,3.0,Emissions Trading (Countries)
+90,2,2,6,3,1,s_20,3.0,Emissions Trading (Countries)
+92,6,1,4,5,2,s_20,3.0,Emissions Trading (Countries)
+93,10,1,5,2,4,s_20,1.0,Emissions Trading (Countries)
+94,7,1,8,5,5,s_20,4.0,Emissions Trading (Countries)
+95,6,2,5,5,3,s_20,1.0,Emissions Trading (Countries)
+96,10,2,4,5,5,s_20,1.0,Emissions Trading (Countries)
+97,2,2,8,6,4,s_20,3.0,Emissions Trading (Countries)
+98,11,2,4,4,2,s_20,1.0,Emissions Trading (Countries)
+99,5,1,4,5,4,s_20,4.0,Emissions Trading (Countries)
+100,5,2,5,6,1,s_20,2.0,Emissions Trading (Countries)
+101,1,2,4,6,4,s_20,3.0,Emissions Trading (Countries)
+103,3,1,2,2,4,s_20,3.0,Emissions Trading (Countries)
+104,3,2,4,3,4,s_20,3.0,Emissions Trading (Countries)
+105,3,2,5,3,1,s_20,2.0,Emissions Trading (Countries)
+106,8,2,2,3,1,s_20,2.0,Emissions Trading (Countries)
+107,4,1,5,6,1,s_20,2.0,Emissions Trading (Countries)
+108,3,1,6,6,3,s_20,1.0,Emissions Trading (Countries)
+109,4,2,5,2,3,s_20,3.0,Emissions Trading (Countries)
+110,6,2,1,6,4,s_20,3.0,Emissions Trading (Countries)
+111,2,1,2,5,3,s_20,3.0,Emissions Trading (Countries)
+112,4,1,5,5,3,s_20,3.0,Emissions Trading (Countries)
+113,3,2,2,6,1,s_20,2.0,Emissions Trading (Countries)
+116,10,1,5,4,4,s_20,3.0,Emissions Trading (Countries)
+117,1,1,5,6,3,s_20,1.0,Emissions Trading (Countries)
+118,6,2,5,1,5,s_20,4.0,Emissions Trading (Countries)
+119,3,1,5,6,3,s_20,2.0,Emissions Trading (Countries)
+120,6,1,2,3,3,s_20,3.0,Emissions Trading (Countries)
+121,5,2,6,2,1,s_20,2.0,Emissions Trading (Countries)
+123,2,2,6,3,1,s_20,4.0,Emissions Trading (Countries)
+124,6,2,2,3,1,s_20,1.0,Emissions Trading (Countries)
+125,4,2,4,2,3,s_20,5.0,Emissions Trading (Countries)
+126,1,2,6,4,3,s_20,1.0,Emissions Trading (Countries)
+127,2,1,5,5,2,s_20,3.0,Emissions Trading (Countries)
+128,3,1,5,4,1,s_20,3.0,Emissions Trading (Countries)
+129,7,1,6,2,1,s_20,4.0,Emissions Trading (Countries)
+130,4,1,5,5,2,s_20,3.0,Emissions Trading (Countries)
+132,3,2,5,6,1,s_20,2.0,Emissions Trading (Countries)
+133,6,1,5,3,1,s_20,1.0,Emissions Trading (Countries)
+134,6,1,4,2,4,s_20,3.0,Emissions Trading (Countries)
+135,2,1,2,1,3,s_20,4.0,Emissions Trading (Countries)
+136,5,1,6,2,1,s_20,3.0,Emissions Trading (Countries)
+138,2,1,2,3,1,s_20,3.0,Emissions Trading (Countries)
+139,6,1,8,4,3,s_20,4.0,Emissions Trading (Countries)
+141,4,2,5,4,3,s_20,2.0,Emissions Trading (Countries)
+142,2,1,6,2,1,s_20,4.0,Emissions Trading (Countries)
+144,5,2,5,6,3,s_20,3.0,Emissions Trading (Countries)
+145,4,1,2,6,5,s_20,3.0,Emissions Trading (Countries)
+146,6,1,4,3,5,s_20,4.0,Emissions Trading (Countries)
+147,2,2,6,2,1,s_20,1.0,Emissions Trading (Countries)
+148,2,2,1,1,1,s_20,1.0,Emissions Trading (Countries)
+150,2,2,4,3,1,s_20,2.0,Emissions Trading (Countries)
+151,3,1,5,5,2,s_20,2.0,Emissions Trading (Countries)
+152,3,2,8,2,2,s_20,3.0,Emissions Trading (Countries)
+153,3,2,8,4,5,s_20,1.0,Emissions Trading (Countries)
+154,6,1,4,4,4,s_20,4.0,Emissions Trading (Countries)
+155,8,2,5,5,3,s_20,1.0,Emissions Trading (Countries)
+157,2,1,6,3,1,s_20,2.0,Emissions Trading (Countries)
+158,6,1,2,1,3,s_20,3.0,Emissions Trading (Countries)
+159,10,2,1,4,3,s_20,1.0,Emissions Trading (Countries)
+160,5,1,8,6,3,s_20,3.0,Emissions Trading (Countries)
+161,6,2,5,3,1,s_20,3.0,Emissions Trading (Countries)
+162,3,1,8,5,4,s_20,3.0,Emissions Trading (Countries)
+165,2,1,5,4,4,s_20,3.0,Emissions Trading (Countries)
+166,3,3,1,2,4,s_20,3.0,Emissions Trading (Countries)
+167,2,2,5,4,1,s_20,3.0,Emissions Trading (Countries)
+168,5,2,5,2,2,s_20,3.0,Emissions Trading (Countries)
+170,2,1,6,6,2,s_20,1.0,Emissions Trading (Countries)
+171,2,1,5,3,1,s_20,3.0,Emissions Trading (Countries)
+173,2,1,6,2,3,s_20,2.0,Emissions Trading (Countries)
+174,4,1,6,2,1,s_20,2.0,Emissions Trading (Countries)
+175,9,1,5,6,2,s_20,3.0,Emissions Trading (Countries)
+176,11,2,4,4,4,s_20,3.0,Emissions Trading (Countries)
+177,6,2,8,2,1,s_20,3.0,Emissions Trading (Countries)
+178,9,2,6,6,3,s_20,4.0,Emissions Trading (Countries)
+179,5,1,2,1,1,s_20,2.0,Emissions Trading (Countries)
+180,5,1,5,6,2,s_20,4.0,Emissions Trading (Countries)
+181,7,1,6,4,4,s_20,2.0,Emissions Trading (Countries)
+182,7,2,6,5,5,s_20,1.0,Emissions Trading (Countries)
+183,2,2,6,6,1,s_20,3.0,Emissions Trading (Countries)
+184,2,2,4,6,4,s_20,3.0,Emissions Trading (Countries)
+185,3,1,5,5,3,s_20,2.0,Emissions Trading (Countries)
+186,5,2,4,3,2,s_20,1.0,Emissions Trading (Countries)
+187,6,1,5,2,3,s_20,3.0,Emissions Trading (Countries)
+188,2,2,6,2,1,s_20,5.0,Emissions Trading (Countries)
+189,2,1,6,5,5,s_20,3.0,Emissions Trading (Countries)
+191,4,1,6,6,4,s_20,4.0,Emissions Trading (Countries)
+192,2,1,5,4,1,s_20,3.0,Emissions Trading (Countries)
+194,6,2,2,1,1,s_20,3.0,Emissions Trading (Countries)
+195,6,1,4,2,1,s_20,3.0,Emissions Trading (Countries)
+196,5,1,6,4,1,s_20,3.0,Emissions Trading (Countries)
+198,5,1,8,5,1,s_20,2.0,Emissions Trading (Countries)
+200,6,1,8,2,4,s_20,3.0,Emissions Trading (Countries)
+201,3,2,2,2,3,s_20,4.0,Emissions Trading (Countries)
+202,9,2,8,2,2,s_20,1.0,Emissions Trading (Countries)
+203,4,2,6,6,5,s_20,2.0,Emissions Trading (Countries)
+204,4,2,4,6,5,s_20,3.0,Emissions Trading (Countries)
+205,2,1,5,3,4,s_20,3.0,Emissions Trading (Countries)
+206,5,1,8,5,3,s_20,1.0,Emissions Trading (Countries)
+207,6,1,1,1,1,s_20,5.0,Emissions Trading (Countries)
+209,5,2,2,4,1,s_20,2.0,Emissions Trading (Countries)
+210,5,1,4,4,1,s_20,3.0,Emissions Trading (Countries)
+211,9,2,1,1,5,s_20,3.0,Emissions Trading (Countries)
+212,10,2,8,4,2,s_20,1.0,Emissions Trading (Countries)
+213,3,2,5,6,3,s_20,3.0,Emissions Trading (Countries)
+214,7,2,5,5,4,s_20,3.0,Emissions Trading (Countries)
+215,3,2,4,5,4,s_20,1.0,Emissions Trading (Countries)
+216,3,2,5,3,1,s_20,3.0,Emissions Trading (Countries)
+217,3,1,5,2,1,s_20,3.0,Emissions Trading (Countries)
+218,6,1,5,6,3,s_20,3.0,Emissions Trading (Countries)
+220,2,1,6,6,1,s_20,2.0,Emissions Trading (Countries)
+221,9,2,2,1,1,s_20,3.0,Emissions Trading (Countries)
+222,2,1,5,6,5,s_20,3.0,Emissions Trading (Countries)
+223,6,1,5,6,3,s_20,2.0,Emissions Trading (Countries)
+224,4,1,6,3,4,s_20,1.0,Emissions Trading (Countries)
+225,3,1,5,4,1,s_20,2.0,Emissions Trading (Countries)
+226,6,1,6,5,1,s_20,3.0,Emissions Trading (Countries)
+227,2,1,5,6,5,s_20,3.0,Emissions Trading (Countries)
+228,6,1,4,5,4,s_20,3.0,Emissions Trading (Countries)
+229,8,2,6,4,3,s_20,3.0,Emissions Trading (Countries)
+231,10,2,5,1,1,s_20,3.0,Emissions Trading (Countries)
+232,7,2,4,4,2,s_20,3.0,Emissions Trading (Countries)
+233,9,2,4,6,2,s_20,2.0,Emissions Trading (Countries)
+234,9,2,6,6,4,s_20,2.0,Emissions Trading (Countries)
+236,6,1,6,2,4,s_20,1.0,Emissions Trading (Countries)
+237,3,2,6,2,1,s_20,4.0,Emissions Trading (Countries)
+238,4,2,2,1,4,s_20,2.0,Emissions Trading (Countries)
+240,6,1,5,6,1,s_20,4.0,Emissions Trading (Countries)
+242,6,1,6,2,2,s_20,3.0,Emissions Trading (Countries)
+243,6,2,4,5,5,s_20,4.0,Emissions Trading (Countries)
+244,6,1,5,6,1,s_20,4.0,Emissions Trading (Countries)
+245,3,2,5,4,1,s_20,1.0,Emissions Trading (Countries)
+246,9,1,6,6,3,s_20,3.0,Emissions Trading (Countries)
+247,4,1,2,1,3,s_20,3.0,Emissions Trading (Countries)
+248,3,2,1,1,3,s_20,2.0,Emissions Trading (Countries)
+249,5,1,5,4,1,s_20,3.0,Emissions Trading (Countries)
+250,8,1,6,2,4,s_20,3.0,Emissions Trading (Countries)
+251,7,2,4,3,4,s_20,3.0,Emissions Trading (Countries)
+252,9,2,6,4,3,s_20,4.0,Emissions Trading (Countries)
+253,2,1,6,2,1,s_20,2.0,Emissions Trading (Countries)
+254,9,2,8,4,1,s_20,1.0,Emissions Trading (Countries)
+255,6,1,8,5,2,s_20,1.0,Emissions Trading (Countries)
+256,8,2,2,5,1,s_20,1.0,Emissions Trading (Countries)
+257,2,2,5,5,4,s_20,2.0,Emissions Trading (Countries)
+258,3,1,5,6,5,s_20,4.0,Emissions Trading (Countries)
+260,6,1,1,4,3,s_20,4.0,Emissions Trading (Countries)
+261,6,1,8,4,5,s_20,3.0,Emissions Trading (Countries)
+262,1,2,6,4,1,s_20,2.0,Emissions Trading (Countries)
+263,7,2,2,4,1,s_20,1.0,Emissions Trading (Countries)
+264,2,1,5,6,3,s_20,1.0,Emissions Trading (Countries)
+265,6,1,4,3,1,s_20,3.0,Emissions Trading (Countries)
+267,4,1,2,2,1,s_20,3.0,Emissions Trading (Countries)
+268,2,2,5,6,2,s_20,4.0,Emissions Trading (Countries)
+269,6,2,8,5,1,s_20,2.0,Emissions Trading (Countries)
+270,3,1,8,1,1,s_20,3.0,Emissions Trading (Countries)
+272,6,1,8,6,3,s_20,4.0,Emissions Trading (Countries)
+273,7,2,5,4,1,s_20,1.0,Emissions Trading (Countries)
+274,5,2,6,6,3,s_20,4.0,Emissions Trading (Countries)
+275,2,2,2,1,1,s_20,3.0,Emissions Trading (Countries)
+277,3,1,8,1,1,s_20,3.0,Emissions Trading (Countries)
+278,5,1,5,5,1,s_20,2.0,Emissions Trading (Countries)
+279,2,2,5,3,2,s_20,4.0,Emissions Trading (Countries)
+280,6,1,6,5,1,s_20,4.0,Emissions Trading (Countries)
+281,6,2,4,4,2,s_20,3.0,Emissions Trading (Countries)
+282,5,1,1,1,2,s_20,3.0,Emissions Trading (Countries)
+283,8,1,5,5,2,s_20,4.0,Emissions Trading (Countries)
+284,3,2,8,6,4,s_20,1.0,Emissions Trading (Countries)
+285,7,1,5,3,3,s_20,1.0,Emissions Trading (Countries)
+286,6,2,4,6,1,s_20,2.0,Emissions Trading (Countries)
+288,4,2,5,3,2,s_20,2.0,Emissions Trading (Countries)
+289,7,2,5,6,1,s_20,3.0,Emissions Trading (Countries)
+290,5,2,6,6,4,s_20,2.0,Emissions Trading (Countries)
+291,8,2,5,6,4,s_20,3.0,Emissions Trading (Countries)
+292,9,1,2,1,1,s_20,4.0,Emissions Trading (Countries)
+293,4,2,4,4,4,s_20,4.0,Emissions Trading (Countries)
+294,3,1,8,6,1,s_20,2.0,Emissions Trading (Countries)
+296,3,1,5,6,1,s_20,3.0,Emissions Trading (Countries)
+297,2,2,6,4,4,s_20,2.0,Emissions Trading (Countries)
+298,1,2,2,1,4,s_20,1.0,Emissions Trading (Countries)
+299,6,3,8,3,3,s_20,3.0,Emissions Trading (Countries)
+300,3,1,6,6,1,s_20,2.0,Emissions Trading (Countries)
+301,3,2,8,2,4,s_20,4.0,Emissions Trading (Countries)
+302,9,1,5,6,4,s_20,4.0,Emissions Trading (Countries)
+303,2,1,5,4,4,s_20,3.0,Emissions Trading (Countries)
+304,2,2,4,2,4,s_20,2.0,Emissions Trading (Countries)
+305,10,2,5,6,3,s_20,3.0,Emissions Trading (Countries)
+306,10,2,6,6,2,s_20,1.0,Emissions Trading (Countries)
+307,4,2,2,2,4,s_20,4.0,Emissions Trading (Countries)
+308,8,1,5,1,1,s_20,2.0,Emissions Trading (Countries)
+309,3,2,8,6,4,s_20,1.0,Emissions Trading (Countries)
+310,6,2,5,5,2,s_20,1.0,Emissions Trading (Countries)
+311,6,1,5,6,1,s_20,2.0,Emissions Trading (Countries)
+312,2,1,4,6,1,s_20,3.0,Emissions Trading (Countries)
+1,7,2,6,4,4,s_21,4.0,Public Transportation Funding
+2,5,1,6,2,5,s_21,4.0,Public Transportation Funding
+3,2,1,2,1,1,s_21,5.0,Public Transportation Funding
+4,3,2,5,6,4,s_21,4.0,Public Transportation Funding
+5,2,2,2,1,3,s_21,5.0,Public Transportation Funding
+6,6,2,4,3,3,s_21,3.0,Public Transportation Funding
+7,3,2,8,3,3,s_21,3.0,Public Transportation Funding
+8,5,1,5,4,4,s_21,2.0,Public Transportation Funding
+9,6,2,5,3,4,s_21,4.0,Public Transportation Funding
+10,3,1,6,3,1,s_21,4.0,Public Transportation Funding
+11,3,2,6,6,5,s_21,2.0,Public Transportation Funding
+12,6,1,5,3,1,s_21,4.0,Public Transportation Funding
+13,1,1,5,3,3,s_21,5.0,Public Transportation Funding
+14,8,1,8,3,4,s_21,3.0,Public Transportation Funding
+15,7,2,6,5,1,s_21,3.0,Public Transportation Funding
+16,2,2,8,6,1,s_21,5.0,Public Transportation Funding
+17,7,2,5,6,1,s_21,2.0,Public Transportation Funding
+18,6,2,2,5,5,s_21,3.0,Public Transportation Funding
+19,6,1,2,3,2,s_21,2.0,Public Transportation Funding
+20,2,2,5,6,2,s_21,4.0,Public Transportation Funding
+21,2,2,8,5,5,s_21,3.0,Public Transportation Funding
+22,4,1,5,3,2,s_21,4.0,Public Transportation Funding
+23,4,2,1,2,5,s_21,4.0,Public Transportation Funding
+24,1,1,5,6,3,s_21,1.0,Public Transportation Funding
+25,3,2,4,5,4,s_21,4.0,Public Transportation Funding
+26,6,1,4,3,5,s_21,3.0,Public Transportation Funding
+27,6,1,5,3,5,s_21,3.0,Public Transportation Funding
+28,2,2,8,6,3,s_21,3.0,Public Transportation Funding
+29,6,1,2,2,3,s_21,4.0,Public Transportation Funding
+30,8,2,5,3,4,s_21,4.0,Public Transportation Funding
+32,6,2,4,3,4,s_21,1.0,Public Transportation Funding
+33,3,2,6,6,4,s_21,5.0,Public Transportation Funding
+34,3,1,5,6,4,s_21,4.0,Public Transportation Funding
+35,7,2,4,3,5,s_21,3.0,Public Transportation Funding
+36,3,2,5,6,1,s_21,4.0,Public Transportation Funding
+37,3,2,1,6,2,s_21,4.0,Public Transportation Funding
+38,6,2,6,5,4,s_21,5.0,Public Transportation Funding
+39,8,1,5,5,4,s_21,4.0,Public Transportation Funding
+40,6,1,4,2,4,s_21,4.0,Public Transportation Funding
+41,2,2,4,6,1,s_21,5.0,Public Transportation Funding
+42,8,1,2,3,1,s_21,5.0,Public Transportation Funding
+43,4,2,4,3,1,s_21,2.0,Public Transportation Funding
+44,2,2,6,3,1,s_21,3.0,Public Transportation Funding
+45,3,1,2,5,5,s_21,4.0,Public Transportation Funding
+46,1,1,2,3,1,s_21,4.0,Public Transportation Funding
+47,2,1,8,4,3,s_21,2.0,Public Transportation Funding
+48,5,1,1,1,4,s_21,2.0,Public Transportation Funding
+49,6,2,6,2,4,s_21,4.0,Public Transportation Funding
+50,2,2,2,2,1,s_21,4.0,Public Transportation Funding
+51,6,2,2,2,2,s_21,3.0,Public Transportation Funding
+52,5,1,6,2,1,s_21,5.0,Public Transportation Funding
+53,9,2,6,4,3,s_21,2.0,Public Transportation Funding
+54,2,1,5,2,2,s_21,4.0,Public Transportation Funding
+55,6,1,5,6,2,s_21,2.0,Public Transportation Funding
+56,6,2,4,2,3,s_21,5.0,Public Transportation Funding
+57,11,2,4,5,2,s_21,5.0,Public Transportation Funding
+58,6,2,2,1,1,s_21,5.0,Public Transportation Funding
+59,3,2,5,2,3,s_21,5.0,Public Transportation Funding
+60,6,2,4,4,3,s_21,4.0,Public Transportation Funding
+61,6,1,1,1,1,s_21,2.0,Public Transportation Funding
+62,6,2,4,2,3,s_21,4.0,Public Transportation Funding
+63,9,1,5,4,2,s_21,4.0,Public Transportation Funding
+65,6,2,4,3,3,s_21,4.0,Public Transportation Funding
+66,2,2,5,4,4,s_21,1.0,Public Transportation Funding
+68,10,2,5,5,5,s_21,1.0,Public Transportation Funding
+69,4,2,6,4,1,s_21,3.0,Public Transportation Funding
+70,2,1,6,2,1,s_21,4.0,Public Transportation Funding
+71,6,2,1,5,3,s_21,5.0,Public Transportation Funding
+72,1,3,1,1,2,s_21,5.0,Public Transportation Funding
+73,5,1,5,4,2,s_21,4.0,Public Transportation Funding
+75,2,2,1,5,1,s_21,5.0,Public Transportation Funding
+76,3,1,6,3,4,s_21,3.0,Public Transportation Funding
+77,2,2,5,6,1,s_21,3.0,Public Transportation Funding
+78,5,2,4,3,3,s_21,3.0,Public Transportation Funding
+79,6,1,6,3,3,s_21,3.0,Public Transportation Funding
+80,2,1,5,6,1,s_21,4.0,Public Transportation Funding
+81,5,1,6,2,1,s_21,3.0,Public Transportation Funding
+82,3,1,5,1,4,s_21,4.0,Public Transportation Funding
+83,6,2,5,4,2,s_21,3.0,Public Transportation Funding
+84,5,2,6,4,1,s_21,4.0,Public Transportation Funding
+85,2,2,8,3,3,s_21,4.0,Public Transportation Funding
+86,6,2,6,6,1,s_21,4.0,Public Transportation Funding
+87,4,1,5,6,1,s_21,4.0,Public Transportation Funding
+88,2,1,4,6,5,s_21,4.0,Public Transportation Funding
+89,5,1,5,3,3,s_21,1.0,Public Transportation Funding
+90,2,2,6,3,1,s_21,5.0,Public Transportation Funding
+91,8,1,2,1,4,s_21,4.0,Public Transportation Funding
+92,6,1,4,5,2,s_21,3.0,Public Transportation Funding
+93,10,1,5,2,4,s_21,3.0,Public Transportation Funding
+94,7,1,8,5,5,s_21,3.0,Public Transportation Funding
+95,6,2,5,5,3,s_21,5.0,Public Transportation Funding
+96,10,2,4,5,5,s_21,3.0,Public Transportation Funding
+97,2,2,8,6,4,s_21,4.0,Public Transportation Funding
+98,11,2,4,4,2,s_21,1.0,Public Transportation Funding
+99,5,1,4,5,4,s_21,4.0,Public Transportation Funding
+100,5,2,5,6,1,s_21,4.0,Public Transportation Funding
+101,1,2,4,6,4,s_21,4.0,Public Transportation Funding
+103,3,1,2,2,4,s_21,4.0,Public Transportation Funding
+104,3,2,4,3,4,s_21,4.0,Public Transportation Funding
+105,3,2,5,3,1,s_21,4.0,Public Transportation Funding
+106,8,2,2,3,1,s_21,4.0,Public Transportation Funding
+107,4,1,5,6,1,s_21,5.0,Public Transportation Funding
+108,3,1,6,6,3,s_21,5.0,Public Transportation Funding
+109,4,2,5,2,3,s_21,5.0,Public Transportation Funding
+110,6,2,1,6,4,s_21,3.0,Public Transportation Funding
+111,2,1,2,5,3,s_21,4.0,Public Transportation Funding
+112,4,1,5,5,3,s_21,4.0,Public Transportation Funding
+113,3,2,2,6,1,s_21,2.0,Public Transportation Funding
+114,5,3,6,1,3,s_21,3.0,Public Transportation Funding
+115,6,1,2,1,3,s_21,3.0,Public Transportation Funding
+116,10,1,5,4,4,s_21,3.0,Public Transportation Funding
+117,1,1,5,6,3,s_21,3.0,Public Transportation Funding
+118,6,2,5,1,5,s_21,5.0,Public Transportation Funding
+119,3,1,5,6,3,s_21,4.0,Public Transportation Funding
+120,6,1,2,3,3,s_21,3.0,Public Transportation Funding
+121,5,2,6,2,1,s_21,5.0,Public Transportation Funding
+122,2,2,2,1,3,s_21,5.0,Public Transportation Funding
+123,2,2,6,3,1,s_21,5.0,Public Transportation Funding
+124,6,2,2,3,1,s_21,4.0,Public Transportation Funding
+125,4,2,4,2,3,s_21,3.0,Public Transportation Funding
+126,1,2,6,4,3,s_21,2.0,Public Transportation Funding
+127,2,1,5,5,2,s_21,3.0,Public Transportation Funding
+128,3,1,5,4,1,s_21,4.0,Public Transportation Funding
+129,7,1,6,2,1,s_21,4.0,Public Transportation Funding
+130,4,1,5,5,2,s_21,4.0,Public Transportation Funding
+132,3,2,5,6,1,s_21,3.0,Public Transportation Funding
+133,6,1,5,3,1,s_21,4.0,Public Transportation Funding
+134,6,1,4,2,4,s_21,2.0,Public Transportation Funding
+135,2,1,2,1,3,s_21,5.0,Public Transportation Funding
+137,8,1,4,5,2,s_21,4.0,Public Transportation Funding
+138,2,1,2,3,1,s_21,4.0,Public Transportation Funding
+139,6,1,8,4,3,s_21,3.0,Public Transportation Funding
+141,4,2,5,4,3,s_21,5.0,Public Transportation Funding
+142,2,1,6,2,1,s_21,4.0,Public Transportation Funding
+143,1,1,2,6,2,s_21,3.0,Public Transportation Funding
+144,5,2,5,6,3,s_21,4.0,Public Transportation Funding
+145,4,1,2,6,5,s_21,3.0,Public Transportation Funding
+146,6,1,4,3,5,s_21,4.0,Public Transportation Funding
+147,2,2,6,2,1,s_21,5.0,Public Transportation Funding
+148,2,2,1,1,1,s_21,4.0,Public Transportation Funding
+149,2,2,2,5,1,s_21,5.0,Public Transportation Funding
+150,2,2,4,3,1,s_21,5.0,Public Transportation Funding
+151,3,1,5,5,2,s_21,5.0,Public Transportation Funding
+152,3,2,8,2,2,s_21,4.0,Public Transportation Funding
+153,3,2,8,4,5,s_21,3.0,Public Transportation Funding
+154,6,1,4,4,4,s_21,5.0,Public Transportation Funding
+155,8,2,5,5,3,s_21,3.0,Public Transportation Funding
+156,5,1,2,1,4,s_21,4.0,Public Transportation Funding
+157,2,1,6,3,1,s_21,3.0,Public Transportation Funding
+158,6,1,2,1,3,s_21,3.0,Public Transportation Funding
+159,10,2,1,4,3,s_21,3.0,Public Transportation Funding
+160,5,1,8,6,3,s_21,4.0,Public Transportation Funding
+161,6,2,5,3,1,s_21,4.0,Public Transportation Funding
+162,3,1,8,5,4,s_21,4.0,Public Transportation Funding
+163,6,1,5,5,4,s_21,4.0,Public Transportation Funding
+165,2,1,5,4,4,s_21,2.0,Public Transportation Funding
+166,3,3,1,2,4,s_21,3.0,Public Transportation Funding
+167,2,2,5,4,1,s_21,5.0,Public Transportation Funding
+168,5,2,5,2,2,s_21,4.0,Public Transportation Funding
+169,5,1,6,2,1,s_21,5.0,Public Transportation Funding
+170,2,1,6,6,2,s_21,2.0,Public Transportation Funding
+171,2,1,5,3,1,s_21,2.0,Public Transportation Funding
+172,6,1,6,4,1,s_21,5.0,Public Transportation Funding
+173,2,1,6,2,3,s_21,4.0,Public Transportation Funding
+174,4,1,6,2,1,s_21,4.0,Public Transportation Funding
+175,9,1,5,6,2,s_21,3.0,Public Transportation Funding
+176,11,2,4,4,4,s_21,4.0,Public Transportation Funding
+177,6,2,8,2,1,s_21,4.0,Public Transportation Funding
+178,9,2,6,6,3,s_21,4.0,Public Transportation Funding
+179,5,1,2,1,1,s_21,3.0,Public Transportation Funding
+180,5,1,5,6,2,s_21,4.0,Public Transportation Funding
+182,7,2,6,5,5,s_21,4.0,Public Transportation Funding
+183,2,2,6,6,1,s_21,4.0,Public Transportation Funding
+184,2,2,4,6,4,s_21,4.0,Public Transportation Funding
+185,3,1,5,5,3,s_21,3.0,Public Transportation Funding
+186,5,2,4,3,2,s_21,1.0,Public Transportation Funding
+187,6,1,5,2,3,s_21,3.0,Public Transportation Funding
+188,2,2,6,2,1,s_21,5.0,Public Transportation Funding
+189,2,1,6,5,5,s_21,4.0,Public Transportation Funding
+191,4,1,6,6,4,s_21,4.0,Public Transportation Funding
+192,2,1,5,4,1,s_21,3.0,Public Transportation Funding
+194,6,2,2,1,1,s_21,2.0,Public Transportation Funding
+195,6,1,4,2,1,s_21,3.0,Public Transportation Funding
+196,5,1,6,4,1,s_21,3.0,Public Transportation Funding
+197,3,1,2,1,1,s_21,4.0,Public Transportation Funding
+198,5,1,8,5,1,s_21,4.0,Public Transportation Funding
+199,3,2,2,2,1,s_21,5.0,Public Transportation Funding
+200,6,1,8,2,4,s_21,3.0,Public Transportation Funding
+201,3,2,2,2,3,s_21,5.0,Public Transportation Funding
+202,9,2,8,2,2,s_21,4.0,Public Transportation Funding
+203,4,2,6,6,5,s_21,3.0,Public Transportation Funding
+204,4,2,4,6,5,s_21,4.0,Public Transportation Funding
+205,2,1,5,3,4,s_21,3.0,Public Transportation Funding
+206,5,1,8,5,3,s_21,3.0,Public Transportation Funding
+207,6,1,1,1,1,s_21,5.0,Public Transportation Funding
+208,1,1,1,1,1,s_21,5.0,Public Transportation Funding
+209,5,2,2,4,1,s_21,5.0,Public Transportation Funding
+210,5,1,4,4,1,s_21,2.0,Public Transportation Funding
+211,9,2,1,1,5,s_21,3.0,Public Transportation Funding
+212,10,2,8,4,2,s_21,2.0,Public Transportation Funding
+213,3,2,5,6,3,s_21,5.0,Public Transportation Funding
+214,7,2,5,5,4,s_21,3.0,Public Transportation Funding
+215,3,2,4,5,4,s_21,3.0,Public Transportation Funding
+216,3,2,5,3,1,s_21,4.0,Public Transportation Funding
+217,3,1,5,2,1,s_21,4.0,Public Transportation Funding
+218,6,1,5,6,3,s_21,4.0,Public Transportation Funding
+219,6,1,4,5,4,s_21,3.0,Public Transportation Funding
+220,2,1,6,6,1,s_21,3.0,Public Transportation Funding
+221,9,2,2,1,1,s_21,3.0,Public Transportation Funding
+222,2,1,5,6,5,s_21,3.0,Public Transportation Funding
+223,6,1,5,6,3,s_21,5.0,Public Transportation Funding
+224,4,1,6,3,4,s_21,5.0,Public Transportation Funding
+225,3,1,5,4,1,s_21,5.0,Public Transportation Funding
+226,6,1,6,5,1,s_21,4.0,Public Transportation Funding
+227,2,1,5,6,5,s_21,4.0,Public Transportation Funding
+228,6,1,4,5,4,s_21,2.0,Public Transportation Funding
+229,8,2,6,4,3,s_21,3.0,Public Transportation Funding
+230,6,1,5,1,3,s_21,4.0,Public Transportation Funding
+231,10,2,5,1,1,s_21,3.0,Public Transportation Funding
+232,7,2,4,4,2,s_21,4.0,Public Transportation Funding
+233,9,2,4,6,2,s_21,3.0,Public Transportation Funding
+234,9,2,6,6,4,s_21,4.0,Public Transportation Funding
+235,3,1,8,6,1,s_21,5.0,Public Transportation Funding
+236,6,1,6,2,4,s_21,3.0,Public Transportation Funding
+237,3,2,6,2,1,s_21,5.0,Public Transportation Funding
+238,4,2,2,1,4,s_21,4.0,Public Transportation Funding
+239,2,2,6,2,4,s_21,4.0,Public Transportation Funding
+240,6,1,5,6,1,s_21,5.0,Public Transportation Funding
+241,6,1,6,2,2,s_21,4.0,Public Transportation Funding
+242,6,1,6,2,2,s_21,3.0,Public Transportation Funding
+244,6,1,5,6,1,s_21,3.0,Public Transportation Funding
+245,3,2,5,4,1,s_21,4.0,Public Transportation Funding
+246,9,1,6,6,3,s_21,2.0,Public Transportation Funding
+247,4,1,2,1,3,s_21,3.0,Public Transportation Funding
+248,3,2,1,1,3,s_21,5.0,Public Transportation Funding
+249,5,1,5,4,1,s_21,3.0,Public Transportation Funding
+250,8,1,6,2,4,s_21,4.0,Public Transportation Funding
+251,7,2,4,3,4,s_21,2.0,Public Transportation Funding
+252,9,2,6,4,3,s_21,1.0,Public Transportation Funding
+253,2,1,6,2,1,s_21,5.0,Public Transportation Funding
+254,9,2,8,4,1,s_21,4.0,Public Transportation Funding
+255,6,1,8,5,2,s_21,5.0,Public Transportation Funding
+256,8,2,2,5,1,s_21,4.0,Public Transportation Funding
+257,2,2,5,5,4,s_21,2.0,Public Transportation Funding
+258,3,1,5,6,5,s_21,4.0,Public Transportation Funding
+259,5,1,8,5,1,s_21,4.0,Public Transportation Funding
+260,6,1,1,4,3,s_21,3.0,Public Transportation Funding
+261,6,1,8,4,5,s_21,4.0,Public Transportation Funding
+262,1,2,6,4,1,s_21,5.0,Public Transportation Funding
+263,7,2,2,4,1,s_21,4.0,Public Transportation Funding
+264,2,1,5,6,3,s_21,4.0,Public Transportation Funding
+265,6,1,4,3,1,s_21,3.0,Public Transportation Funding
+266,6,2,5,2,4,s_21,4.0,Public Transportation Funding
+267,4,1,2,2,1,s_21,2.0,Public Transportation Funding
+268,2,2,5,6,2,s_21,4.0,Public Transportation Funding
+269,6,2,8,5,1,s_21,3.0,Public Transportation Funding
+270,3,1,8,1,1,s_21,4.0,Public Transportation Funding
+271,6,1,2,1,4,s_21,1.0,Public Transportation Funding
+272,6,1,8,6,3,s_21,4.0,Public Transportation Funding
+273,7,2,5,4,1,s_21,4.0,Public Transportation Funding
+274,5,2,6,6,3,s_21,4.0,Public Transportation Funding
+275,2,2,2,1,1,s_21,3.0,Public Transportation Funding
+277,3,1,8,1,1,s_21,3.0,Public Transportation Funding
+278,5,1,5,5,1,s_21,4.0,Public Transportation Funding
+279,2,2,5,3,2,s_21,4.0,Public Transportation Funding
+280,6,1,6,5,1,s_21,4.0,Public Transportation Funding
+281,6,2,4,4,2,s_21,4.0,Public Transportation Funding
+282,5,1,1,1,2,s_21,3.0,Public Transportation Funding
+283,8,1,5,5,2,s_21,5.0,Public Transportation Funding
+284,3,2,8,6,4,s_21,5.0,Public Transportation Funding
+285,7,1,5,3,3,s_21,3.0,Public Transportation Funding
+286,6,2,4,6,1,s_21,4.0,Public Transportation Funding
+287,2,2,4,3,1,s_21,5.0,Public Transportation Funding
+288,4,2,5,3,2,s_21,4.0,Public Transportation Funding
+289,7,2,5,6,1,s_21,3.0,Public Transportation Funding
+290,5,2,6,6,4,s_21,5.0,Public Transportation Funding
+291,8,2,5,6,4,s_21,1.0,Public Transportation Funding
+292,9,1,2,1,1,s_21,4.0,Public Transportation Funding
+293,4,2,4,4,4,s_21,5.0,Public Transportation Funding
+294,3,1,8,6,1,s_21,5.0,Public Transportation Funding
+295,6,1,5,2,2,s_21,3.0,Public Transportation Funding
+296,3,1,5,6,1,s_21,4.0,Public Transportation Funding
+297,2,2,6,4,4,s_21,5.0,Public Transportation Funding
+298,1,2,2,1,4,s_21,5.0,Public Transportation Funding
+299,6,3,8,3,3,s_21,2.0,Public Transportation Funding
+300,3,1,6,6,1,s_21,4.0,Public Transportation Funding
+301,3,2,8,2,4,s_21,5.0,Public Transportation Funding
+302,9,1,5,6,4,s_21,5.0,Public Transportation Funding
+303,2,1,5,4,4,s_21,3.0,Public Transportation Funding
+304,2,2,4,2,4,s_21,5.0,Public Transportation Funding
+305,10,2,5,6,3,s_21,4.0,Public Transportation Funding
+306,10,2,6,6,2,s_21,1.0,Public Transportation Funding
+307,4,2,2,2,4,s_21,5.0,Public Transportation Funding
+308,8,1,5,1,1,s_21,4.0,Public Transportation Funding
+310,6,2,5,5,2,s_21,4.0,Public Transportation Funding
+311,6,1,5,6,1,s_21,4.0,Public Transportation Funding
+312,2,1,4,6,1,s_21,5.0,Public Transportation Funding
+1,7,2,6,4,4,s_22,4.0,Developing Countries Support
+2,5,1,6,2,5,s_22,4.0,Developing Countries Support
+3,2,1,2,1,1,s_22,5.0,Developing Countries Support
+4,3,2,5,6,4,s_22,4.0,Developing Countries Support
+5,2,2,2,1,3,s_22,4.0,Developing Countries Support
+7,3,2,8,3,3,s_22,3.0,Developing Countries Support
+8,5,1,5,4,4,s_22,3.0,Developing Countries Support
+9,6,2,5,3,4,s_22,3.0,Developing Countries Support
+10,3,1,6,3,1,s_22,5.0,Developing Countries Support
+11,3,2,6,6,5,s_22,4.0,Developing Countries Support
+12,6,1,5,3,1,s_22,4.0,Developing Countries Support
+14,8,1,8,3,4,s_22,3.0,Developing Countries Support
+15,7,2,6,5,1,s_22,3.0,Developing Countries Support
+16,2,2,8,6,1,s_22,2.0,Developing Countries Support
+17,7,2,5,6,1,s_22,3.0,Developing Countries Support
+18,6,2,2,5,5,s_22,1.0,Developing Countries Support
+19,6,1,2,3,2,s_22,3.0,Developing Countries Support
+20,2,2,5,6,2,s_22,4.0,Developing Countries Support
+21,2,2,8,5,5,s_22,2.0,Developing Countries Support
+22,4,1,5,3,2,s_22,3.0,Developing Countries Support
+23,4,2,1,2,5,s_22,4.0,Developing Countries Support
+24,1,1,5,6,3,s_22,5.0,Developing Countries Support
+25,3,2,4,5,4,s_22,4.0,Developing Countries Support
+26,6,1,4,3,5,s_22,3.0,Developing Countries Support
+27,6,1,5,3,5,s_22,4.0,Developing Countries Support
+28,2,2,8,6,3,s_22,4.0,Developing Countries Support
+29,6,1,2,2,3,s_22,3.0,Developing Countries Support
+30,8,2,5,3,4,s_22,1.0,Developing Countries Support
+32,6,2,4,3,4,s_22,1.0,Developing Countries Support
+33,3,2,6,6,4,s_22,4.0,Developing Countries Support
+34,3,1,5,6,4,s_22,4.0,Developing Countries Support
+35,7,2,4,3,5,s_22,5.0,Developing Countries Support
+36,3,2,5,6,1,s_22,4.0,Developing Countries Support
+37,3,2,1,6,2,s_22,4.0,Developing Countries Support
+38,6,2,6,5,4,s_22,4.0,Developing Countries Support
+39,8,1,5,5,4,s_22,4.0,Developing Countries Support
+40,6,1,4,2,4,s_22,4.0,Developing Countries Support
+41,2,2,4,6,1,s_22,5.0,Developing Countries Support
+42,8,1,2,3,1,s_22,3.0,Developing Countries Support
+43,4,2,4,3,1,s_22,2.0,Developing Countries Support
+44,2,2,6,3,1,s_22,3.0,Developing Countries Support
+45,3,1,2,5,5,s_22,4.0,Developing Countries Support
+46,1,1,2,3,1,s_22,3.0,Developing Countries Support
+47,2,1,8,4,3,s_22,3.0,Developing Countries Support
+49,6,2,6,2,4,s_22,4.0,Developing Countries Support
+50,2,2,2,2,1,s_22,4.0,Developing Countries Support
+51,6,2,2,2,2,s_22,3.0,Developing Countries Support
+52,5,1,6,2,1,s_22,5.0,Developing Countries Support
+53,9,2,6,4,3,s_22,2.0,Developing Countries Support
+54,2,1,5,2,2,s_22,3.0,Developing Countries Support
+55,6,1,5,6,2,s_22,4.0,Developing Countries Support
+56,6,2,4,2,3,s_22,5.0,Developing Countries Support
+57,11,2,4,5,2,s_22,5.0,Developing Countries Support
+60,6,2,4,4,3,s_22,4.0,Developing Countries Support
+61,6,1,1,1,1,s_22,4.0,Developing Countries Support
+62,6,2,4,2,3,s_22,4.0,Developing Countries Support
+63,9,1,5,4,2,s_22,4.0,Developing Countries Support
+64,7,1,2,2,1,s_22,4.0,Developing Countries Support
+65,6,2,4,3,3,s_22,5.0,Developing Countries Support
+66,2,2,5,4,4,s_22,2.0,Developing Countries Support
+68,10,2,5,5,5,s_22,1.0,Developing Countries Support
+69,4,2,6,4,1,s_22,4.0,Developing Countries Support
+70,2,1,6,2,1,s_22,4.0,Developing Countries Support
+71,6,2,1,5,3,s_22,3.0,Developing Countries Support
+73,5,1,5,4,2,s_22,4.0,Developing Countries Support
+75,2,2,1,5,1,s_22,5.0,Developing Countries Support
+76,3,1,6,3,4,s_22,3.0,Developing Countries Support
+79,6,1,6,3,3,s_22,4.0,Developing Countries Support
+80,2,1,5,6,1,s_22,3.0,Developing Countries Support
+81,5,1,6,2,1,s_22,4.0,Developing Countries Support
+82,3,1,5,1,4,s_22,4.0,Developing Countries Support
+83,6,2,5,4,2,s_22,3.0,Developing Countries Support
+84,5,2,6,4,1,s_22,4.0,Developing Countries Support
+85,2,2,8,3,3,s_22,3.0,Developing Countries Support
+87,4,1,5,6,1,s_22,3.0,Developing Countries Support
+88,2,1,4,6,5,s_22,4.0,Developing Countries Support
+89,5,1,5,3,3,s_22,3.0,Developing Countries Support
+90,2,2,6,3,1,s_22,5.0,Developing Countries Support
+92,6,1,4,5,2,s_22,3.0,Developing Countries Support
+93,10,1,5,2,4,s_22,5.0,Developing Countries Support
+94,7,1,8,5,5,s_22,3.0,Developing Countries Support
+95,6,2,5,5,3,s_22,5.0,Developing Countries Support
+96,10,2,4,5,5,s_22,3.0,Developing Countries Support
+97,2,2,8,6,4,s_22,4.0,Developing Countries Support
+98,11,2,4,4,2,s_22,2.0,Developing Countries Support
+99,5,1,4,5,4,s_22,4.0,Developing Countries Support
+100,5,2,5,6,1,s_22,3.0,Developing Countries Support
+101,1,2,4,6,4,s_22,3.0,Developing Countries Support
+102,5,1,5,6,1,s_22,3.0,Developing Countries Support
+103,3,1,2,2,4,s_22,4.0,Developing Countries Support
+104,3,2,4,3,4,s_22,4.0,Developing Countries Support
+105,3,2,5,3,1,s_22,3.0,Developing Countries Support
+106,8,2,2,3,1,s_22,4.0,Developing Countries Support
+107,4,1,5,6,1,s_22,3.0,Developing Countries Support
+108,3,1,6,6,3,s_22,5.0,Developing Countries Support
+109,4,2,5,2,3,s_22,4.0,Developing Countries Support
+110,6,2,1,6,4,s_22,3.0,Developing Countries Support
+111,2,1,2,5,3,s_22,4.0,Developing Countries Support
+112,4,1,5,5,3,s_22,3.0,Developing Countries Support
+113,3,2,2,6,1,s_22,5.0,Developing Countries Support
+114,5,3,6,1,3,s_22,2.0,Developing Countries Support
+116,10,1,5,4,4,s_22,3.0,Developing Countries Support
+117,1,1,5,6,3,s_22,4.0,Developing Countries Support
+118,6,2,5,1,5,s_22,3.0,Developing Countries Support
+119,3,1,5,6,3,s_22,4.0,Developing Countries Support
+120,6,1,2,3,3,s_22,3.0,Developing Countries Support
+121,5,2,6,2,1,s_22,4.0,Developing Countries Support
+122,2,2,2,1,3,s_22,5.0,Developing Countries Support
+123,2,2,6,3,1,s_22,5.0,Developing Countries Support
+125,4,2,4,2,3,s_22,4.0,Developing Countries Support
+126,1,2,6,4,3,s_22,4.0,Developing Countries Support
+127,2,1,5,5,2,s_22,2.0,Developing Countries Support
+128,3,1,5,4,1,s_22,3.0,Developing Countries Support
+130,4,1,5,5,2,s_22,4.0,Developing Countries Support
+131,5,1,6,2,4,s_22,4.0,Developing Countries Support
+132,3,2,5,6,1,s_22,5.0,Developing Countries Support
+134,6,1,4,2,4,s_22,3.0,Developing Countries Support
+135,2,1,2,1,3,s_22,4.0,Developing Countries Support
+136,5,1,6,2,1,s_22,2.0,Developing Countries Support
+138,2,1,2,3,1,s_22,3.0,Developing Countries Support
+139,6,1,8,4,3,s_22,4.0,Developing Countries Support
+141,4,2,5,4,3,s_22,4.0,Developing Countries Support
+142,2,1,6,2,1,s_22,4.0,Developing Countries Support
+143,1,1,2,6,2,s_22,4.0,Developing Countries Support
+144,5,2,5,6,3,s_22,3.0,Developing Countries Support
+145,4,1,2,6,5,s_22,3.0,Developing Countries Support
+146,6,1,4,3,5,s_22,3.0,Developing Countries Support
+147,2,2,6,2,1,s_22,4.0,Developing Countries Support
+148,2,2,1,1,1,s_22,4.0,Developing Countries Support
+150,2,2,4,3,1,s_22,4.0,Developing Countries Support
+151,3,1,5,5,2,s_22,4.0,Developing Countries Support
+153,3,2,8,4,5,s_22,4.0,Developing Countries Support
+154,6,1,4,4,4,s_22,4.0,Developing Countries Support
+155,8,2,5,5,3,s_22,3.0,Developing Countries Support
+156,5,1,2,1,4,s_22,4.0,Developing Countries Support
+157,2,1,6,3,1,s_22,2.0,Developing Countries Support
+158,6,1,2,1,3,s_22,4.0,Developing Countries Support
+159,10,2,1,4,3,s_22,3.0,Developing Countries Support
+160,5,1,8,6,3,s_22,3.0,Developing Countries Support
+161,6,2,5,3,1,s_22,3.0,Developing Countries Support
+162,3,1,8,5,4,s_22,3.0,Developing Countries Support
+164,8,1,6,2,1,s_22,4.0,Developing Countries Support
+165,2,1,5,4,4,s_22,4.0,Developing Countries Support
+166,3,3,1,2,4,s_22,2.0,Developing Countries Support
+167,2,2,5,4,1,s_22,4.0,Developing Countries Support
+168,5,2,5,2,2,s_22,4.0,Developing Countries Support
+170,2,1,6,6,2,s_22,2.0,Developing Countries Support
+171,2,1,5,3,1,s_22,3.0,Developing Countries Support
+172,6,1,6,4,1,s_22,4.0,Developing Countries Support
+173,2,1,6,2,3,s_22,4.0,Developing Countries Support
+174,4,1,6,2,1,s_22,4.0,Developing Countries Support
+175,9,1,5,6,2,s_22,3.0,Developing Countries Support
+176,11,2,4,4,4,s_22,3.0,Developing Countries Support
+177,6,2,8,2,1,s_22,3.0,Developing Countries Support
+178,9,2,6,6,3,s_22,3.0,Developing Countries Support
+179,5,1,2,1,1,s_22,3.0,Developing Countries Support
+180,5,1,5,6,2,s_22,4.0,Developing Countries Support
+181,7,1,6,4,4,s_22,5.0,Developing Countries Support
+182,7,2,6,5,5,s_22,2.0,Developing Countries Support
+183,2,2,6,6,1,s_22,4.0,Developing Countries Support
+184,2,2,4,6,4,s_22,5.0,Developing Countries Support
+185,3,1,5,5,3,s_22,4.0,Developing Countries Support
+188,2,2,6,2,1,s_22,5.0,Developing Countries Support
+189,2,1,6,5,5,s_22,3.0,Developing Countries Support
+191,4,1,6,6,4,s_22,4.0,Developing Countries Support
+192,2,1,5,4,1,s_22,4.0,Developing Countries Support
+194,6,2,2,1,1,s_22,1.0,Developing Countries Support
+195,6,1,4,2,1,s_22,3.0,Developing Countries Support
+196,5,1,6,4,1,s_22,3.0,Developing Countries Support
+197,3,1,2,1,1,s_22,4.0,Developing Countries Support
+198,5,1,8,5,1,s_22,4.0,Developing Countries Support
+199,3,2,2,2,1,s_22,4.0,Developing Countries Support
+200,6,1,8,2,4,s_22,3.0,Developing Countries Support
+201,3,2,2,2,3,s_22,5.0,Developing Countries Support
+202,9,2,8,2,2,s_22,2.0,Developing Countries Support
+203,4,2,6,6,5,s_22,3.0,Developing Countries Support
+204,4,2,4,6,5,s_22,2.0,Developing Countries Support
+205,2,1,5,3,4,s_22,3.0,Developing Countries Support
+206,5,1,8,5,3,s_22,3.0,Developing Countries Support
+207,6,1,1,1,1,s_22,5.0,Developing Countries Support
+209,5,2,2,4,1,s_22,4.0,Developing Countries Support
+210,5,1,4,4,1,s_22,3.0,Developing Countries Support
+211,9,2,1,1,5,s_22,2.0,Developing Countries Support
+213,3,2,5,6,3,s_22,4.0,Developing Countries Support
+214,7,2,5,5,4,s_22,3.0,Developing Countries Support
+215,3,2,4,5,4,s_22,3.0,Developing Countries Support
+216,3,2,5,3,1,s_22,3.0,Developing Countries Support
+217,3,1,5,2,1,s_22,4.0,Developing Countries Support
+218,6,1,5,6,3,s_22,3.0,Developing Countries Support
+220,2,1,6,6,1,s_22,3.0,Developing Countries Support
+221,9,2,2,1,1,s_22,2.0,Developing Countries Support
+222,2,1,5,6,5,s_22,4.0,Developing Countries Support
+223,6,1,5,6,3,s_22,4.0,Developing Countries Support
+225,3,1,5,4,1,s_22,4.0,Developing Countries Support
+226,6,1,6,5,1,s_22,4.0,Developing Countries Support
+227,2,1,5,6,5,s_22,4.0,Developing Countries Support
+228,6,1,4,5,4,s_22,4.0,Developing Countries Support
+229,8,2,6,4,3,s_22,4.0,Developing Countries Support
+231,10,2,5,1,1,s_22,3.0,Developing Countries Support
+232,7,2,4,4,2,s_22,4.0,Developing Countries Support
+233,9,2,4,6,2,s_22,2.0,Developing Countries Support
+234,9,2,6,6,4,s_22,3.0,Developing Countries Support
+235,3,1,8,6,1,s_22,4.0,Developing Countries Support
+236,6,1,6,2,4,s_22,2.0,Developing Countries Support
+237,3,2,6,2,1,s_22,5.0,Developing Countries Support
+238,4,2,2,1,4,s_22,4.0,Developing Countries Support
+240,6,1,5,6,1,s_22,4.0,Developing Countries Support
+241,6,1,6,2,2,s_22,4.0,Developing Countries Support
+242,6,1,6,2,2,s_22,3.0,Developing Countries Support
+243,6,2,4,5,5,s_22,4.0,Developing Countries Support
+244,6,1,5,6,1,s_22,2.0,Developing Countries Support
+245,3,2,5,4,1,s_22,5.0,Developing Countries Support
+246,9,1,6,6,3,s_22,3.0,Developing Countries Support
+247,4,1,2,1,3,s_22,2.0,Developing Countries Support
+248,3,2,1,1,3,s_22,5.0,Developing Countries Support
+249,5,1,5,4,1,s_22,3.0,Developing Countries Support
+250,8,1,6,2,4,s_22,4.0,Developing Countries Support
+251,7,2,4,3,4,s_22,2.0,Developing Countries Support
+252,9,2,6,4,3,s_22,1.0,Developing Countries Support
+253,2,1,6,2,1,s_22,4.0,Developing Countries Support
+254,9,2,8,4,1,s_22,4.0,Developing Countries Support
+255,6,1,8,5,2,s_22,4.0,Developing Countries Support
+256,8,2,2,5,1,s_22,5.0,Developing Countries Support
+257,2,2,5,5,4,s_22,3.0,Developing Countries Support
+258,3,1,5,6,5,s_22,4.0,Developing Countries Support
+259,5,1,8,5,1,s_22,4.0,Developing Countries Support
+260,6,1,1,4,3,s_22,3.0,Developing Countries Support
+261,6,1,8,4,5,s_22,4.0,Developing Countries Support
+262,1,2,6,4,1,s_22,5.0,Developing Countries Support
+263,7,2,2,4,1,s_22,3.0,Developing Countries Support
+264,2,1,5,6,3,s_22,4.0,Developing Countries Support
+265,6,1,4,3,1,s_22,3.0,Developing Countries Support
+267,4,1,2,2,1,s_22,3.0,Developing Countries Support
+268,2,2,5,6,2,s_22,4.0,Developing Countries Support
+269,6,2,8,5,1,s_22,3.0,Developing Countries Support
+270,3,1,8,1,1,s_22,4.0,Developing Countries Support
+271,6,1,2,1,4,s_22,5.0,Developing Countries Support
+272,6,1,8,6,3,s_22,4.0,Developing Countries Support
+273,7,2,5,4,1,s_22,4.0,Developing Countries Support
+274,5,2,6,6,3,s_22,3.0,Developing Countries Support
+275,2,2,2,1,1,s_22,3.0,Developing Countries Support
+277,3,1,8,1,1,s_22,2.0,Developing Countries Support
+278,5,1,5,5,1,s_22,5.0,Developing Countries Support
+279,2,2,5,3,2,s_22,4.0,Developing Countries Support
+281,6,2,4,4,2,s_22,4.0,Developing Countries Support
+282,5,1,1,1,2,s_22,2.0,Developing Countries Support
+283,8,1,5,5,2,s_22,4.0,Developing Countries Support
+284,3,2,8,6,4,s_22,3.0,Developing Countries Support
+285,7,1,5,3,3,s_22,3.0,Developing Countries Support
+286,6,2,4,6,1,s_22,3.0,Developing Countries Support
+287,2,2,4,3,1,s_22,4.0,Developing Countries Support
+288,4,2,5,3,2,s_22,4.0,Developing Countries Support
+289,7,2,5,6,1,s_22,3.0,Developing Countries Support
+290,5,2,6,6,4,s_22,4.0,Developing Countries Support
+291,8,2,5,6,4,s_22,3.0,Developing Countries Support
+292,9,1,2,1,1,s_22,4.0,Developing Countries Support
+293,4,2,4,4,4,s_22,4.0,Developing Countries Support
+294,3,1,8,6,1,s_22,4.0,Developing Countries Support
+295,6,1,5,2,2,s_22,3.0,Developing Countries Support
+296,3,1,5,6,1,s_22,4.0,Developing Countries Support
+297,2,2,6,4,4,s_22,5.0,Developing Countries Support
+298,1,2,2,1,4,s_22,5.0,Developing Countries Support
+299,6,3,8,3,3,s_22,1.0,Developing Countries Support
+300,3,1,6,6,1,s_22,5.0,Developing Countries Support
+301,3,2,8,2,4,s_22,4.0,Developing Countries Support
+302,9,1,5,6,4,s_22,4.0,Developing Countries Support
+303,2,1,5,4,4,s_22,3.0,Developing Countries Support
+304,2,2,4,2,4,s_22,5.0,Developing Countries Support
+305,10,2,5,6,3,s_22,3.0,Developing Countries Support
+306,10,2,6,6,2,s_22,4.0,Developing Countries Support
+307,4,2,2,2,4,s_22,4.0,Developing Countries Support
+308,8,1,5,1,1,s_22,4.0,Developing Countries Support
+309,3,2,8,6,4,s_22,3.0,Developing Countries Support
+310,6,2,5,5,2,s_22,4.0,Developing Countries Support
+311,6,1,5,6,1,s_22,4.0,Developing Countries Support
+312,2,1,4,6,1,s_22,4.0,Developing Countries Support
+1,7,2,6,4,4,s_23,3.0,Green Bonds and Investment
+2,5,1,6,2,5,s_23,4.0,Green Bonds and Investment
+3,2,1,2,1,1,s_23,5.0,Green Bonds and Investment
+4,3,2,5,6,4,s_23,4.0,Green Bonds and Investment
+5,2,2,2,1,3,s_23,5.0,Green Bonds and Investment
+6,6,2,4,3,3,s_23,2.0,Green Bonds and Investment
+7,3,2,8,3,3,s_23,3.0,Green Bonds and Investment
+9,6,2,5,3,4,s_23,4.0,Green Bonds and Investment
+10,3,1,6,3,1,s_23,4.0,Green Bonds and Investment
+11,3,2,6,6,5,s_23,3.0,Green Bonds and Investment
+12,6,1,5,3,1,s_23,3.0,Green Bonds and Investment
+13,1,1,5,3,3,s_23,4.0,Green Bonds and Investment
+14,8,1,8,3,4,s_23,4.0,Green Bonds and Investment
+15,7,2,6,5,1,s_23,2.0,Green Bonds and Investment
+16,2,2,8,6,1,s_23,4.0,Green Bonds and Investment
+17,7,2,5,6,1,s_23,4.0,Green Bonds and Investment
+18,6,2,2,5,5,s_23,1.0,Green Bonds and Investment
+19,6,1,2,3,2,s_23,4.0,Green Bonds and Investment
+20,2,2,5,6,2,s_23,5.0,Green Bonds and Investment
+21,2,2,8,5,5,s_23,4.0,Green Bonds and Investment
+22,4,1,5,3,2,s_23,4.0,Green Bonds and Investment
+23,4,2,1,2,5,s_23,3.0,Green Bonds and Investment
+25,3,2,4,5,4,s_23,4.0,Green Bonds and Investment
+26,6,1,4,3,5,s_23,4.0,Green Bonds and Investment
+27,6,1,5,3,5,s_23,5.0,Green Bonds and Investment
+28,2,2,8,6,3,s_23,4.0,Green Bonds and Investment
+29,6,1,2,2,3,s_23,5.0,Green Bonds and Investment
+30,8,2,5,3,4,s_23,1.0,Green Bonds and Investment
+32,6,2,4,3,4,s_23,1.0,Green Bonds and Investment
+33,3,2,6,6,4,s_23,5.0,Green Bonds and Investment
+34,3,1,5,6,4,s_23,3.0,Green Bonds and Investment
+36,3,2,5,6,1,s_23,4.0,Green Bonds and Investment
+37,3,2,1,6,2,s_23,4.0,Green Bonds and Investment
+38,6,2,6,5,4,s_23,3.0,Green Bonds and Investment
+39,8,1,5,5,4,s_23,4.0,Green Bonds and Investment
+40,6,1,4,2,4,s_23,3.0,Green Bonds and Investment
+41,2,2,4,6,1,s_23,4.0,Green Bonds and Investment
+42,8,1,2,3,1,s_23,1.0,Green Bonds and Investment
+43,4,2,4,3,1,s_23,3.0,Green Bonds and Investment
+44,2,2,6,3,1,s_23,3.0,Green Bonds and Investment
+45,3,1,2,5,5,s_23,4.0,Green Bonds and Investment
+46,1,1,2,3,1,s_23,3.0,Green Bonds and Investment
+47,2,1,8,4,3,s_23,3.0,Green Bonds and Investment
+49,6,2,6,2,4,s_23,4.0,Green Bonds and Investment
+50,2,2,2,2,1,s_23,4.0,Green Bonds and Investment
+51,6,2,2,2,2,s_23,3.0,Green Bonds and Investment
+52,5,1,6,2,1,s_23,4.0,Green Bonds and Investment
+53,9,2,6,4,3,s_23,2.0,Green Bonds and Investment
+54,2,1,5,2,2,s_23,2.0,Green Bonds and Investment
+55,6,1,5,6,2,s_23,4.0,Green Bonds and Investment
+56,6,2,4,2,3,s_23,5.0,Green Bonds and Investment
+57,11,2,4,5,2,s_23,4.0,Green Bonds and Investment
+58,6,2,2,1,1,s_23,4.0,Green Bonds and Investment
+59,3,2,5,2,3,s_23,3.0,Green Bonds and Investment
+60,6,2,4,4,3,s_23,4.0,Green Bonds and Investment
+61,6,1,1,1,1,s_23,4.0,Green Bonds and Investment
+62,6,2,4,2,3,s_23,4.0,Green Bonds and Investment
+63,9,1,5,4,2,s_23,5.0,Green Bonds and Investment
+64,7,1,2,2,1,s_23,4.0,Green Bonds and Investment
+65,6,2,4,3,3,s_23,3.0,Green Bonds and Investment
+66,2,2,5,4,4,s_23,4.0,Green Bonds and Investment
+68,10,2,5,5,5,s_23,3.0,Green Bonds and Investment
+69,4,2,6,4,1,s_23,2.0,Green Bonds and Investment
+70,2,1,6,2,1,s_23,4.0,Green Bonds and Investment
+71,6,2,1,5,3,s_23,4.0,Green Bonds and Investment
+72,1,3,1,1,2,s_23,5.0,Green Bonds and Investment
+73,5,1,5,4,2,s_23,4.0,Green Bonds and Investment
+76,3,1,6,3,4,s_23,4.0,Green Bonds and Investment
+77,2,2,5,6,1,s_23,3.0,Green Bonds and Investment
+79,6,1,6,3,3,s_23,4.0,Green Bonds and Investment
+80,2,1,5,6,1,s_23,5.0,Green Bonds and Investment
+82,3,1,5,1,4,s_23,4.0,Green Bonds and Investment
+83,6,2,5,4,2,s_23,4.0,Green Bonds and Investment
+84,5,2,6,4,1,s_23,2.0,Green Bonds and Investment
+85,2,2,8,3,3,s_23,3.0,Green Bonds and Investment
+86,6,2,6,6,1,s_23,3.0,Green Bonds and Investment
+87,4,1,5,6,1,s_23,4.0,Green Bonds and Investment
+88,2,1,4,6,5,s_23,4.0,Green Bonds and Investment
+89,5,1,5,3,3,s_23,1.0,Green Bonds and Investment
+90,2,2,6,3,1,s_23,5.0,Green Bonds and Investment
+91,8,1,2,1,4,s_23,4.0,Green Bonds and Investment
+92,6,1,4,5,2,s_23,3.0,Green Bonds and Investment
+93,10,1,5,2,4,s_23,4.0,Green Bonds and Investment
+94,7,1,8,5,5,s_23,4.0,Green Bonds and Investment
+95,6,2,5,5,3,s_23,5.0,Green Bonds and Investment
+96,10,2,4,5,5,s_23,3.0,Green Bonds and Investment
+97,2,2,8,6,4,s_23,4.0,Green Bonds and Investment
+98,11,2,4,4,2,s_23,1.0,Green Bonds and Investment
+99,5,1,4,5,4,s_23,5.0,Green Bonds and Investment
+100,5,2,5,6,1,s_23,4.0,Green Bonds and Investment
+101,1,2,4,6,4,s_23,4.0,Green Bonds and Investment
+103,3,1,2,2,4,s_23,3.0,Green Bonds and Investment
+104,3,2,4,3,4,s_23,4.0,Green Bonds and Investment
+105,3,2,5,3,1,s_23,3.0,Green Bonds and Investment
+106,8,2,2,3,1,s_23,4.0,Green Bonds and Investment
+107,4,1,5,6,1,s_23,3.0,Green Bonds and Investment
+108,3,1,6,6,3,s_23,5.0,Green Bonds and Investment
+109,4,2,5,2,3,s_23,5.0,Green Bonds and Investment
+110,6,2,1,6,4,s_23,3.0,Green Bonds and Investment
+111,2,1,2,5,3,s_23,4.0,Green Bonds and Investment
+112,4,1,5,5,3,s_23,4.0,Green Bonds and Investment
+113,3,2,2,6,1,s_23,4.0,Green Bonds and Investment
+114,5,3,6,1,3,s_23,1.0,Green Bonds and Investment
+116,10,1,5,4,4,s_23,3.0,Green Bonds and Investment
+117,1,1,5,6,3,s_23,4.0,Green Bonds and Investment
+118,6,2,5,1,5,s_23,4.0,Green Bonds and Investment
+119,3,1,5,6,3,s_23,4.0,Green Bonds and Investment
+120,6,1,2,3,3,s_23,3.0,Green Bonds and Investment
+121,5,2,6,2,1,s_23,4.0,Green Bonds and Investment
+122,2,2,2,1,3,s_23,5.0,Green Bonds and Investment
+123,2,2,6,3,1,s_23,1.0,Green Bonds and Investment
+124,6,2,2,3,1,s_23,3.0,Green Bonds and Investment
+125,4,2,4,2,3,s_23,4.0,Green Bonds and Investment
+126,1,2,6,4,3,s_23,5.0,Green Bonds and Investment
+127,2,1,5,5,2,s_23,2.0,Green Bonds and Investment
+128,3,1,5,4,1,s_23,3.0,Green Bonds and Investment
+130,4,1,5,5,2,s_23,4.0,Green Bonds and Investment
+131,5,1,6,2,4,s_23,4.0,Green Bonds and Investment
+132,3,2,5,6,1,s_23,5.0,Green Bonds and Investment
+133,6,1,5,3,1,s_23,2.0,Green Bonds and Investment
+134,6,1,4,2,4,s_23,4.0,Green Bonds and Investment
+135,2,1,2,1,3,s_23,4.0,Green Bonds and Investment
+136,5,1,6,2,1,s_23,2.0,Green Bonds and Investment
+138,2,1,2,3,1,s_23,4.0,Green Bonds and Investment
+139,6,1,8,4,3,s_23,2.0,Green Bonds and Investment
+140,8,1,4,5,2,s_23,2.0,Green Bonds and Investment
+141,4,2,5,4,3,s_23,2.0,Green Bonds and Investment
+142,2,1,6,2,1,s_23,4.0,Green Bonds and Investment
+143,1,1,2,6,2,s_23,4.0,Green Bonds and Investment
+144,5,2,5,6,3,s_23,4.0,Green Bonds and Investment
+145,4,1,2,6,5,s_23,3.0,Green Bonds and Investment
+146,6,1,4,3,5,s_23,4.0,Green Bonds and Investment
+147,2,2,6,2,1,s_23,4.0,Green Bonds and Investment
+148,2,2,1,1,1,s_23,4.0,Green Bonds and Investment
+149,2,2,2,5,1,s_23,1.0,Green Bonds and Investment
+150,2,2,4,3,1,s_23,4.0,Green Bonds and Investment
+151,3,1,5,5,2,s_23,4.0,Green Bonds and Investment
+153,3,2,8,4,5,s_23,4.0,Green Bonds and Investment
+155,8,2,5,5,3,s_23,3.0,Green Bonds and Investment
+156,5,1,2,1,4,s_23,4.0,Green Bonds and Investment
+158,6,1,2,1,3,s_23,3.0,Green Bonds and Investment
+159,10,2,1,4,3,s_23,2.0,Green Bonds and Investment
+160,5,1,8,6,3,s_23,4.0,Green Bonds and Investment
+161,6,2,5,3,1,s_23,3.0,Green Bonds and Investment
+162,3,1,8,5,4,s_23,3.0,Green Bonds and Investment
+164,8,1,6,2,1,s_23,4.0,Green Bonds and Investment
+165,2,1,5,4,4,s_23,2.0,Green Bonds and Investment
+166,3,3,1,2,4,s_23,2.0,Green Bonds and Investment
+167,2,2,5,4,1,s_23,2.0,Green Bonds and Investment
+168,5,2,5,2,2,s_23,4.0,Green Bonds and Investment
+170,2,1,6,6,2,s_23,1.0,Green Bonds and Investment
+171,2,1,5,3,1,s_23,3.0,Green Bonds and Investment
+173,2,1,6,2,3,s_23,4.0,Green Bonds and Investment
+174,4,1,6,2,1,s_23,4.0,Green Bonds and Investment
+175,9,1,5,6,2,s_23,4.0,Green Bonds and Investment
+176,11,2,4,4,4,s_23,2.0,Green Bonds and Investment
+177,6,2,8,2,1,s_23,4.0,Green Bonds and Investment
+178,9,2,6,6,3,s_23,3.0,Green Bonds and Investment
+179,5,1,2,1,1,s_23,3.0,Green Bonds and Investment
+180,5,1,5,6,2,s_23,4.0,Green Bonds and Investment
+181,7,1,6,4,4,s_23,4.0,Green Bonds and Investment
+182,7,2,6,5,5,s_23,2.0,Green Bonds and Investment
+183,2,2,6,6,1,s_23,5.0,Green Bonds and Investment
+184,2,2,4,6,4,s_23,4.0,Green Bonds and Investment
+185,3,1,5,5,3,s_23,3.0,Green Bonds and Investment
+187,6,1,5,2,3,s_23,3.0,Green Bonds and Investment
+188,2,2,6,2,1,s_23,5.0,Green Bonds and Investment
+189,2,1,6,5,5,s_23,3.0,Green Bonds and Investment
+191,4,1,6,6,4,s_23,4.0,Green Bonds and Investment
+192,2,1,5,4,1,s_23,4.0,Green Bonds and Investment
+194,6,2,2,1,1,s_23,3.0,Green Bonds and Investment
+195,6,1,4,2,1,s_23,3.0,Green Bonds and Investment
+196,5,1,6,4,1,s_23,4.0,Green Bonds and Investment
+197,3,1,2,1,1,s_23,2.0,Green Bonds and Investment
+198,5,1,8,5,1,s_23,5.0,Green Bonds and Investment
+199,3,2,2,2,1,s_23,5.0,Green Bonds and Investment
+200,6,1,8,2,4,s_23,1.0,Green Bonds and Investment
+201,3,2,2,2,3,s_23,5.0,Green Bonds and Investment
+202,9,2,8,2,2,s_23,2.0,Green Bonds and Investment
+203,4,2,6,6,5,s_23,3.0,Green Bonds and Investment
+204,4,2,4,6,5,s_23,4.0,Green Bonds and Investment
+205,2,1,5,3,4,s_23,3.0,Green Bonds and Investment
+206,5,1,8,5,3,s_23,3.0,Green Bonds and Investment
+207,6,1,1,1,1,s_23,5.0,Green Bonds and Investment
+208,1,1,1,1,1,s_23,4.0,Green Bonds and Investment
+209,5,2,2,4,1,s_23,4.0,Green Bonds and Investment
+210,5,1,4,4,1,s_23,4.0,Green Bonds and Investment
+211,9,2,1,1,5,s_23,4.0,Green Bonds and Investment
+212,10,2,8,4,2,s_23,4.0,Green Bonds and Investment
+213,3,2,5,6,3,s_23,4.0,Green Bonds and Investment
+214,7,2,5,5,4,s_23,4.0,Green Bonds and Investment
+215,3,2,4,5,4,s_23,2.0,Green Bonds and Investment
+216,3,2,5,3,1,s_23,3.0,Green Bonds and Investment
+217,3,1,5,2,1,s_23,4.0,Green Bonds and Investment
+218,6,1,5,6,3,s_23,3.0,Green Bonds and Investment
+219,6,1,4,5,4,s_23,3.0,Green Bonds and Investment
+220,2,1,6,6,1,s_23,2.0,Green Bonds and Investment
+221,9,2,2,1,1,s_23,3.0,Green Bonds and Investment
+222,2,1,5,6,5,s_23,5.0,Green Bonds and Investment
+223,6,1,5,6,3,s_23,5.0,Green Bonds and Investment
+224,4,1,6,3,4,s_23,3.0,Green Bonds and Investment
+225,3,1,5,4,1,s_23,5.0,Green Bonds and Investment
+226,6,1,6,5,1,s_23,4.0,Green Bonds and Investment
+227,2,1,5,6,5,s_23,3.0,Green Bonds and Investment
+228,6,1,4,5,4,s_23,4.0,Green Bonds and Investment
+229,8,2,6,4,3,s_23,4.0,Green Bonds and Investment
+231,10,2,5,1,1,s_23,4.0,Green Bonds and Investment
+232,7,2,4,4,2,s_23,4.0,Green Bonds and Investment
+233,9,2,4,6,2,s_23,2.0,Green Bonds and Investment
+234,9,2,6,6,4,s_23,3.0,Green Bonds and Investment
+235,3,1,8,6,1,s_23,3.0,Green Bonds and Investment
+236,6,1,6,2,4,s_23,1.0,Green Bonds and Investment
+237,3,2,6,2,1,s_23,5.0,Green Bonds and Investment
+238,4,2,2,1,4,s_23,4.0,Green Bonds and Investment
+240,6,1,5,6,1,s_23,5.0,Green Bonds and Investment
+241,6,1,6,2,2,s_23,4.0,Green Bonds and Investment
+242,6,1,6,2,2,s_23,3.0,Green Bonds and Investment
+243,6,2,4,5,5,s_23,2.0,Green Bonds and Investment
+244,6,1,5,6,1,s_23,4.0,Green Bonds and Investment
+245,3,2,5,4,1,s_23,4.0,Green Bonds and Investment
+246,9,1,6,6,3,s_23,2.0,Green Bonds and Investment
+247,4,1,2,1,3,s_23,4.0,Green Bonds and Investment
+248,3,2,1,1,3,s_23,4.0,Green Bonds and Investment
+249,5,1,5,4,1,s_23,3.0,Green Bonds and Investment
+250,8,1,6,2,4,s_23,4.0,Green Bonds and Investment
+251,7,2,4,3,4,s_23,3.0,Green Bonds and Investment
+252,9,2,6,4,3,s_23,1.0,Green Bonds and Investment
+253,2,1,6,2,1,s_23,4.0,Green Bonds and Investment
+254,9,2,8,4,1,s_23,4.0,Green Bonds and Investment
+255,6,1,8,5,2,s_23,5.0,Green Bonds and Investment
+257,2,2,5,5,4,s_23,3.0,Green Bonds and Investment
+258,3,1,5,6,5,s_23,5.0,Green Bonds and Investment
+259,5,1,8,5,1,s_23,3.0,Green Bonds and Investment
+260,6,1,1,4,3,s_23,4.0,Green Bonds and Investment
+261,6,1,8,4,5,s_23,4.0,Green Bonds and Investment
+262,1,2,6,4,1,s_23,5.0,Green Bonds and Investment
+263,7,2,2,4,1,s_23,4.0,Green Bonds and Investment
+264,2,1,5,6,3,s_23,5.0,Green Bonds and Investment
+265,6,1,4,3,1,s_23,3.0,Green Bonds and Investment
+266,6,2,5,2,4,s_23,3.0,Green Bonds and Investment
+267,4,1,2,2,1,s_23,3.0,Green Bonds and Investment
+268,2,2,5,6,2,s_23,4.0,Green Bonds and Investment
+269,6,2,8,5,1,s_23,3.0,Green Bonds and Investment
+270,3,1,8,1,1,s_23,4.0,Green Bonds and Investment
+271,6,1,2,1,4,s_23,1.0,Green Bonds and Investment
+272,6,1,8,6,3,s_23,4.0,Green Bonds and Investment
+273,7,2,5,4,1,s_23,4.0,Green Bonds and Investment
+274,5,2,6,6,3,s_23,4.0,Green Bonds and Investment
+275,2,2,2,1,1,s_23,3.0,Green Bonds and Investment
+277,3,1,8,1,1,s_23,2.0,Green Bonds and Investment
+278,5,1,5,5,1,s_23,4.0,Green Bonds and Investment
+279,2,2,5,3,2,s_23,4.0,Green Bonds and Investment
+280,6,1,6,5,1,s_23,2.0,Green Bonds and Investment
+281,6,2,4,4,2,s_23,4.0,Green Bonds and Investment
+282,5,1,1,1,2,s_23,4.0,Green Bonds and Investment
+283,8,1,5,5,2,s_23,4.0,Green Bonds and Investment
+284,3,2,8,6,4,s_23,5.0,Green Bonds and Investment
+285,7,1,5,3,3,s_23,3.0,Green Bonds and Investment
+286,6,2,4,6,1,s_23,4.0,Green Bonds and Investment
+287,2,2,4,3,1,s_23,3.0,Green Bonds and Investment
+289,7,2,5,6,1,s_23,3.0,Green Bonds and Investment
+290,5,2,6,6,4,s_23,4.0,Green Bonds and Investment
+291,8,2,5,6,4,s_23,4.0,Green Bonds and Investment
+292,9,1,2,1,1,s_23,4.0,Green Bonds and Investment
+293,4,2,4,4,4,s_23,4.0,Green Bonds and Investment
+294,3,1,8,6,1,s_23,4.0,Green Bonds and Investment
+295,6,1,5,2,2,s_23,2.0,Green Bonds and Investment
+296,3,1,5,6,1,s_23,3.0,Green Bonds and Investment
+297,2,2,6,4,4,s_23,5.0,Green Bonds and Investment
+298,1,2,2,1,4,s_23,5.0,Green Bonds and Investment
+299,6,3,8,3,3,s_23,3.0,Green Bonds and Investment
+301,3,2,8,2,4,s_23,2.0,Green Bonds and Investment
+303,2,1,5,4,4,s_23,3.0,Green Bonds and Investment
+304,2,2,4,2,4,s_23,4.0,Green Bonds and Investment
+305,10,2,5,6,3,s_23,2.0,Green Bonds and Investment
+306,10,2,6,6,2,s_23,1.0,Green Bonds and Investment
+307,4,2,2,2,4,s_23,4.0,Green Bonds and Investment
+308,8,1,5,1,1,s_23,4.0,Green Bonds and Investment
+309,3,2,8,6,4,s_23,5.0,Green Bonds and Investment
+310,6,2,5,5,2,s_23,4.0,Green Bonds and Investment
+311,6,1,5,6,1,s_23,2.0,Green Bonds and Investment
+312,2,1,4,6,1,s_23,4.0,Green Bonds and Investment
+1,7,2,6,4,4,s_24,4.0,Plant-Based Food Initiatives
+3,2,1,2,1,1,s_24,5.0,Plant-Based Food Initiatives
+4,3,2,5,6,4,s_24,2.0,Plant-Based Food Initiatives
+5,2,2,2,1,3,s_24,4.0,Plant-Based Food Initiatives
+8,5,1,5,4,4,s_24,1.0,Plant-Based Food Initiatives
+9,6,2,5,3,4,s_24,3.0,Plant-Based Food Initiatives
+10,3,1,6,3,1,s_24,3.0,Plant-Based Food Initiatives
+11,3,2,6,6,5,s_24,3.0,Plant-Based Food Initiatives
+12,6,1,5,3,1,s_24,4.0,Plant-Based Food Initiatives
+13,1,1,5,3,3,s_24,4.0,Plant-Based Food Initiatives
+14,8,1,8,3,4,s_24,4.0,Plant-Based Food Initiatives
+15,7,2,6,5,1,s_24,1.0,Plant-Based Food Initiatives
+16,2,2,8,6,1,s_24,5.0,Plant-Based Food Initiatives
+17,7,2,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+18,6,2,2,5,5,s_24,1.0,Plant-Based Food Initiatives
+19,6,1,2,3,2,s_24,4.0,Plant-Based Food Initiatives
+20,2,2,5,6,2,s_24,4.0,Plant-Based Food Initiatives
+21,2,2,8,5,5,s_24,4.0,Plant-Based Food Initiatives
+22,4,1,5,3,2,s_24,4.0,Plant-Based Food Initiatives
+23,4,2,1,2,5,s_24,4.0,Plant-Based Food Initiatives
+24,1,1,5,6,3,s_24,5.0,Plant-Based Food Initiatives
+26,6,1,4,3,5,s_24,3.0,Plant-Based Food Initiatives
+27,6,1,5,3,5,s_24,3.0,Plant-Based Food Initiatives
+28,2,2,8,6,3,s_24,4.0,Plant-Based Food Initiatives
+29,6,1,2,2,3,s_24,4.0,Plant-Based Food Initiatives
+30,8,2,5,3,4,s_24,2.0,Plant-Based Food Initiatives
+32,6,2,4,3,4,s_24,1.0,Plant-Based Food Initiatives
+33,3,2,6,6,4,s_24,4.0,Plant-Based Food Initiatives
+34,3,1,5,6,4,s_24,2.0,Plant-Based Food Initiatives
+35,7,2,4,3,5,s_24,3.0,Plant-Based Food Initiatives
+36,3,2,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+37,3,2,1,6,2,s_24,4.0,Plant-Based Food Initiatives
+38,6,2,6,5,4,s_24,4.0,Plant-Based Food Initiatives
+39,8,1,5,5,4,s_24,4.0,Plant-Based Food Initiatives
+40,6,1,4,2,4,s_24,3.0,Plant-Based Food Initiatives
+41,2,2,4,6,1,s_24,4.0,Plant-Based Food Initiatives
+42,8,1,2,3,1,s_24,3.0,Plant-Based Food Initiatives
+43,4,2,4,3,1,s_24,2.0,Plant-Based Food Initiatives
+44,2,2,6,3,1,s_24,3.0,Plant-Based Food Initiatives
+45,3,1,2,5,5,s_24,3.0,Plant-Based Food Initiatives
+46,1,1,2,3,1,s_24,3.0,Plant-Based Food Initiatives
+47,2,1,8,4,3,s_24,3.0,Plant-Based Food Initiatives
+48,5,1,1,1,4,s_24,5.0,Plant-Based Food Initiatives
+49,6,2,6,2,4,s_24,3.0,Plant-Based Food Initiatives
+50,2,2,2,2,1,s_24,4.0,Plant-Based Food Initiatives
+51,6,2,2,2,2,s_24,3.0,Plant-Based Food Initiatives
+52,5,1,6,2,1,s_24,4.0,Plant-Based Food Initiatives
+53,9,2,6,4,3,s_24,2.0,Plant-Based Food Initiatives
+54,2,1,5,2,2,s_24,1.0,Plant-Based Food Initiatives
+55,6,1,5,6,2,s_24,3.0,Plant-Based Food Initiatives
+56,6,2,4,2,3,s_24,5.0,Plant-Based Food Initiatives
+57,11,2,4,5,2,s_24,5.0,Plant-Based Food Initiatives
+58,6,2,2,1,1,s_24,4.0,Plant-Based Food Initiatives
+59,3,2,5,2,3,s_24,4.0,Plant-Based Food Initiatives
+60,6,2,4,4,3,s_24,2.0,Plant-Based Food Initiatives
+61,6,1,1,1,1,s_24,5.0,Plant-Based Food Initiatives
+62,6,2,4,2,3,s_24,3.0,Plant-Based Food Initiatives
+63,9,1,5,4,2,s_24,4.0,Plant-Based Food Initiatives
+64,7,1,2,2,1,s_24,4.0,Plant-Based Food Initiatives
+65,6,2,4,3,3,s_24,5.0,Plant-Based Food Initiatives
+68,10,2,5,5,5,s_24,3.0,Plant-Based Food Initiatives
+69,4,2,6,4,1,s_24,3.0,Plant-Based Food Initiatives
+70,2,1,6,2,1,s_24,4.0,Plant-Based Food Initiatives
+71,6,2,1,5,3,s_24,4.0,Plant-Based Food Initiatives
+72,1,3,1,1,2,s_24,5.0,Plant-Based Food Initiatives
+73,5,1,5,4,2,s_24,3.0,Plant-Based Food Initiatives
+74,6,1,2,3,3,s_24,3.0,Plant-Based Food Initiatives
+75,2,2,1,5,1,s_24,5.0,Plant-Based Food Initiatives
+76,3,1,6,3,4,s_24,3.0,Plant-Based Food Initiatives
+78,5,2,4,3,3,s_24,3.0,Plant-Based Food Initiatives
+79,6,1,6,3,3,s_24,3.0,Plant-Based Food Initiatives
+80,2,1,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+82,3,1,5,1,4,s_24,5.0,Plant-Based Food Initiatives
+83,6,2,5,4,2,s_24,3.0,Plant-Based Food Initiatives
+84,5,2,6,4,1,s_24,3.0,Plant-Based Food Initiatives
+85,2,2,8,3,3,s_24,4.0,Plant-Based Food Initiatives
+86,6,2,6,6,1,s_24,2.0,Plant-Based Food Initiatives
+87,4,1,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+88,2,1,4,6,5,s_24,3.0,Plant-Based Food Initiatives
+89,5,1,5,3,3,s_24,1.0,Plant-Based Food Initiatives
+90,2,2,6,3,1,s_24,5.0,Plant-Based Food Initiatives
+91,8,1,2,1,4,s_24,4.0,Plant-Based Food Initiatives
+92,6,1,4,5,2,s_24,3.0,Plant-Based Food Initiatives
+93,10,1,5,2,4,s_24,3.0,Plant-Based Food Initiatives
+94,7,1,8,5,5,s_24,4.0,Plant-Based Food Initiatives
+97,2,2,8,6,4,s_24,4.0,Plant-Based Food Initiatives
+98,11,2,4,4,2,s_24,1.0,Plant-Based Food Initiatives
+99,5,1,4,5,4,s_24,4.0,Plant-Based Food Initiatives
+100,5,2,5,6,1,s_24,4.0,Plant-Based Food Initiatives
+101,1,2,4,6,4,s_24,3.0,Plant-Based Food Initiatives
+102,5,1,5,6,1,s_24,4.0,Plant-Based Food Initiatives
+103,3,1,2,2,4,s_24,4.0,Plant-Based Food Initiatives
+104,3,2,4,3,4,s_24,5.0,Plant-Based Food Initiatives
+105,3,2,5,3,1,s_24,4.0,Plant-Based Food Initiatives
+106,8,2,2,3,1,s_24,3.0,Plant-Based Food Initiatives
+107,4,1,5,6,1,s_24,4.0,Plant-Based Food Initiatives
+108,3,1,6,6,3,s_24,3.0,Plant-Based Food Initiatives
+109,4,2,5,2,3,s_24,4.0,Plant-Based Food Initiatives
+110,6,2,1,6,4,s_24,3.0,Plant-Based Food Initiatives
+111,2,1,2,5,3,s_24,4.0,Plant-Based Food Initiatives
+112,4,1,5,5,3,s_24,3.0,Plant-Based Food Initiatives
+113,3,2,2,6,1,s_24,3.0,Plant-Based Food Initiatives
+114,5,3,6,1,3,s_24,1.0,Plant-Based Food Initiatives
+116,10,1,5,4,4,s_24,3.0,Plant-Based Food Initiatives
+117,1,1,5,6,3,s_24,5.0,Plant-Based Food Initiatives
+118,6,2,5,1,5,s_24,4.0,Plant-Based Food Initiatives
+119,3,1,5,6,3,s_24,4.0,Plant-Based Food Initiatives
+120,6,1,2,3,3,s_24,3.0,Plant-Based Food Initiatives
+121,5,2,6,2,1,s_24,5.0,Plant-Based Food Initiatives
+123,2,2,6,3,1,s_24,5.0,Plant-Based Food Initiatives
+124,6,2,2,3,1,s_24,2.0,Plant-Based Food Initiatives
+125,4,2,4,2,3,s_24,4.0,Plant-Based Food Initiatives
+126,1,2,6,4,3,s_24,5.0,Plant-Based Food Initiatives
+127,2,1,5,5,2,s_24,3.0,Plant-Based Food Initiatives
+130,4,1,5,5,2,s_24,4.0,Plant-Based Food Initiatives
+132,3,2,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+133,6,1,5,3,1,s_24,2.0,Plant-Based Food Initiatives
+134,6,1,4,2,4,s_24,4.0,Plant-Based Food Initiatives
+135,2,1,2,1,3,s_24,3.0,Plant-Based Food Initiatives
+136,5,1,6,2,1,s_24,3.0,Plant-Based Food Initiatives
+138,2,1,2,3,1,s_24,4.0,Plant-Based Food Initiatives
+139,6,1,8,4,3,s_24,4.0,Plant-Based Food Initiatives
+140,8,1,4,5,2,s_24,2.0,Plant-Based Food Initiatives
+141,4,2,5,4,3,s_24,4.0,Plant-Based Food Initiatives
+142,2,1,6,2,1,s_24,5.0,Plant-Based Food Initiatives
+144,5,2,5,6,3,s_24,3.0,Plant-Based Food Initiatives
+145,4,1,2,6,5,s_24,3.0,Plant-Based Food Initiatives
+146,6,1,4,3,5,s_24,4.0,Plant-Based Food Initiatives
+147,2,2,6,2,1,s_24,3.0,Plant-Based Food Initiatives
+148,2,2,1,1,1,s_24,1.0,Plant-Based Food Initiatives
+149,2,2,2,5,1,s_24,1.0,Plant-Based Food Initiatives
+151,3,1,5,5,2,s_24,4.0,Plant-Based Food Initiatives
+152,3,2,8,2,2,s_24,3.0,Plant-Based Food Initiatives
+153,3,2,8,4,5,s_24,4.0,Plant-Based Food Initiatives
+155,8,2,5,5,3,s_24,4.0,Plant-Based Food Initiatives
+156,5,1,2,1,4,s_24,5.0,Plant-Based Food Initiatives
+157,2,1,6,3,1,s_24,3.0,Plant-Based Food Initiatives
+158,6,1,2,1,3,s_24,4.0,Plant-Based Food Initiatives
+159,10,2,1,4,3,s_24,2.0,Plant-Based Food Initiatives
+160,5,1,8,6,3,s_24,3.0,Plant-Based Food Initiatives
+161,6,2,5,3,1,s_24,4.0,Plant-Based Food Initiatives
+162,3,1,8,5,4,s_24,4.0,Plant-Based Food Initiatives
+163,6,1,5,5,4,s_24,3.0,Plant-Based Food Initiatives
+164,8,1,6,2,1,s_24,4.0,Plant-Based Food Initiatives
+165,2,1,5,4,4,s_24,2.0,Plant-Based Food Initiatives
+166,3,3,1,2,4,s_24,2.0,Plant-Based Food Initiatives
+167,2,2,5,4,1,s_24,2.0,Plant-Based Food Initiatives
+168,5,2,5,2,2,s_24,4.0,Plant-Based Food Initiatives
+169,5,1,6,2,1,s_24,4.0,Plant-Based Food Initiatives
+170,2,1,6,6,2,s_24,1.0,Plant-Based Food Initiatives
+171,2,1,5,3,1,s_24,3.0,Plant-Based Food Initiatives
+173,2,1,6,2,3,s_24,4.0,Plant-Based Food Initiatives
+174,4,1,6,2,1,s_24,4.0,Plant-Based Food Initiatives
+175,9,1,5,6,2,s_24,3.0,Plant-Based Food Initiatives
+176,11,2,4,4,4,s_24,2.0,Plant-Based Food Initiatives
+177,6,2,8,2,1,s_24,3.0,Plant-Based Food Initiatives
+178,9,2,6,6,3,s_24,2.0,Plant-Based Food Initiatives
+179,5,1,2,1,1,s_24,4.0,Plant-Based Food Initiatives
+180,5,1,5,6,2,s_24,5.0,Plant-Based Food Initiatives
+181,7,1,6,4,4,s_24,4.0,Plant-Based Food Initiatives
+182,7,2,6,5,5,s_24,2.0,Plant-Based Food Initiatives
+183,2,2,6,6,1,s_24,4.0,Plant-Based Food Initiatives
+184,2,2,4,6,4,s_24,3.0,Plant-Based Food Initiatives
+185,3,1,5,5,3,s_24,2.0,Plant-Based Food Initiatives
+187,6,1,5,2,3,s_24,3.0,Plant-Based Food Initiatives
+188,2,2,6,2,1,s_24,3.0,Plant-Based Food Initiatives
+189,2,1,6,5,5,s_24,3.0,Plant-Based Food Initiatives
+191,4,1,6,6,4,s_24,4.0,Plant-Based Food Initiatives
+192,2,1,5,4,1,s_24,4.0,Plant-Based Food Initiatives
+194,6,2,2,1,1,s_24,1.0,Plant-Based Food Initiatives
+195,6,1,4,2,1,s_24,3.0,Plant-Based Food Initiatives
+196,5,1,6,4,1,s_24,4.0,Plant-Based Food Initiatives
+198,5,1,8,5,1,s_24,4.0,Plant-Based Food Initiatives
+199,3,2,2,2,1,s_24,5.0,Plant-Based Food Initiatives
+200,6,1,8,2,4,s_24,1.0,Plant-Based Food Initiatives
+201,3,2,2,2,3,s_24,5.0,Plant-Based Food Initiatives
+202,9,2,8,2,2,s_24,1.0,Plant-Based Food Initiatives
+203,4,2,6,6,5,s_24,3.0,Plant-Based Food Initiatives
+204,4,2,4,6,5,s_24,4.0,Plant-Based Food Initiatives
+205,2,1,5,3,4,s_24,3.0,Plant-Based Food Initiatives
+206,5,1,8,5,3,s_24,3.0,Plant-Based Food Initiatives
+207,6,1,1,1,1,s_24,5.0,Plant-Based Food Initiatives
+208,1,1,1,1,1,s_24,4.0,Plant-Based Food Initiatives
+209,5,2,2,4,1,s_24,3.0,Plant-Based Food Initiatives
+210,5,1,4,4,1,s_24,4.0,Plant-Based Food Initiatives
+211,9,2,1,1,5,s_24,2.0,Plant-Based Food Initiatives
+212,10,2,8,4,2,s_24,1.0,Plant-Based Food Initiatives
+213,3,2,5,6,3,s_24,2.0,Plant-Based Food Initiatives
+214,7,2,5,5,4,s_24,2.0,Plant-Based Food Initiatives
+215,3,2,4,5,4,s_24,2.0,Plant-Based Food Initiatives
+216,3,2,5,3,1,s_24,2.0,Plant-Based Food Initiatives
+217,3,1,5,2,1,s_24,4.0,Plant-Based Food Initiatives
+218,6,1,5,6,3,s_24,3.0,Plant-Based Food Initiatives
+220,2,1,6,6,1,s_24,1.0,Plant-Based Food Initiatives
+221,9,2,2,1,1,s_24,2.0,Plant-Based Food Initiatives
+222,2,1,5,6,5,s_24,1.0,Plant-Based Food Initiatives
+223,6,1,5,6,3,s_24,5.0,Plant-Based Food Initiatives
+224,4,1,6,3,4,s_24,5.0,Plant-Based Food Initiatives
+225,3,1,5,4,1,s_24,3.0,Plant-Based Food Initiatives
+226,6,1,6,5,1,s_24,4.0,Plant-Based Food Initiatives
+227,2,1,5,6,5,s_24,4.0,Plant-Based Food Initiatives
+228,6,1,4,5,4,s_24,3.0,Plant-Based Food Initiatives
+229,8,2,6,4,3,s_24,4.0,Plant-Based Food Initiatives
+231,10,2,5,1,1,s_24,2.0,Plant-Based Food Initiatives
+232,7,2,4,4,2,s_24,2.0,Plant-Based Food Initiatives
+233,9,2,4,6,2,s_24,1.0,Plant-Based Food Initiatives
+234,9,2,6,6,4,s_24,2.0,Plant-Based Food Initiatives
+235,3,1,8,6,1,s_24,4.0,Plant-Based Food Initiatives
+236,6,1,6,2,4,s_24,1.0,Plant-Based Food Initiatives
+237,3,2,6,2,1,s_24,5.0,Plant-Based Food Initiatives
+238,4,2,2,1,4,s_24,4.0,Plant-Based Food Initiatives
+239,2,2,6,2,4,s_24,4.0,Plant-Based Food Initiatives
+240,6,1,5,6,1,s_24,5.0,Plant-Based Food Initiatives
+241,6,1,6,2,2,s_24,2.0,Plant-Based Food Initiatives
+242,6,1,6,2,2,s_24,3.0,Plant-Based Food Initiatives
+245,3,2,5,4,1,s_24,3.0,Plant-Based Food Initiatives
+246,9,1,6,6,3,s_24,1.0,Plant-Based Food Initiatives
+247,4,1,2,1,3,s_24,3.0,Plant-Based Food Initiatives
+248,3,2,1,1,3,s_24,4.0,Plant-Based Food Initiatives
+249,5,1,5,4,1,s_24,3.0,Plant-Based Food Initiatives
+250,8,1,6,2,4,s_24,4.0,Plant-Based Food Initiatives
+251,7,2,4,3,4,s_24,1.0,Plant-Based Food Initiatives
+252,9,2,6,4,3,s_24,1.0,Plant-Based Food Initiatives
+253,2,1,6,2,1,s_24,5.0,Plant-Based Food Initiatives
+254,9,2,8,4,1,s_24,2.0,Plant-Based Food Initiatives
+255,6,1,8,5,2,s_24,4.0,Plant-Based Food Initiatives
+256,8,2,2,5,1,s_24,2.0,Plant-Based Food Initiatives
+257,2,2,5,5,4,s_24,2.0,Plant-Based Food Initiatives
+258,3,1,5,6,5,s_24,4.0,Plant-Based Food Initiatives
+260,6,1,1,4,3,s_24,4.0,Plant-Based Food Initiatives
+261,6,1,8,4,5,s_24,3.0,Plant-Based Food Initiatives
+262,1,2,6,4,1,s_24,4.0,Plant-Based Food Initiatives
+263,7,2,2,4,1,s_24,1.0,Plant-Based Food Initiatives
+264,2,1,5,6,3,s_24,3.0,Plant-Based Food Initiatives
+265,6,1,4,3,1,s_24,3.0,Plant-Based Food Initiatives
+267,4,1,2,2,1,s_24,3.0,Plant-Based Food Initiatives
+268,2,2,5,6,2,s_24,4.0,Plant-Based Food Initiatives
+269,6,2,8,5,1,s_24,2.0,Plant-Based Food Initiatives
+270,3,1,8,1,1,s_24,3.0,Plant-Based Food Initiatives
+271,6,1,2,1,4,s_24,2.0,Plant-Based Food Initiatives
+272,6,1,8,6,3,s_24,3.0,Plant-Based Food Initiatives
+273,7,2,5,4,1,s_24,3.0,Plant-Based Food Initiatives
+274,5,2,6,6,3,s_24,3.0,Plant-Based Food Initiatives
+275,2,2,2,1,1,s_24,3.0,Plant-Based Food Initiatives
+277,3,1,8,1,1,s_24,5.0,Plant-Based Food Initiatives
+278,5,1,5,5,1,s_24,4.0,Plant-Based Food Initiatives
+279,2,2,5,3,2,s_24,4.0,Plant-Based Food Initiatives
+280,6,1,6,5,1,s_24,2.0,Plant-Based Food Initiatives
+281,6,2,4,4,2,s_24,3.0,Plant-Based Food Initiatives
+282,5,1,1,1,2,s_24,4.0,Plant-Based Food Initiatives
+283,8,1,5,5,2,s_24,3.0,Plant-Based Food Initiatives
+284,3,2,8,6,4,s_24,4.0,Plant-Based Food Initiatives
+285,7,1,5,3,3,s_24,2.0,Plant-Based Food Initiatives
+286,6,2,4,6,1,s_24,2.0,Plant-Based Food Initiatives
+287,2,2,4,3,1,s_24,4.0,Plant-Based Food Initiatives
+288,4,2,5,3,2,s_24,1.0,Plant-Based Food Initiatives
+289,7,2,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+290,5,2,6,6,4,s_24,5.0,Plant-Based Food Initiatives
+291,8,2,5,6,4,s_24,1.0,Plant-Based Food Initiatives
+292,9,1,2,1,1,s_24,4.0,Plant-Based Food Initiatives
+293,4,2,4,4,4,s_24,3.0,Plant-Based Food Initiatives
+294,3,1,8,6,1,s_24,3.0,Plant-Based Food Initiatives
+295,6,1,5,2,2,s_24,3.0,Plant-Based Food Initiatives
+296,3,1,5,6,1,s_24,3.0,Plant-Based Food Initiatives
+297,2,2,6,4,4,s_24,4.0,Plant-Based Food Initiatives
+298,1,2,2,1,4,s_24,5.0,Plant-Based Food Initiatives
+299,6,3,8,3,3,s_24,4.0,Plant-Based Food Initiatives
+300,3,1,6,6,1,s_24,3.0,Plant-Based Food Initiatives
+301,3,2,8,2,4,s_24,2.0,Plant-Based Food Initiatives
+302,9,1,5,6,4,s_24,4.0,Plant-Based Food Initiatives
+303,2,1,5,4,4,s_24,4.0,Plant-Based Food Initiatives
+304,2,2,4,2,4,s_24,5.0,Plant-Based Food Initiatives
+305,10,2,5,6,3,s_24,4.0,Plant-Based Food Initiatives
+306,10,2,6,6,2,s_24,1.0,Plant-Based Food Initiatives
+307,4,2,2,2,4,s_24,4.0,Plant-Based Food Initiatives
+308,8,1,5,1,1,s_24,3.0,Plant-Based Food Initiatives
+309,3,2,8,6,4,s_24,3.0,Plant-Based Food Initiatives
+310,6,2,5,5,2,s_24,3.0,Plant-Based Food Initiatives
+311,6,1,5,6,1,s_24,4.0,Plant-Based Food Initiatives
+312,2,1,4,6,1,s_24,3.0,Plant-Based Food Initiatives
+1,7,2,6,4,4,s_25,3.0,Air Travel Tax
+2,5,1,6,2,5,s_25,4.0,Air Travel Tax
+3,2,1,2,1,1,s_25,4.0,Air Travel Tax
+4,3,2,5,6,4,s_25,4.0,Air Travel Tax
+5,2,2,2,1,3,s_25,5.0,Air Travel Tax
+6,6,2,4,3,3,s_25,3.0,Air Travel Tax
+7,3,2,8,3,3,s_25,2.0,Air Travel Tax
+8,5,1,5,4,4,s_25,2.0,Air Travel Tax
+9,6,2,5,3,4,s_25,3.0,Air Travel Tax
+10,3,1,6,3,1,s_25,5.0,Air Travel Tax
+11,3,2,6,6,5,s_25,3.0,Air Travel Tax
+12,6,1,5,3,1,s_25,4.0,Air Travel Tax
+13,1,1,5,3,3,s_25,4.0,Air Travel Tax
+14,8,1,8,3,4,s_25,3.0,Air Travel Tax
+15,7,2,6,5,1,s_25,2.0,Air Travel Tax
+16,2,2,8,6,1,s_25,1.0,Air Travel Tax
+17,7,2,5,6,1,s_25,3.0,Air Travel Tax
+18,6,2,2,5,5,s_25,1.0,Air Travel Tax
+19,6,1,2,3,2,s_25,4.0,Air Travel Tax
+20,2,2,5,6,2,s_25,5.0,Air Travel Tax
+21,2,2,8,5,5,s_25,4.0,Air Travel Tax
+22,4,1,5,3,2,s_25,4.0,Air Travel Tax
+23,4,2,1,2,5,s_25,4.0,Air Travel Tax
+24,1,1,5,6,3,s_25,5.0,Air Travel Tax
+25,3,2,4,5,4,s_25,5.0,Air Travel Tax
+26,6,1,4,3,5,s_25,2.0,Air Travel Tax
+27,6,1,5,3,5,s_25,5.0,Air Travel Tax
+28,2,2,8,6,3,s_25,4.0,Air Travel Tax
+29,6,1,2,2,3,s_25,4.0,Air Travel Tax
+30,8,2,5,3,4,s_25,3.0,Air Travel Tax
+31,3,1,8,6,4,s_25,4.0,Air Travel Tax
+32,6,2,4,3,4,s_25,1.0,Air Travel Tax
+33,3,2,6,6,4,s_25,5.0,Air Travel Tax
+34,3,1,5,6,4,s_25,2.0,Air Travel Tax
+35,7,2,4,3,5,s_25,1.0,Air Travel Tax
+36,3,2,5,6,1,s_25,4.0,Air Travel Tax
+37,3,2,1,6,2,s_25,5.0,Air Travel Tax
+38,6,2,6,5,4,s_25,4.0,Air Travel Tax
+39,8,1,5,5,4,s_25,4.0,Air Travel Tax
+40,6,1,4,2,4,s_25,4.0,Air Travel Tax
+41,2,2,4,6,1,s_25,5.0,Air Travel Tax
+42,8,1,2,3,1,s_25,4.0,Air Travel Tax
+43,4,2,4,3,1,s_25,4.0,Air Travel Tax
+44,2,2,6,3,1,s_25,3.0,Air Travel Tax
+45,3,1,2,5,5,s_25,4.0,Air Travel Tax
+46,1,1,2,3,1,s_25,2.0,Air Travel Tax
+47,2,1,8,4,3,s_25,5.0,Air Travel Tax
+48,5,1,1,1,4,s_25,2.0,Air Travel Tax
+49,6,2,6,2,4,s_25,1.0,Air Travel Tax
+50,2,2,2,2,1,s_25,4.0,Air Travel Tax
+51,6,2,2,2,2,s_25,3.0,Air Travel Tax
+52,5,1,6,2,1,s_25,5.0,Air Travel Tax
+53,9,2,6,4,3,s_25,2.0,Air Travel Tax
+54,2,1,5,2,2,s_25,4.0,Air Travel Tax
+55,6,1,5,6,2,s_25,5.0,Air Travel Tax
+56,6,2,4,2,3,s_25,5.0,Air Travel Tax
+57,11,2,4,5,2,s_25,4.0,Air Travel Tax
+58,6,2,2,1,1,s_25,4.0,Air Travel Tax
+59,3,2,5,2,3,s_25,4.0,Air Travel Tax
+60,6,2,4,4,3,s_25,4.0,Air Travel Tax
+61,6,1,1,1,1,s_25,2.0,Air Travel Tax
+62,6,2,4,2,3,s_25,2.0,Air Travel Tax
+63,9,1,5,4,2,s_25,4.0,Air Travel Tax
+64,7,1,2,2,1,s_25,4.0,Air Travel Tax
+65,6,2,4,3,3,s_25,5.0,Air Travel Tax
+66,2,2,5,4,4,s_25,3.0,Air Travel Tax
+67,3,1,1,6,3,s_25,3.0,Air Travel Tax
+68,10,2,5,5,5,s_25,3.0,Air Travel Tax
+69,4,2,6,4,1,s_25,5.0,Air Travel Tax
+70,2,1,6,2,1,s_25,4.0,Air Travel Tax
+71,6,2,1,5,3,s_25,3.0,Air Travel Tax
+73,5,1,5,4,2,s_25,3.0,Air Travel Tax
+75,2,2,1,5,1,s_25,4.0,Air Travel Tax
+76,3,1,6,3,4,s_25,2.0,Air Travel Tax
+77,2,2,5,6,1,s_25,4.0,Air Travel Tax
+78,5,2,4,3,3,s_25,5.0,Air Travel Tax
+79,6,1,6,3,3,s_25,5.0,Air Travel Tax
+80,2,1,5,6,1,s_25,5.0,Air Travel Tax
+81,5,1,6,2,1,s_25,4.0,Air Travel Tax
+82,3,1,5,1,4,s_25,5.0,Air Travel Tax
+83,6,2,5,4,2,s_25,4.0,Air Travel Tax
+84,5,2,6,4,1,s_25,3.0,Air Travel Tax
+85,2,2,8,3,3,s_25,4.0,Air Travel Tax
+86,6,2,6,6,1,s_25,4.0,Air Travel Tax
+87,4,1,5,6,1,s_25,1.0,Air Travel Tax
+88,2,1,4,6,5,s_25,4.0,Air Travel Tax
+89,5,1,5,3,3,s_25,4.0,Air Travel Tax
+90,2,2,6,3,1,s_25,5.0,Air Travel Tax
+91,8,1,2,1,4,s_25,3.0,Air Travel Tax
+92,6,1,4,5,2,s_25,3.0,Air Travel Tax
+93,10,1,5,2,4,s_25,4.0,Air Travel Tax
+94,7,1,8,5,5,s_25,4.0,Air Travel Tax
+95,6,2,5,5,3,s_25,5.0,Air Travel Tax
+96,10,2,4,5,5,s_25,4.0,Air Travel Tax
+97,2,2,8,6,4,s_25,4.0,Air Travel Tax
+98,11,2,4,4,2,s_25,1.0,Air Travel Tax
+99,5,1,4,5,4,s_25,5.0,Air Travel Tax
+100,5,2,5,6,1,s_25,3.0,Air Travel Tax
+101,1,2,4,6,4,s_25,4.0,Air Travel Tax
+102,5,1,5,6,1,s_25,5.0,Air Travel Tax
+103,3,1,2,2,4,s_25,4.0,Air Travel Tax
+104,3,2,4,3,4,s_25,4.0,Air Travel Tax
+105,3,2,5,3,1,s_25,4.0,Air Travel Tax
+106,8,2,2,3,1,s_25,4.0,Air Travel Tax
+107,4,1,5,6,1,s_25,4.0,Air Travel Tax
+108,3,1,6,6,3,s_25,5.0,Air Travel Tax
+109,4,2,5,2,3,s_25,5.0,Air Travel Tax
+110,6,2,1,6,4,s_25,2.0,Air Travel Tax
+111,2,1,2,5,3,s_25,4.0,Air Travel Tax
+112,4,1,5,5,3,s_25,4.0,Air Travel Tax
+113,3,2,2,6,1,s_25,4.0,Air Travel Tax
+114,5,3,6,1,3,s_25,4.0,Air Travel Tax
+116,10,1,5,4,4,s_25,3.0,Air Travel Tax
+117,1,1,5,6,3,s_25,5.0,Air Travel Tax
+118,6,2,5,1,5,s_25,2.0,Air Travel Tax
+119,3,1,5,6,3,s_25,4.0,Air Travel Tax
+120,6,1,2,3,3,s_25,3.0,Air Travel Tax
+121,5,2,6,2,1,s_25,5.0,Air Travel Tax
+122,2,2,2,1,3,s_25,4.0,Air Travel Tax
+123,2,2,6,3,1,s_25,5.0,Air Travel Tax
+124,6,2,2,3,1,s_25,4.0,Air Travel Tax
+125,4,2,4,2,3,s_25,3.0,Air Travel Tax
+126,1,2,6,4,3,s_25,5.0,Air Travel Tax
+127,2,1,5,5,2,s_25,2.0,Air Travel Tax
+128,3,1,5,4,1,s_25,4.0,Air Travel Tax
+129,7,1,6,2,1,s_25,4.0,Air Travel Tax
+130,4,1,5,5,2,s_25,4.0,Air Travel Tax
+132,3,2,5,6,1,s_25,5.0,Air Travel Tax
+133,6,1,5,3,1,s_25,1.0,Air Travel Tax
+134,6,1,4,2,4,s_25,4.0,Air Travel Tax
+135,2,1,2,1,3,s_25,4.0,Air Travel Tax
+136,5,1,6,2,1,s_25,4.0,Air Travel Tax
+137,8,1,4,5,2,s_25,1.0,Air Travel Tax
+138,2,1,2,3,1,s_25,4.0,Air Travel Tax
+139,6,1,8,4,3,s_25,4.0,Air Travel Tax
+140,8,1,4,5,2,s_25,1.0,Air Travel Tax
+141,4,2,5,4,3,s_25,5.0,Air Travel Tax
+142,2,1,6,2,1,s_25,5.0,Air Travel Tax
+143,1,1,2,6,2,s_25,1.0,Air Travel Tax
+144,5,2,5,6,3,s_25,4.0,Air Travel Tax
+145,4,1,2,6,5,s_25,3.0,Air Travel Tax
+146,6,1,4,3,5,s_25,4.0,Air Travel Tax
+147,2,2,6,2,1,s_25,4.0,Air Travel Tax
+148,2,2,1,1,1,s_25,4.0,Air Travel Tax
+149,2,2,2,5,1,s_25,5.0,Air Travel Tax
+150,2,2,4,3,1,s_25,4.0,Air Travel Tax
+151,3,1,5,5,2,s_25,4.0,Air Travel Tax
+152,3,2,8,2,2,s_25,3.0,Air Travel Tax
+153,3,2,8,4,5,s_25,3.0,Air Travel Tax
+154,6,1,4,4,4,s_25,4.0,Air Travel Tax
+155,8,2,5,5,3,s_25,4.0,Air Travel Tax
+156,5,1,2,1,4,s_25,3.0,Air Travel Tax
+157,2,1,6,3,1,s_25,4.0,Air Travel Tax
+158,6,1,2,1,3,s_25,4.0,Air Travel Tax
+159,10,2,1,4,3,s_25,3.0,Air Travel Tax
+160,5,1,8,6,3,s_25,5.0,Air Travel Tax
+161,6,2,5,3,1,s_25,3.0,Air Travel Tax
+162,3,1,8,5,4,s_25,5.0,Air Travel Tax
+163,6,1,5,5,4,s_25,3.0,Air Travel Tax
+164,8,1,6,2,1,s_25,3.0,Air Travel Tax
+165,2,1,5,4,4,s_25,3.0,Air Travel Tax
+166,3,3,1,2,4,s_25,1.0,Air Travel Tax
+167,2,2,5,4,1,s_25,4.0,Air Travel Tax
+168,5,2,5,2,2,s_25,3.0,Air Travel Tax
+169,5,1,6,2,1,s_25,2.0,Air Travel Tax
+170,2,1,6,6,2,s_25,1.0,Air Travel Tax
+171,2,1,5,3,1,s_25,4.0,Air Travel Tax
+172,6,1,6,4,1,s_25,5.0,Air Travel Tax
+173,2,1,6,2,3,s_25,4.0,Air Travel Tax
+174,4,1,6,2,1,s_25,4.0,Air Travel Tax
+175,9,1,5,6,2,s_25,5.0,Air Travel Tax
+176,11,2,4,4,4,s_25,1.0,Air Travel Tax
+177,6,2,8,2,1,s_25,4.0,Air Travel Tax
+178,9,2,6,6,3,s_25,4.0,Air Travel Tax
+179,5,1,2,1,1,s_25,2.0,Air Travel Tax
+180,5,1,5,6,2,s_25,4.0,Air Travel Tax
+181,7,1,6,4,4,s_25,4.0,Air Travel Tax
+182,7,2,6,5,5,s_25,2.0,Air Travel Tax
+183,2,2,6,6,1,s_25,5.0,Air Travel Tax
+184,2,2,4,6,4,s_25,4.0,Air Travel Tax
+185,3,1,5,5,3,s_25,2.0,Air Travel Tax
+187,6,1,5,2,3,s_25,4.0,Air Travel Tax
+188,2,2,6,2,1,s_25,5.0,Air Travel Tax
+189,2,1,6,5,5,s_25,2.0,Air Travel Tax
+190,2,2,6,4,1,s_25,4.0,Air Travel Tax
+191,4,1,6,6,4,s_25,4.0,Air Travel Tax
+192,2,1,5,4,1,s_25,3.0,Air Travel Tax
+193,6,2,4,2,4,s_25,2.0,Air Travel Tax
+194,6,2,2,1,1,s_25,2.0,Air Travel Tax
+195,6,1,4,2,1,s_25,3.0,Air Travel Tax
+196,5,1,6,4,1,s_25,4.0,Air Travel Tax
+197,3,1,2,1,1,s_25,4.0,Air Travel Tax
+198,5,1,8,5,1,s_25,5.0,Air Travel Tax
+199,3,2,2,2,1,s_25,2.0,Air Travel Tax
+200,6,1,8,2,4,s_25,1.0,Air Travel Tax
+201,3,2,2,2,3,s_25,5.0,Air Travel Tax
+202,9,2,8,2,2,s_25,3.0,Air Travel Tax
+203,4,2,6,6,5,s_25,4.0,Air Travel Tax
+204,4,2,4,6,5,s_25,5.0,Air Travel Tax
+205,2,1,5,3,4,s_25,4.0,Air Travel Tax
+206,5,1,8,5,3,s_25,5.0,Air Travel Tax
+207,6,1,1,1,1,s_25,5.0,Air Travel Tax
+208,1,1,1,1,1,s_25,5.0,Air Travel Tax
+209,5,2,2,4,1,s_25,3.0,Air Travel Tax
+210,5,1,4,4,1,s_25,4.0,Air Travel Tax
+211,9,2,1,1,5,s_25,3.0,Air Travel Tax
+212,10,2,8,4,2,s_25,1.0,Air Travel Tax
+213,3,2,5,6,3,s_25,1.0,Air Travel Tax
+214,7,2,5,5,4,s_25,3.0,Air Travel Tax
+215,3,2,4,5,4,s_25,2.0,Air Travel Tax
+216,3,2,5,3,1,s_25,4.0,Air Travel Tax
+217,3,1,5,2,1,s_25,4.0,Air Travel Tax
+218,6,1,5,6,3,s_25,4.0,Air Travel Tax
+220,2,1,6,6,1,s_25,2.0,Air Travel Tax
+221,9,2,2,1,1,s_25,1.0,Air Travel Tax
+222,2,1,5,6,5,s_25,4.0,Air Travel Tax
+223,6,1,5,6,3,s_25,5.0,Air Travel Tax
+224,4,1,6,3,4,s_25,4.0,Air Travel Tax
+225,3,1,5,4,1,s_25,4.0,Air Travel Tax
+226,6,1,6,5,1,s_25,4.0,Air Travel Tax
+227,2,1,5,6,5,s_25,5.0,Air Travel Tax
+228,6,1,4,5,4,s_25,5.0,Air Travel Tax
+229,8,2,6,4,3,s_25,5.0,Air Travel Tax
+231,10,2,5,1,1,s_25,1.0,Air Travel Tax
+232,7,2,4,4,2,s_25,4.0,Air Travel Tax
+233,9,2,4,6,2,s_25,1.0,Air Travel Tax
+234,9,2,6,6,4,s_25,4.0,Air Travel Tax
+235,3,1,8,6,1,s_25,4.0,Air Travel Tax
+236,6,1,6,2,4,s_25,1.0,Air Travel Tax
+237,3,2,6,2,1,s_25,5.0,Air Travel Tax
+238,4,2,2,1,4,s_25,5.0,Air Travel Tax
+239,2,2,6,2,4,s_25,3.0,Air Travel Tax
+240,6,1,5,6,1,s_25,5.0,Air Travel Tax
+241,6,1,6,2,2,s_25,5.0,Air Travel Tax
+242,6,1,6,2,2,s_25,3.0,Air Travel Tax
+243,6,2,4,5,5,s_25,3.0,Air Travel Tax
+244,6,1,5,6,1,s_25,4.0,Air Travel Tax
+245,3,2,5,4,1,s_25,5.0,Air Travel Tax
+246,9,1,6,6,3,s_25,5.0,Air Travel Tax
+247,4,1,2,1,3,s_25,4.0,Air Travel Tax
+249,5,1,5,4,1,s_25,4.0,Air Travel Tax
+250,8,1,6,2,4,s_25,3.0,Air Travel Tax
+251,7,2,4,3,4,s_25,1.0,Air Travel Tax
+252,9,2,6,4,3,s_25,2.0,Air Travel Tax
+253,2,1,6,2,1,s_25,4.0,Air Travel Tax
+254,9,2,8,4,1,s_25,3.0,Air Travel Tax
+255,6,1,8,5,2,s_25,5.0,Air Travel Tax
+256,8,2,2,5,1,s_25,4.0,Air Travel Tax
+257,2,2,5,5,4,s_25,3.0,Air Travel Tax
+258,3,1,5,6,5,s_25,5.0,Air Travel Tax
+259,5,1,8,5,1,s_25,4.0,Air Travel Tax
+260,6,1,1,4,3,s_25,4.0,Air Travel Tax
+261,6,1,8,4,5,s_25,2.0,Air Travel Tax
+262,1,2,6,4,1,s_25,5.0,Air Travel Tax
+263,7,2,2,4,1,s_25,2.0,Air Travel Tax
+264,2,1,5,6,3,s_25,5.0,Air Travel Tax
+265,6,1,4,3,1,s_25,3.0,Air Travel Tax
+266,6,2,5,2,4,s_25,3.0,Air Travel Tax
+267,4,1,2,2,1,s_25,2.0,Air Travel Tax
+268,2,2,5,6,2,s_25,5.0,Air Travel Tax
+269,6,2,8,5,1,s_25,4.0,Air Travel Tax
+270,3,1,8,1,1,s_25,2.0,Air Travel Tax
+271,6,1,2,1,4,s_25,4.0,Air Travel Tax
+272,6,1,8,6,3,s_25,4.0,Air Travel Tax
+273,7,2,5,4,1,s_25,4.0,Air Travel Tax
+274,5,2,6,6,3,s_25,4.0,Air Travel Tax
+275,2,2,2,1,1,s_25,1.0,Air Travel Tax
+276,1,1,1,2,1,s_25,2.0,Air Travel Tax
+277,3,1,8,1,1,s_25,5.0,Air Travel Tax
+278,5,1,5,5,1,s_25,4.0,Air Travel Tax
+279,2,2,5,3,2,s_25,4.0,Air Travel Tax
+280,6,1,6,5,1,s_25,2.0,Air Travel Tax
+281,6,2,4,4,2,s_25,4.0,Air Travel Tax
+282,5,1,1,1,2,s_25,5.0,Air Travel Tax
+283,8,1,5,5,2,s_25,4.0,Air Travel Tax
+284,3,2,8,6,4,s_25,5.0,Air Travel Tax
+285,7,1,5,3,3,s_25,3.0,Air Travel Tax
+286,6,2,4,6,1,s_25,2.0,Air Travel Tax
+287,2,2,4,3,1,s_25,4.0,Air Travel Tax
+288,4,2,5,3,2,s_25,3.0,Air Travel Tax
+289,7,2,5,6,1,s_25,1.0,Air Travel Tax
+290,5,2,6,6,4,s_25,5.0,Air Travel Tax
+291,8,2,5,6,4,s_25,3.0,Air Travel Tax
+292,9,1,2,1,1,s_25,2.0,Air Travel Tax
+293,4,2,4,4,4,s_25,1.0,Air Travel Tax
+294,3,1,8,6,1,s_25,5.0,Air Travel Tax
+295,6,1,5,2,2,s_25,4.0,Air Travel Tax
+296,3,1,5,6,1,s_25,4.0,Air Travel Tax
+297,2,2,6,4,4,s_25,4.0,Air Travel Tax
+298,1,2,2,1,4,s_25,5.0,Air Travel Tax
+299,6,3,8,3,3,s_25,1.0,Air Travel Tax
+300,3,1,6,6,1,s_25,5.0,Air Travel Tax
+301,3,2,8,2,4,s_25,5.0,Air Travel Tax
+302,9,1,5,6,4,s_25,4.0,Air Travel Tax
+303,2,1,5,4,4,s_25,4.0,Air Travel Tax
+304,2,2,4,2,4,s_25,5.0,Air Travel Tax
+305,10,2,5,6,3,s_25,4.0,Air Travel Tax
+306,10,2,6,6,2,s_25,1.0,Air Travel Tax
+307,4,2,2,2,4,s_25,3.0,Air Travel Tax
+308,8,1,5,1,1,s_25,4.0,Air Travel Tax
+309,3,2,8,6,4,s_25,5.0,Air Travel Tax
+310,6,2,5,5,2,s_25,4.0,Air Travel Tax
+311,6,1,5,6,1,s_25,5.0,Air Travel Tax
+312,2,1,4,6,1,s_25,4.0,Air Travel Tax
+1,7,2,6,4,4,s_26,2.0,Red Meat Tax
+2,5,1,6,2,5,s_26,2.0,Red Meat Tax
+3,2,1,2,1,1,s_26,5.0,Red Meat Tax
+4,3,2,5,6,4,s_26,2.0,Red Meat Tax
+5,2,2,2,1,3,s_26,4.0,Red Meat Tax
+6,6,2,4,3,3,s_26,1.0,Red Meat Tax
+7,3,2,8,3,3,s_26,1.0,Red Meat Tax
+8,5,1,5,4,4,s_26,1.0,Red Meat Tax
+9,6,2,5,3,4,s_26,2.0,Red Meat Tax
+10,3,1,6,3,1,s_26,5.0,Red Meat Tax
+11,3,2,6,6,5,s_26,2.0,Red Meat Tax
+12,6,1,5,3,1,s_26,4.0,Red Meat Tax
+13,1,1,5,3,3,s_26,4.0,Red Meat Tax
+14,8,1,8,3,4,s_26,4.0,Red Meat Tax
+15,7,2,6,5,1,s_26,1.0,Red Meat Tax
+16,2,2,8,6,1,s_26,4.0,Red Meat Tax
+17,7,2,5,6,1,s_26,3.0,Red Meat Tax
+18,6,2,2,5,5,s_26,1.0,Red Meat Tax
+19,6,1,2,3,2,s_26,4.0,Red Meat Tax
+20,2,2,5,6,2,s_26,5.0,Red Meat Tax
+21,2,2,8,5,5,s_26,4.0,Red Meat Tax
+22,4,1,5,3,2,s_26,3.0,Red Meat Tax
+23,4,2,1,2,5,s_26,3.0,Red Meat Tax
+24,1,1,5,6,3,s_26,5.0,Red Meat Tax
+25,3,2,4,5,4,s_26,1.0,Red Meat Tax
+26,6,1,4,3,5,s_26,1.0,Red Meat Tax
+27,6,1,5,3,5,s_26,1.0,Red Meat Tax
+28,2,2,8,6,3,s_26,4.0,Red Meat Tax
+29,6,1,2,2,3,s_26,3.0,Red Meat Tax
+30,8,2,5,3,4,s_26,2.0,Red Meat Tax
+31,3,1,8,6,4,s_26,4.0,Red Meat Tax
+32,6,2,4,3,4,s_26,1.0,Red Meat Tax
+33,3,2,6,6,4,s_26,4.0,Red Meat Tax
+34,3,1,5,6,4,s_26,1.0,Red Meat Tax
+35,7,2,4,3,5,s_26,1.0,Red Meat Tax
+36,3,2,5,6,1,s_26,1.0,Red Meat Tax
+37,3,2,1,6,2,s_26,5.0,Red Meat Tax
+38,6,2,6,5,4,s_26,1.0,Red Meat Tax
+39,8,1,5,5,4,s_26,4.0,Red Meat Tax
+40,6,1,4,2,4,s_26,3.0,Red Meat Tax
+41,2,2,4,6,1,s_26,4.0,Red Meat Tax
+42,8,1,2,3,1,s_26,1.0,Red Meat Tax
+43,4,2,4,3,1,s_26,3.0,Red Meat Tax
+44,2,2,6,3,1,s_26,3.0,Red Meat Tax
+45,3,1,2,5,5,s_26,3.0,Red Meat Tax
+46,1,1,2,3,1,s_26,1.0,Red Meat Tax
+47,2,1,8,4,3,s_26,4.0,Red Meat Tax
+49,6,2,6,2,4,s_26,3.0,Red Meat Tax
+50,2,2,2,2,1,s_26,4.0,Red Meat Tax
+51,6,2,2,2,2,s_26,1.0,Red Meat Tax
+52,5,1,6,2,1,s_26,4.0,Red Meat Tax
+53,9,2,6,4,3,s_26,2.0,Red Meat Tax
+54,2,1,5,2,2,s_26,1.0,Red Meat Tax
+55,6,1,5,6,2,s_26,4.0,Red Meat Tax
+56,6,2,4,2,3,s_26,5.0,Red Meat Tax
+57,11,2,4,5,2,s_26,3.0,Red Meat Tax
+58,6,2,2,1,1,s_26,3.0,Red Meat Tax
+59,3,2,5,2,3,s_26,3.0,Red Meat Tax
+60,6,2,4,4,3,s_26,2.0,Red Meat Tax
+61,6,1,1,1,1,s_26,2.0,Red Meat Tax
+62,6,2,4,2,3,s_26,2.0,Red Meat Tax
+63,9,1,5,4,2,s_26,1.0,Red Meat Tax
+64,7,1,2,2,1,s_26,4.0,Red Meat Tax
+65,6,2,4,3,3,s_26,5.0,Red Meat Tax
+66,2,2,5,4,4,s_26,2.0,Red Meat Tax
+67,3,1,1,6,3,s_26,2.0,Red Meat Tax
+68,10,2,5,5,5,s_26,1.0,Red Meat Tax
+69,4,2,6,4,1,s_26,5.0,Red Meat Tax
+70,2,1,6,2,1,s_26,4.0,Red Meat Tax
+71,6,2,1,5,3,s_26,4.0,Red Meat Tax
+73,5,1,5,4,2,s_26,3.0,Red Meat Tax
+75,2,2,1,5,1,s_26,5.0,Red Meat Tax
+76,3,1,6,3,4,s_26,1.0,Red Meat Tax
+77,2,2,5,6,1,s_26,3.0,Red Meat Tax
+78,5,2,4,3,3,s_26,3.0,Red Meat Tax
+79,6,1,6,3,3,s_26,4.0,Red Meat Tax
+80,2,1,5,6,1,s_26,4.0,Red Meat Tax
+81,5,1,6,2,1,s_26,3.0,Red Meat Tax
+82,3,1,5,1,4,s_26,4.0,Red Meat Tax
+83,6,2,5,4,2,s_26,2.0,Red Meat Tax
+84,5,2,6,4,1,s_26,3.0,Red Meat Tax
+85,2,2,8,3,3,s_26,1.0,Red Meat Tax
+86,6,2,6,6,1,s_26,2.0,Red Meat Tax
+87,4,1,5,6,1,s_26,2.0,Red Meat Tax
+88,2,1,4,6,5,s_26,4.0,Red Meat Tax
+89,5,1,5,3,3,s_26,2.0,Red Meat Tax
+90,2,2,6,3,1,s_26,5.0,Red Meat Tax
+91,8,1,2,1,4,s_26,2.0,Red Meat Tax
+92,6,1,4,5,2,s_26,3.0,Red Meat Tax
+93,10,1,5,2,4,s_26,2.0,Red Meat Tax
+94,7,1,8,5,5,s_26,4.0,Red Meat Tax
+95,6,2,5,5,3,s_26,1.0,Red Meat Tax
+96,10,2,4,5,5,s_26,1.0,Red Meat Tax
+97,2,2,8,6,4,s_26,2.0,Red Meat Tax
+98,11,2,4,4,2,s_26,1.0,Red Meat Tax
+99,5,1,4,5,4,s_26,5.0,Red Meat Tax
+100,5,2,5,6,1,s_26,3.0,Red Meat Tax
+101,1,2,4,6,4,s_26,2.0,Red Meat Tax
+102,5,1,5,6,1,s_26,4.0,Red Meat Tax
+103,3,1,2,2,4,s_26,3.0,Red Meat Tax
+104,3,2,4,3,4,s_26,4.0,Red Meat Tax
+105,3,2,5,3,1,s_26,3.0,Red Meat Tax
+106,8,2,2,3,1,s_26,3.0,Red Meat Tax
+107,4,1,5,6,1,s_26,2.0,Red Meat Tax
+108,3,1,6,6,3,s_26,4.0,Red Meat Tax
+109,4,2,5,2,3,s_26,4.0,Red Meat Tax
+110,6,2,1,6,4,s_26,2.0,Red Meat Tax
+111,2,1,2,5,3,s_26,3.0,Red Meat Tax
+112,4,1,5,5,3,s_26,4.0,Red Meat Tax
+113,3,2,2,6,1,s_26,2.0,Red Meat Tax
+114,5,3,6,1,3,s_26,4.0,Red Meat Tax
+116,10,1,5,4,4,s_26,3.0,Red Meat Tax
+117,1,1,5,6,3,s_26,5.0,Red Meat Tax
+118,6,2,5,1,5,s_26,2.0,Red Meat Tax
+119,3,1,5,6,3,s_26,3.0,Red Meat Tax
+120,6,1,2,3,3,s_26,3.0,Red Meat Tax
+121,5,2,6,2,1,s_26,5.0,Red Meat Tax
+122,2,2,2,1,3,s_26,4.0,Red Meat Tax
+123,2,2,6,3,1,s_26,5.0,Red Meat Tax
+124,6,2,2,3,1,s_26,1.0,Red Meat Tax
+125,4,2,4,2,3,s_26,3.0,Red Meat Tax
+126,1,2,6,4,3,s_26,5.0,Red Meat Tax
+127,2,1,5,5,2,s_26,3.0,Red Meat Tax
+128,3,1,5,4,1,s_26,3.0,Red Meat Tax
+129,7,1,6,2,1,s_26,4.0,Red Meat Tax
+130,4,1,5,5,2,s_26,4.0,Red Meat Tax
+132,3,2,5,6,1,s_26,3.0,Red Meat Tax
+133,6,1,5,3,1,s_26,1.0,Red Meat Tax
+134,6,1,4,2,4,s_26,2.0,Red Meat Tax
+135,2,1,2,1,3,s_26,1.0,Red Meat Tax
+136,5,1,6,2,1,s_26,3.0,Red Meat Tax
+137,8,1,4,5,2,s_26,1.0,Red Meat Tax
+138,2,1,2,3,1,s_26,4.0,Red Meat Tax
+139,6,1,8,4,3,s_26,4.0,Red Meat Tax
+140,8,1,4,5,2,s_26,1.0,Red Meat Tax
+141,4,2,5,4,3,s_26,3.0,Red Meat Tax
+142,2,1,6,2,1,s_26,4.0,Red Meat Tax
+143,1,1,2,6,2,s_26,5.0,Red Meat Tax
+144,5,2,5,6,3,s_26,2.0,Red Meat Tax
+145,4,1,2,6,5,s_26,4.0,Red Meat Tax
+146,6,1,4,3,5,s_26,3.0,Red Meat Tax
+147,2,2,6,2,1,s_26,1.0,Red Meat Tax
+148,2,2,1,1,1,s_26,1.0,Red Meat Tax
+149,2,2,2,5,1,s_26,5.0,Red Meat Tax
+150,2,2,4,3,1,s_26,3.0,Red Meat Tax
+151,3,1,5,5,2,s_26,2.0,Red Meat Tax
+152,3,2,8,2,2,s_26,1.0,Red Meat Tax
+153,3,2,8,4,5,s_26,3.0,Red Meat Tax
+154,6,1,4,4,4,s_26,3.0,Red Meat Tax
+155,8,2,5,5,3,s_26,3.0,Red Meat Tax
+156,5,1,2,1,4,s_26,2.0,Red Meat Tax
+157,2,1,6,3,1,s_26,3.0,Red Meat Tax
+158,6,1,2,1,3,s_26,4.0,Red Meat Tax
+159,10,2,1,4,3,s_26,1.0,Red Meat Tax
+160,5,1,8,6,3,s_26,3.0,Red Meat Tax
+161,6,2,5,3,1,s_26,4.0,Red Meat Tax
+162,3,1,8,5,4,s_26,4.0,Red Meat Tax
+163,6,1,5,5,4,s_26,2.0,Red Meat Tax
+164,8,1,6,2,1,s_26,2.0,Red Meat Tax
+165,2,1,5,4,4,s_26,1.0,Red Meat Tax
+166,3,3,1,2,4,s_26,1.0,Red Meat Tax
+167,2,2,5,4,1,s_26,1.0,Red Meat Tax
+168,5,2,5,2,2,s_26,2.0,Red Meat Tax
+169,5,1,6,2,1,s_26,3.0,Red Meat Tax
+170,2,1,6,6,2,s_26,1.0,Red Meat Tax
+171,2,1,5,3,1,s_26,4.0,Red Meat Tax
+172,6,1,6,4,1,s_26,3.0,Red Meat Tax
+173,2,1,6,2,3,s_26,3.0,Red Meat Tax
+174,4,1,6,2,1,s_26,2.0,Red Meat Tax
+175,9,1,5,6,2,s_26,3.0,Red Meat Tax
+176,11,2,4,4,4,s_26,1.0,Red Meat Tax
+177,6,2,8,2,1,s_26,3.0,Red Meat Tax
+178,9,2,6,6,3,s_26,4.0,Red Meat Tax
+179,5,1,2,1,1,s_26,1.0,Red Meat Tax
+180,5,1,5,6,2,s_26,4.0,Red Meat Tax
+181,7,1,6,4,4,s_26,2.0,Red Meat Tax
+182,7,2,6,5,5,s_26,1.0,Red Meat Tax
+183,2,2,6,6,1,s_26,4.0,Red Meat Tax
+184,2,2,4,6,4,s_26,1.0,Red Meat Tax
+185,3,1,5,5,3,s_26,2.0,Red Meat Tax
+186,5,2,4,3,2,s_26,2.0,Red Meat Tax
+187,6,1,5,2,3,s_26,1.0,Red Meat Tax
+188,2,2,6,2,1,s_26,5.0,Red Meat Tax
+189,2,1,6,5,5,s_26,2.0,Red Meat Tax
+190,2,2,6,4,1,s_26,4.0,Red Meat Tax
+191,4,1,6,6,4,s_26,4.0,Red Meat Tax
+192,2,1,5,4,1,s_26,3.0,Red Meat Tax
+193,6,2,4,2,4,s_26,1.0,Red Meat Tax
+194,6,2,2,1,1,s_26,1.0,Red Meat Tax
+195,6,1,4,2,1,s_26,3.0,Red Meat Tax
+196,5,1,6,4,1,s_26,3.0,Red Meat Tax
+197,3,1,2,1,1,s_26,4.0,Red Meat Tax
+198,5,1,8,5,1,s_26,5.0,Red Meat Tax
+199,3,2,2,2,1,s_26,5.0,Red Meat Tax
+200,6,1,8,2,4,s_26,1.0,Red Meat Tax
+201,3,2,2,2,3,s_26,5.0,Red Meat Tax
+202,9,2,8,2,2,s_26,1.0,Red Meat Tax
+203,4,2,6,6,5,s_26,4.0,Red Meat Tax
+204,4,2,4,6,5,s_26,2.0,Red Meat Tax
+205,2,1,5,3,4,s_26,4.0,Red Meat Tax
+206,5,1,8,5,3,s_26,4.0,Red Meat Tax
+207,6,1,1,1,1,s_26,5.0,Red Meat Tax
+208,1,1,1,1,1,s_26,5.0,Red Meat Tax
+209,5,2,2,4,1,s_26,2.0,Red Meat Tax
+210,5,1,4,4,1,s_26,2.0,Red Meat Tax
+211,9,2,1,1,5,s_26,3.0,Red Meat Tax
+212,10,2,8,4,2,s_26,1.0,Red Meat Tax
+213,3,2,5,6,3,s_26,3.0,Red Meat Tax
+214,7,2,5,5,4,s_26,1.0,Red Meat Tax
+215,3,2,4,5,4,s_26,1.0,Red Meat Tax
+216,3,2,5,3,1,s_26,2.0,Red Meat Tax
+217,3,1,5,2,1,s_26,4.0,Red Meat Tax
+218,6,1,5,6,3,s_26,2.0,Red Meat Tax
+219,6,1,4,5,4,s_26,3.0,Red Meat Tax
+220,2,1,6,6,1,s_26,1.0,Red Meat Tax
+221,9,2,2,1,1,s_26,1.0,Red Meat Tax
+222,2,1,5,6,5,s_26,1.0,Red Meat Tax
+223,6,1,5,6,3,s_26,5.0,Red Meat Tax
+224,4,1,6,3,4,s_26,5.0,Red Meat Tax
+225,3,1,5,4,1,s_26,4.0,Red Meat Tax
+226,6,1,6,5,1,s_26,3.0,Red Meat Tax
+227,2,1,5,6,5,s_26,4.0,Red Meat Tax
+228,6,1,4,5,4,s_26,2.0,Red Meat Tax
+229,8,2,6,4,3,s_26,5.0,Red Meat Tax
+231,10,2,5,1,1,s_26,3.0,Red Meat Tax
+232,7,2,4,4,2,s_26,2.0,Red Meat Tax
+233,9,2,4,6,2,s_26,1.0,Red Meat Tax
+234,9,2,6,6,4,s_26,3.0,Red Meat Tax
+235,3,1,8,6,1,s_26,2.0,Red Meat Tax
+236,6,1,6,2,4,s_26,1.0,Red Meat Tax
+237,3,2,6,2,1,s_26,5.0,Red Meat Tax
+238,4,2,2,1,4,s_26,3.0,Red Meat Tax
+239,2,2,6,2,4,s_26,3.0,Red Meat Tax
+240,6,1,5,6,1,s_26,4.0,Red Meat Tax
+241,6,1,6,2,2,s_26,2.0,Red Meat Tax
+242,6,1,6,2,2,s_26,3.0,Red Meat Tax
+243,6,2,4,5,5,s_26,1.0,Red Meat Tax
+244,6,1,5,6,1,s_26,2.0,Red Meat Tax
+245,3,2,5,4,1,s_26,3.0,Red Meat Tax
+246,9,1,6,6,3,s_26,1.0,Red Meat Tax
+248,3,2,1,1,3,s_26,3.0,Red Meat Tax
+249,5,1,5,4,1,s_26,3.0,Red Meat Tax
+250,8,1,6,2,4,s_26,2.0,Red Meat Tax
+251,7,2,4,3,4,s_26,1.0,Red Meat Tax
+252,9,2,6,4,3,s_26,1.0,Red Meat Tax
+253,2,1,6,2,1,s_26,5.0,Red Meat Tax
+254,9,2,8,4,1,s_26,2.0,Red Meat Tax
+255,6,1,8,5,2,s_26,2.0,Red Meat Tax
+256,8,2,2,5,1,s_26,2.0,Red Meat Tax
+257,2,2,5,5,4,s_26,3.0,Red Meat Tax
+258,3,1,5,6,5,s_26,4.0,Red Meat Tax
+259,5,1,8,5,1,s_26,4.0,Red Meat Tax
+260,6,1,1,4,3,s_26,3.0,Red Meat Tax
+261,6,1,8,4,5,s_26,2.0,Red Meat Tax
+262,1,2,6,4,1,s_26,5.0,Red Meat Tax
+263,7,2,2,4,1,s_26,1.0,Red Meat Tax
+264,2,1,5,6,3,s_26,4.0,Red Meat Tax
+265,6,1,4,3,1,s_26,3.0,Red Meat Tax
+266,6,2,5,2,4,s_26,3.0,Red Meat Tax
+267,4,1,2,2,1,s_26,2.0,Red Meat Tax
+268,2,2,5,6,2,s_26,4.0,Red Meat Tax
+269,6,2,8,5,1,s_26,3.0,Red Meat Tax
+270,3,1,8,1,1,s_26,2.0,Red Meat Tax
+271,6,1,2,1,4,s_26,3.0,Red Meat Tax
+272,6,1,8,6,3,s_26,4.0,Red Meat Tax
+273,7,2,5,4,1,s_26,3.0,Red Meat Tax
+274,5,2,6,6,3,s_26,2.0,Red Meat Tax
+275,2,2,2,1,1,s_26,3.0,Red Meat Tax
+276,1,1,1,2,1,s_26,1.0,Red Meat Tax
+277,3,1,8,1,1,s_26,4.0,Red Meat Tax
+278,5,1,5,5,1,s_26,4.0,Red Meat Tax
+279,2,2,5,3,2,s_26,4.0,Red Meat Tax
+280,6,1,6,5,1,s_26,4.0,Red Meat Tax
+281,6,2,4,4,2,s_26,5.0,Red Meat Tax
+282,5,1,1,1,2,s_26,3.0,Red Meat Tax
+283,8,1,5,5,2,s_26,2.0,Red Meat Tax
+284,3,2,8,6,4,s_26,4.0,Red Meat Tax
+285,7,1,5,3,3,s_26,1.0,Red Meat Tax
+286,6,2,4,6,1,s_26,1.0,Red Meat Tax
+287,2,2,4,3,1,s_26,3.0,Red Meat Tax
+288,4,2,5,3,2,s_26,2.0,Red Meat Tax
+289,7,2,5,6,1,s_26,1.0,Red Meat Tax
+290,5,2,6,6,4,s_26,4.0,Red Meat Tax
+291,8,2,5,6,4,s_26,2.0,Red Meat Tax
+292,9,1,2,1,1,s_26,3.0,Red Meat Tax
+293,4,2,4,4,4,s_26,2.0,Red Meat Tax
+294,3,1,8,6,1,s_26,4.0,Red Meat Tax
+296,3,1,5,6,1,s_26,3.0,Red Meat Tax
+297,2,2,6,4,4,s_26,3.0,Red Meat Tax
+298,1,2,2,1,4,s_26,5.0,Red Meat Tax
+299,6,3,8,3,3,s_26,3.0,Red Meat Tax
+300,3,1,6,6,1,s_26,3.0,Red Meat Tax
+301,3,2,8,2,4,s_26,1.0,Red Meat Tax
+302,9,1,5,6,4,s_26,3.0,Red Meat Tax
+303,2,1,5,4,4,s_26,4.0,Red Meat Tax
+304,2,2,4,2,4,s_26,2.0,Red Meat Tax
+305,10,2,5,6,3,s_26,2.0,Red Meat Tax
+306,10,2,6,6,2,s_26,1.0,Red Meat Tax
+307,4,2,2,2,4,s_26,5.0,Red Meat Tax
+308,8,1,5,1,1,s_26,2.0,Red Meat Tax
+309,3,2,8,6,4,s_26,3.0,Red Meat Tax
+310,6,2,5,5,2,s_26,2.0,Red Meat Tax
+311,6,1,5,6,1,s_26,5.0,Red Meat Tax
+312,2,1,4,6,1,s_26,3.0,Red Meat Tax
+1,7,2,6,4,4,s_27,3.0,Diesel Car Restrictions
+2,5,1,6,2,5,s_27,4.0,Diesel Car Restrictions
+3,2,1,2,1,1,s_27,5.0,Diesel Car Restrictions
+4,3,2,5,6,4,s_27,4.0,Diesel Car Restrictions
+5,2,2,2,1,3,s_27,5.0,Diesel Car Restrictions
+6,6,2,4,3,3,s_27,1.0,Diesel Car Restrictions
+7,3,2,8,3,3,s_27,2.0,Diesel Car Restrictions
+8,5,1,5,4,4,s_27,1.0,Diesel Car Restrictions
+9,6,2,5,3,4,s_27,3.0,Diesel Car Restrictions
+10,3,1,6,3,1,s_27,5.0,Diesel Car Restrictions
+11,3,2,6,6,5,s_27,2.0,Diesel Car Restrictions
+12,6,1,5,3,1,s_27,3.0,Diesel Car Restrictions
+13,1,1,5,3,3,s_27,5.0,Diesel Car Restrictions
+14,8,1,8,3,4,s_27,3.0,Diesel Car Restrictions
+15,7,2,6,5,1,s_27,2.0,Diesel Car Restrictions
+16,2,2,8,6,1,s_27,2.0,Diesel Car Restrictions
+17,7,2,5,6,1,s_27,3.0,Diesel Car Restrictions
+18,6,2,2,5,5,s_27,1.0,Diesel Car Restrictions
+19,6,1,2,3,2,s_27,4.0,Diesel Car Restrictions
+20,2,2,5,6,2,s_27,5.0,Diesel Car Restrictions
+21,2,2,8,5,5,s_27,5.0,Diesel Car Restrictions
+22,4,1,5,3,2,s_27,4.0,Diesel Car Restrictions
+23,4,2,1,2,5,s_27,4.0,Diesel Car Restrictions
+24,1,1,5,6,3,s_27,5.0,Diesel Car Restrictions
+25,3,2,4,5,4,s_27,5.0,Diesel Car Restrictions
+26,6,1,4,3,5,s_27,4.0,Diesel Car Restrictions
+28,2,2,8,6,3,s_27,4.0,Diesel Car Restrictions
+29,6,1,2,2,3,s_27,3.0,Diesel Car Restrictions
+30,8,2,5,3,4,s_27,3.0,Diesel Car Restrictions
+31,3,1,8,6,4,s_27,4.0,Diesel Car Restrictions
+32,6,2,4,3,4,s_27,1.0,Diesel Car Restrictions
+33,3,2,6,6,4,s_27,5.0,Diesel Car Restrictions
+34,3,1,5,6,4,s_27,4.0,Diesel Car Restrictions
+35,7,2,4,3,5,s_27,1.0,Diesel Car Restrictions
+36,3,2,5,6,1,s_27,4.0,Diesel Car Restrictions
+37,3,2,1,6,2,s_27,5.0,Diesel Car Restrictions
+38,6,2,6,5,4,s_27,3.0,Diesel Car Restrictions
+39,8,1,5,5,4,s_27,4.0,Diesel Car Restrictions
+40,6,1,4,2,4,s_27,3.0,Diesel Car Restrictions
+41,2,2,4,6,1,s_27,4.0,Diesel Car Restrictions
+42,8,1,2,3,1,s_27,1.0,Diesel Car Restrictions
+43,4,2,4,3,1,s_27,4.0,Diesel Car Restrictions
+44,2,2,6,3,1,s_27,3.0,Diesel Car Restrictions
+45,3,1,2,5,5,s_27,4.0,Diesel Car Restrictions
+46,1,1,2,3,1,s_27,4.0,Diesel Car Restrictions
+47,2,1,8,4,3,s_27,5.0,Diesel Car Restrictions
+48,5,1,1,1,4,s_27,1.0,Diesel Car Restrictions
+49,6,2,6,2,4,s_27,3.0,Diesel Car Restrictions
+50,2,2,2,2,1,s_27,4.0,Diesel Car Restrictions
+51,6,2,2,2,2,s_27,1.0,Diesel Car Restrictions
+52,5,1,6,2,1,s_27,5.0,Diesel Car Restrictions
+53,9,2,6,4,3,s_27,4.0,Diesel Car Restrictions
+54,2,1,5,2,2,s_27,5.0,Diesel Car Restrictions
+55,6,1,5,6,2,s_27,3.0,Diesel Car Restrictions
+56,6,2,4,2,3,s_27,5.0,Diesel Car Restrictions
+57,11,2,4,5,2,s_27,5.0,Diesel Car Restrictions
+58,6,2,2,1,1,s_27,1.0,Diesel Car Restrictions
+59,3,2,5,2,3,s_27,1.0,Diesel Car Restrictions
+60,6,2,4,4,3,s_27,2.0,Diesel Car Restrictions
+61,6,1,1,1,1,s_27,3.0,Diesel Car Restrictions
+62,6,2,4,2,3,s_27,3.0,Diesel Car Restrictions
+63,9,1,5,4,2,s_27,4.0,Diesel Car Restrictions
+64,7,1,2,2,1,s_27,4.0,Diesel Car Restrictions
+65,6,2,4,3,3,s_27,4.0,Diesel Car Restrictions
+66,2,2,5,4,4,s_27,1.0,Diesel Car Restrictions
+67,3,1,1,6,3,s_27,4.0,Diesel Car Restrictions
+68,10,2,5,5,5,s_27,4.0,Diesel Car Restrictions
+69,4,2,6,4,1,s_27,4.0,Diesel Car Restrictions
+70,2,1,6,2,1,s_27,4.0,Diesel Car Restrictions
+71,6,2,1,5,3,s_27,5.0,Diesel Car Restrictions
+73,5,1,5,4,2,s_27,3.0,Diesel Car Restrictions
+75,2,2,1,5,1,s_27,5.0,Diesel Car Restrictions
+76,3,1,6,3,4,s_27,2.0,Diesel Car Restrictions
+77,2,2,5,6,1,s_27,3.0,Diesel Car Restrictions
+78,5,2,4,3,3,s_27,5.0,Diesel Car Restrictions
+79,6,1,6,3,3,s_27,3.0,Diesel Car Restrictions
+80,2,1,5,6,1,s_27,5.0,Diesel Car Restrictions
+81,5,1,6,2,1,s_27,4.0,Diesel Car Restrictions
+82,3,1,5,1,4,s_27,5.0,Diesel Car Restrictions
+83,6,2,5,4,2,s_27,2.0,Diesel Car Restrictions
+84,5,2,6,4,1,s_27,2.0,Diesel Car Restrictions
+85,2,2,8,3,3,s_27,4.0,Diesel Car Restrictions
+86,6,2,6,6,1,s_27,2.0,Diesel Car Restrictions
+87,4,1,5,6,1,s_27,4.0,Diesel Car Restrictions
+88,2,1,4,6,5,s_27,4.0,Diesel Car Restrictions
+89,5,1,5,3,3,s_27,4.0,Diesel Car Restrictions
+90,2,2,6,3,1,s_27,5.0,Diesel Car Restrictions
+91,8,1,2,1,4,s_27,4.0,Diesel Car Restrictions
+92,6,1,4,5,2,s_27,3.0,Diesel Car Restrictions
+95,6,2,5,5,3,s_27,5.0,Diesel Car Restrictions
+96,10,2,4,5,5,s_27,3.0,Diesel Car Restrictions
+97,2,2,8,6,4,s_27,3.0,Diesel Car Restrictions
+98,11,2,4,4,2,s_27,1.0,Diesel Car Restrictions
+99,5,1,4,5,4,s_27,4.0,Diesel Car Restrictions
+100,5,2,5,6,1,s_27,4.0,Diesel Car Restrictions
+101,1,2,4,6,4,s_27,2.0,Diesel Car Restrictions
+103,3,1,2,2,4,s_27,4.0,Diesel Car Restrictions
+104,3,2,4,3,4,s_27,4.0,Diesel Car Restrictions
+105,3,2,5,3,1,s_27,3.0,Diesel Car Restrictions
+106,8,2,2,3,1,s_27,4.0,Diesel Car Restrictions
+107,4,1,5,6,1,s_27,5.0,Diesel Car Restrictions
+108,3,1,6,6,3,s_27,5.0,Diesel Car Restrictions
+109,4,2,5,2,3,s_27,4.0,Diesel Car Restrictions
+110,6,2,1,6,4,s_27,3.0,Diesel Car Restrictions
+111,2,1,2,5,3,s_27,4.0,Diesel Car Restrictions
+112,4,1,5,5,3,s_27,5.0,Diesel Car Restrictions
+113,3,2,2,6,1,s_27,4.0,Diesel Car Restrictions
+114,5,3,6,1,3,s_27,3.0,Diesel Car Restrictions
+116,10,1,5,4,4,s_27,4.0,Diesel Car Restrictions
+117,1,1,5,6,3,s_27,5.0,Diesel Car Restrictions
+118,6,2,5,1,5,s_27,3.0,Diesel Car Restrictions
+119,3,1,5,6,3,s_27,4.0,Diesel Car Restrictions
+120,6,1,2,3,3,s_27,3.0,Diesel Car Restrictions
+121,5,2,6,2,1,s_27,3.0,Diesel Car Restrictions
+122,2,2,2,1,3,s_27,5.0,Diesel Car Restrictions
+123,2,2,6,3,1,s_27,4.0,Diesel Car Restrictions
+124,6,2,2,3,1,s_27,5.0,Diesel Car Restrictions
+125,4,2,4,2,3,s_27,3.0,Diesel Car Restrictions
+126,1,2,6,4,3,s_27,5.0,Diesel Car Restrictions
+127,2,1,5,5,2,s_27,4.0,Diesel Car Restrictions
+128,3,1,5,4,1,s_27,2.0,Diesel Car Restrictions
+130,4,1,5,5,2,s_27,2.0,Diesel Car Restrictions
+132,3,2,5,6,1,s_27,4.0,Diesel Car Restrictions
+133,6,1,5,3,1,s_27,5.0,Diesel Car Restrictions
+134,6,1,4,2,4,s_27,2.0,Diesel Car Restrictions
+135,2,1,2,1,3,s_27,4.0,Diesel Car Restrictions
+136,5,1,6,2,1,s_27,3.0,Diesel Car Restrictions
+137,8,1,4,5,2,s_27,2.0,Diesel Car Restrictions
+138,2,1,2,3,1,s_27,4.0,Diesel Car Restrictions
+139,6,1,8,4,3,s_27,2.0,Diesel Car Restrictions
+140,8,1,4,5,2,s_27,3.0,Diesel Car Restrictions
+141,4,2,5,4,3,s_27,5.0,Diesel Car Restrictions
+142,2,1,6,2,1,s_27,4.0,Diesel Car Restrictions
+143,1,1,2,6,2,s_27,4.0,Diesel Car Restrictions
+144,5,2,5,6,3,s_27,3.0,Diesel Car Restrictions
+145,4,1,2,6,5,s_27,3.0,Diesel Car Restrictions
+146,6,1,4,3,5,s_27,4.0,Diesel Car Restrictions
+147,2,2,6,2,1,s_27,5.0,Diesel Car Restrictions
+148,2,2,1,1,1,s_27,1.0,Diesel Car Restrictions
+149,2,2,2,5,1,s_27,5.0,Diesel Car Restrictions
+150,2,2,4,3,1,s_27,5.0,Diesel Car Restrictions
+151,3,1,5,5,2,s_27,5.0,Diesel Car Restrictions
+152,3,2,8,2,2,s_27,3.0,Diesel Car Restrictions
+153,3,2,8,4,5,s_27,2.0,Diesel Car Restrictions
+154,6,1,4,4,4,s_27,3.0,Diesel Car Restrictions
+155,8,2,5,5,3,s_27,3.0,Diesel Car Restrictions
+156,5,1,2,1,4,s_27,3.0,Diesel Car Restrictions
+158,6,1,2,1,3,s_27,4.0,Diesel Car Restrictions
+159,10,2,1,4,3,s_27,2.0,Diesel Car Restrictions
+160,5,1,8,6,3,s_27,2.0,Diesel Car Restrictions
+161,6,2,5,3,1,s_27,4.0,Diesel Car Restrictions
+162,3,1,8,5,4,s_27,4.0,Diesel Car Restrictions
+163,6,1,5,5,4,s_27,4.0,Diesel Car Restrictions
+164,8,1,6,2,1,s_27,2.0,Diesel Car Restrictions
+165,2,1,5,4,4,s_27,3.0,Diesel Car Restrictions
+166,3,3,1,2,4,s_27,2.0,Diesel Car Restrictions
+167,2,2,5,4,1,s_27,2.0,Diesel Car Restrictions
+168,5,2,5,2,2,s_27,2.0,Diesel Car Restrictions
+169,5,1,6,2,1,s_27,5.0,Diesel Car Restrictions
+170,2,1,6,6,2,s_27,1.0,Diesel Car Restrictions
+171,2,1,5,3,1,s_27,3.0,Diesel Car Restrictions
+172,6,1,6,4,1,s_27,4.0,Diesel Car Restrictions
+173,2,1,6,2,3,s_27,4.0,Diesel Car Restrictions
+174,4,1,6,2,1,s_27,4.0,Diesel Car Restrictions
+175,9,1,5,6,2,s_27,3.0,Diesel Car Restrictions
+176,11,2,4,4,4,s_27,1.0,Diesel Car Restrictions
+177,6,2,8,2,1,s_27,2.0,Diesel Car Restrictions
+178,9,2,6,6,3,s_27,4.0,Diesel Car Restrictions
+179,5,1,2,1,1,s_27,2.0,Diesel Car Restrictions
+180,5,1,5,6,2,s_27,4.0,Diesel Car Restrictions
+181,7,1,6,4,4,s_27,4.0,Diesel Car Restrictions
+182,7,2,6,5,5,s_27,2.0,Diesel Car Restrictions
+183,2,2,6,6,1,s_27,5.0,Diesel Car Restrictions
+184,2,2,4,6,4,s_27,3.0,Diesel Car Restrictions
+186,5,2,4,3,2,s_27,2.0,Diesel Car Restrictions
+187,6,1,5,2,3,s_27,1.0,Diesel Car Restrictions
+188,2,2,6,2,1,s_27,5.0,Diesel Car Restrictions
+189,2,1,6,5,5,s_27,3.0,Diesel Car Restrictions
+190,2,2,6,4,1,s_27,4.0,Diesel Car Restrictions
+191,4,1,6,6,4,s_27,4.0,Diesel Car Restrictions
+192,2,1,5,4,1,s_27,4.0,Diesel Car Restrictions
+193,6,2,4,2,4,s_27,3.0,Diesel Car Restrictions
+194,6,2,2,1,1,s_27,1.0,Diesel Car Restrictions
+195,6,1,4,2,1,s_27,3.0,Diesel Car Restrictions
+196,5,1,6,4,1,s_27,3.0,Diesel Car Restrictions
+197,3,1,2,1,1,s_27,4.0,Diesel Car Restrictions
+198,5,1,8,5,1,s_27,5.0,Diesel Car Restrictions
+199,3,2,2,2,1,s_27,2.0,Diesel Car Restrictions
+200,6,1,8,2,4,s_27,1.0,Diesel Car Restrictions
+201,3,2,2,2,3,s_27,5.0,Diesel Car Restrictions
+202,9,2,8,2,2,s_27,1.0,Diesel Car Restrictions
+203,4,2,6,6,5,s_27,4.0,Diesel Car Restrictions
+204,4,2,4,6,5,s_27,5.0,Diesel Car Restrictions
+205,2,1,5,3,4,s_27,3.0,Diesel Car Restrictions
+206,5,1,8,5,3,s_27,4.0,Diesel Car Restrictions
+207,6,1,1,1,1,s_27,5.0,Diesel Car Restrictions
+208,1,1,1,1,1,s_27,5.0,Diesel Car Restrictions
+209,5,2,2,4,1,s_27,5.0,Diesel Car Restrictions
+210,5,1,4,4,1,s_27,4.0,Diesel Car Restrictions
+211,9,2,1,1,5,s_27,2.0,Diesel Car Restrictions
+212,10,2,8,4,2,s_27,1.0,Diesel Car Restrictions
+213,3,2,5,6,3,s_27,1.0,Diesel Car Restrictions
+214,7,2,5,5,4,s_27,3.0,Diesel Car Restrictions
+215,3,2,4,5,4,s_27,1.0,Diesel Car Restrictions
+216,3,2,5,3,1,s_27,3.0,Diesel Car Restrictions
+217,3,1,5,2,1,s_27,4.0,Diesel Car Restrictions
+218,6,1,5,6,3,s_27,2.0,Diesel Car Restrictions
+219,6,1,4,5,4,s_27,3.0,Diesel Car Restrictions
+220,2,1,6,6,1,s_27,3.0,Diesel Car Restrictions
+221,9,2,2,1,1,s_27,3.0,Diesel Car Restrictions
+222,2,1,5,6,5,s_27,4.0,Diesel Car Restrictions
+223,6,1,5,6,3,s_27,5.0,Diesel Car Restrictions
+224,4,1,6,3,4,s_27,4.0,Diesel Car Restrictions
+225,3,1,5,4,1,s_27,4.0,Diesel Car Restrictions
+226,6,1,6,5,1,s_27,2.0,Diesel Car Restrictions
+227,2,1,5,6,5,s_27,4.0,Diesel Car Restrictions
+228,6,1,4,5,4,s_27,4.0,Diesel Car Restrictions
+229,8,2,6,4,3,s_27,5.0,Diesel Car Restrictions
+231,10,2,5,1,1,s_27,4.0,Diesel Car Restrictions
+232,7,2,4,4,2,s_27,3.0,Diesel Car Restrictions
+233,9,2,4,6,2,s_27,3.0,Diesel Car Restrictions
+234,9,2,6,6,4,s_27,1.0,Diesel Car Restrictions
+235,3,1,8,6,1,s_27,4.0,Diesel Car Restrictions
+236,6,1,6,2,4,s_27,1.0,Diesel Car Restrictions
+237,3,2,6,2,1,s_27,4.0,Diesel Car Restrictions
+238,4,2,2,1,4,s_27,5.0,Diesel Car Restrictions
+240,6,1,5,6,1,s_27,5.0,Diesel Car Restrictions
+241,6,1,6,2,2,s_27,5.0,Diesel Car Restrictions
+242,6,1,6,2,2,s_27,3.0,Diesel Car Restrictions
+244,6,1,5,6,1,s_27,2.0,Diesel Car Restrictions
+245,3,2,5,4,1,s_27,4.0,Diesel Car Restrictions
+246,9,1,6,6,3,s_27,1.0,Diesel Car Restrictions
+247,4,1,2,1,3,s_27,4.0,Diesel Car Restrictions
+248,3,2,1,1,3,s_27,2.0,Diesel Car Restrictions
+249,5,1,5,4,1,s_27,3.0,Diesel Car Restrictions
+250,8,1,6,2,4,s_27,4.0,Diesel Car Restrictions
+251,7,2,4,3,4,s_27,1.0,Diesel Car Restrictions
+252,9,2,6,4,3,s_27,1.0,Diesel Car Restrictions
+253,2,1,6,2,1,s_27,3.0,Diesel Car Restrictions
+254,9,2,8,4,1,s_27,4.0,Diesel Car Restrictions
+255,6,1,8,5,2,s_27,3.0,Diesel Car Restrictions
+256,8,2,2,5,1,s_27,2.0,Diesel Car Restrictions
+257,2,2,5,5,4,s_27,3.0,Diesel Car Restrictions
+258,3,1,5,6,5,s_27,5.0,Diesel Car Restrictions
+259,5,1,8,5,1,s_27,2.0,Diesel Car Restrictions
+260,6,1,1,4,3,s_27,2.0,Diesel Car Restrictions
+261,6,1,8,4,5,s_27,4.0,Diesel Car Restrictions
+262,1,2,6,4,1,s_27,5.0,Diesel Car Restrictions
+263,7,2,2,4,1,s_27,1.0,Diesel Car Restrictions
+264,2,1,5,6,3,s_27,4.0,Diesel Car Restrictions
+265,6,1,4,3,1,s_27,3.0,Diesel Car Restrictions
+266,6,2,5,2,4,s_27,3.0,Diesel Car Restrictions
+267,4,1,2,2,1,s_27,2.0,Diesel Car Restrictions
+268,2,2,5,6,2,s_27,5.0,Diesel Car Restrictions
+269,6,2,8,5,1,s_27,1.0,Diesel Car Restrictions
+270,3,1,8,1,1,s_27,4.0,Diesel Car Restrictions
+271,6,1,2,1,4,s_27,5.0,Diesel Car Restrictions
+272,6,1,8,6,3,s_27,5.0,Diesel Car Restrictions
+273,7,2,5,4,1,s_27,3.0,Diesel Car Restrictions
+274,5,2,6,6,3,s_27,4.0,Diesel Car Restrictions
+275,2,2,2,1,1,s_27,3.0,Diesel Car Restrictions
+276,1,1,1,2,1,s_27,1.0,Diesel Car Restrictions
+277,3,1,8,1,1,s_27,4.0,Diesel Car Restrictions
+278,5,1,5,5,1,s_27,4.0,Diesel Car Restrictions
+279,2,2,5,3,2,s_27,4.0,Diesel Car Restrictions
+280,6,1,6,5,1,s_27,4.0,Diesel Car Restrictions
+281,6,2,4,4,2,s_27,3.0,Diesel Car Restrictions
+282,5,1,1,1,2,s_27,2.0,Diesel Car Restrictions
+283,8,1,5,5,2,s_27,5.0,Diesel Car Restrictions
+284,3,2,8,6,4,s_27,4.0,Diesel Car Restrictions
+285,7,1,5,3,3,s_27,1.0,Diesel Car Restrictions
+286,6,2,4,6,1,s_27,2.0,Diesel Car Restrictions
+287,2,2,4,3,1,s_27,5.0,Diesel Car Restrictions
+288,4,2,5,3,2,s_27,3.0,Diesel Car Restrictions
+289,7,2,5,6,1,s_27,4.0,Diesel Car Restrictions
+290,5,2,6,6,4,s_27,3.0,Diesel Car Restrictions
+291,8,2,5,6,4,s_27,3.0,Diesel Car Restrictions
+292,9,1,2,1,1,s_27,3.0,Diesel Car Restrictions
+293,4,2,4,4,4,s_27,4.0,Diesel Car Restrictions
+294,3,1,8,6,1,s_27,2.0,Diesel Car Restrictions
+295,6,1,5,2,2,s_27,4.0,Diesel Car Restrictions
+296,3,1,5,6,1,s_27,4.0,Diesel Car Restrictions
+297,2,2,6,4,4,s_27,4.0,Diesel Car Restrictions
+298,1,2,2,1,4,s_27,5.0,Diesel Car Restrictions
+299,6,3,8,3,3,s_27,2.0,Diesel Car Restrictions
+300,3,1,6,6,1,s_27,4.0,Diesel Car Restrictions
+301,3,2,8,2,4,s_27,1.0,Diesel Car Restrictions
+302,9,1,5,6,4,s_27,4.0,Diesel Car Restrictions
+303,2,1,5,4,4,s_27,4.0,Diesel Car Restrictions
+304,2,2,4,2,4,s_27,4.0,Diesel Car Restrictions
+305,10,2,5,6,3,s_27,2.0,Diesel Car Restrictions
+306,10,2,6,6,2,s_27,1.0,Diesel Car Restrictions
+307,4,2,2,2,4,s_27,4.0,Diesel Car Restrictions
+308,8,1,5,1,1,s_27,4.0,Diesel Car Restrictions
+309,3,2,8,6,4,s_27,4.0,Diesel Car Restrictions
+310,6,2,5,5,2,s_27,4.0,Diesel Car Restrictions
+311,6,1,5,6,1,s_27,5.0,Diesel Car Restrictions
+312,2,1,4,6,1,s_27,5.0,Diesel Car Restrictions
